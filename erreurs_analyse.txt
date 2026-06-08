@@ -1,0 +1,711 @@
+========================================================
+      ANALYSE DES ERREURS ET DU TEMPS - DELF B2         
+========================================================
+
+Score final        : 149/195 (76%)
+Temps total écoulé : 531 min 46 sec
+
+--- VITESSE PAR CATÉGORIE ---
+  • Compréhension        : 148.2 sec / question en moyenne
+  • Connecteurs Logiques : 105.5 sec / question en moyenne
+  • Expressions Idiomatiques : 72.5 sec / question en moyenne
+  • Grammaire            : 106.8 sec / question en moyenne
+  • Nuances des Verbes de Mouvement : 106.5 sec / question en moyenne
+  • Sentiments           : 121.4 sec / question en moyenne
+  • Subjonctif           : 62.7 sec / question en moyenne
+  • Subjonctif Irrégulier : 38.4 sec / question en moyenne
+  • Temps                : 123.9 sec / question en moyenne
+  • Vocabulaire          : 50.7 sec / question en moyenne
+
+--- DÉTAIL DES ERREURS ---
+
+Erreur #1 - Catégorie : Grammaire - Contexte - L'Action Continue et le Déclic (Niveau B2)
+Temps de réponse : 75.2 secondes
+Question : « Je _____ sur ma dissertation d'histoire depuis trois heures quand, soudain, j'_____ un véritable trou de mémoire. Impossible de me rappeler la date de la Révolution française ! »
+
+Options :
+  A) suis en train de plancher / avais eu
+  B) planchais / ai eu
+  C) ai planché / avais
+  D) planchais / avais
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : B
+Explication     : To translate 'I had been working hard when suddenly my mind went blank', French uses the Imparfait ('planchais' from the slang 'plancher sur' = to work hard on an exam/paper) to set the ongoing background action, interrupted by the Passé Composé ('ai eu') for the sudden event. 'Un trou de mémoire' means a memory lapse / mind goes blank.
+--------------------------------------------------------
+
+Erreur #2 - Catégorie : Subjonctif Irrégulier - Savoir (Nécessité)
+Temps de réponse : 11.3 secondes
+Question : « Il faut que vous _____ que c'est une révolution dans l'histoire du commerce, et non un simple magasin. »
+
+Options :
+  A) savez
+  B) saviez
+  C) sachiez
+  D) sachez
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : L'expression de nécessité « Il faut que » déclenche toujours le subjonctif. Le verbe « savoir » possède un radical irrégulier au subjonctif (sach-). Conjugué avec « vous », on obtient « sachiez ».
+--------------------------------------------------------
+
+Erreur #3 - Catégorie : Compréhension - Psychologie et Prétextes (Niveau C1)
+Temps de réponse : 310.5 secondes
+Question : Que suggère ce texte concernant l'argumentation théâtrale déployée par l'acteur ?
+
+Options :
+  A) C'est une démarche sincère pour améliorer la qualité du scénario.
+  B) C'est un écran de fumée verbal destiné à dissimuler un caprice de vanité.
+  C) C'est une technique courante pour négocier un cachet plus élevé.
+  D) C'est la preuve de son conflit personnel profond avec le réalisateur.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : L'expression « masquer une vérité bien plus triviale » indique que l'acteur utilise des mots intellectuels (écran de fumée) pour cacher une préoccupation purement narcissique (son brushing).
+--------------------------------------------------------
+
+Erreur #4 - Catégorie : Temps - Durée - L'Achèvement vs Le Départ (Niveau B2)
+Temps de réponse : 100.1 secondes
+Question : « L'ingénieur a réussi à réparer le serveur _____ deux heures. Il m'a assuré que le système serait de nouveau complètement opérationnel _____ dix minutes. »
+
+Options :
+  A) pendant / pour
+  B) en / dans
+  C) dans / en
+  D) depuis / d'ici
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : « En » exprime la durée totale nécessaire pour accomplir et terminer une action (It took him 2 hours to fix it). « Dans » indique le moment futur où une action va se réaliser à partir de l'instant présent (It will be operational in 10 minutes).
+--------------------------------------------------------
+
+Erreur #5 - Catégorie : Compréhension - Ton et Implicite (Niveau C1)
+Temps de réponse : 179.8 secondes
+Question : Que signifie l'expression « cousu de fil blanc » dans ce contexte précis ?
+
+Options :
+  A) Que la disparition des documents a été réparée informatiquement avec habileté.
+  B) Que la stratégie juridique de l'avocat est construite de manière très discrète.
+  C) Que l'explication fournie par le directeur est trop grossière pour tromper quiconque.
+  D) Que l'entreprise a tenté de dissimuler des preuves à l'intérieur de vêtements.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : L'expression française « cousu de fil blanc » s'utilise pour qualifier un artifice, un mensonge ou une excuse tellement grossière et visible qu'elle ne peut tromper personne. Le ton de l'avocat (narquois/moqueur) confirme qu'il n'y croit pas une seconde.
+--------------------------------------------------------
+
+Erreur #6 - Catégorie : Compréhension - Sous-entendus et Hypocrisie (Niveau B2+)
+Temps de réponse : 330.1 secondes
+Question : L'attitude d'Andréa face aux critiques de son client sur le scénario démontre qu'elle :
+
+Options :
+  A) Partage sincèrement son indignation face à la pauvreté littéraire des dialogues.
+  B) Tente de le manipuler pour qu'il accepte malgré tout une forte baisse de salaire.
+  C) Joue le jeu de la complaisance tout en connaissant ses véritables motivations inavouables.
+  D) Est complètement ignorante des récents scandales touchant le réalisateur du film.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : L'expression « opina du chef avec une compassion feinte » (nodded with fake compassion) révèle l'hypocrisie professionnelle. Elle fait semblant de valider son excuse artistique, alors qu'elle sait qu'il veut juste fuir un scandale de presse.
+--------------------------------------------------------
+
+Erreur #7 - Catégorie : Temps - Durée - Le Futur Antérieur (Niveau C1)
+Temps de réponse : 161.1 secondes
+Question : Comment exprimeriez-vous 'By the time you return, I will have finished the slides' ?
+
+Options :
+  A) D'ici à ce que vous reveniez, j'aurai terminé les diapositives.
+  B) Jusqu'à ce que vous revenez, je finirai les diapositives.
+  C) Quand vous allez revenir, j'avais terminé les diapositives.
+  D) D'ici à ce que vous reviendrez, j'aurais terminé les diapositives.
+
+Votre réponse   : B (Incorrecte)
+Bonne réponse   : A
+Explication     : Pour traduire 'By the time' (ou l'accomplissement d'une action avant une autre dans le futur), le français utilise « D'ici à ce que » (+ subjonctif 'reveniez') suivi obligatoirement du Futur Antérieur (auxiliaire au futur + participe passé : j'aurai terminé). C'est l'équivalent parfait du Future Perfect anglais.
+--------------------------------------------------------
+
+Erreur #8 - Catégorie : Grammaire - Plus-que-parfait (Niveau B2)
+Temps de réponse : 45.4 secondes
+Question : Complétez la phrase : « Les ouvriers _____ le chantier de tous les déchets dangereux quelques heures auparavant. »
+
+Options :
+  A) ont débarrassé
+  B) avaient débarrassé
+  C) débarrassaient
+  D) auraient débarrassé
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : The action 'avoir lieu' (to take place)  is in the passé composé (a eu lieu). The adverb 'auparavant' (previously/beforehand)  indicates that the action of clearing ('débarrasser')  the site ('chantier')  happened even further in the past, triggering the plus-que-parfait (avaient débarrassé).
+--------------------------------------------------------
+
+Erreur #9 - Catégorie : Compréhension - Expressions de la Vie Sociale (Niveau C1)
+Temps de réponse : 143.5 secondes
+Question : Quel idiome décrit le mieux l'action commise par Thomas lors de ce dîner ?
+
+Options :
+  A) Il a jeté l'éponge.
+  B) Il a mis les pieds dans le plat.
+  C) Il a raconté des salades.
+  D) Il a tourné autour du pot.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : « Mettre les pieds dans le plat » (to put one's feet in the dish) signifie aborder un sujet tabou, délicat ou gênant avec une maladresse totale, souvent sans s'en rendre compte, détruisant ainsi l'ambiance.
+--------------------------------------------------------
+
+Erreur #10 - Catégorie : Temps - Durée - Les Prépositions (Niveau B2)
+Temps de réponse : 158.7 secondes
+Question : « Je suis disponible _____ six mois à partir de septembre. J'ai d'ailleurs réussi à rédiger la première partie de ma thèse _____ seulement trois semaines. »
+
+Options :
+  A) pendant / pour
+  B) pour / en
+  C) depuis / pendant
+  D) en / dans
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : B
+Explication     : « Pour » exprime une durée *prévue dans le futur* (I am available *for* six months). « En » exprime le *temps nécessaire* pour accomplir une action complétée (I managed to write it *in* three weeks).
+--------------------------------------------------------
+
+Erreur #11 - Catégorie : Compréhension - Dégager l'idée principale (Niveau B2/C1)
+Temps de réponse : 141.2 secondes
+Question : Quel message fondamental le présentateur cherche-t-il à insuffler à son auditoire ?
+
+Options :
+  A) Le désir de créer une émission de télévision pour dénoncer la corruption des élites.
+  B) La nécessité d'assumer son ambition sans culpabilité pour se forger un avenir.
+  C) L'urgence de modifier les lois fiscales pour faciliter l'entrepreneuriat face à la crise.
+  D) L'importance de rester très humble et discret lorsqu'on atteint enfin la richesse.
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : B
+Explication     : Tout le discours tourne autour de la décomplexion face à la réussite (« cesser d'avoir honte », « considérer une victoire comme une anomalie », « tient son destin entre ses mains »). L'option D est l'exact opposé de son propos.
+--------------------------------------------------------
+
+Erreur #12 - Catégorie : Compréhension - Métaphore et Ton (Niveau B2+)
+Temps de réponse : 217.0 secondes
+Question : L'utilisation de la métaphore du « château Playmobil » par l'assistante sert avant tout à souligner :
+
+Options :
+  A) La taille dérisoire des locaux de l'agence parisienne par rapport à ceux de Londres.
+  B) Le mépris affiché du nouveau patron pour le cinéma d'auteur et l'art dramatique.
+  C) Le décalage entre la richesse du propriétaire et le manque d'enjeux financiers qu'il perçoit dans cet investissement.
+  D) L'immaturité flagrante et le comportement profondément enfantin du nouveau directeur au quotidien.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : Un jouet Playmobil représente un achat financièrement insignifiant pour un adulte. L'option D est un piège (interprétation littérale du mot « jouet »). La métaphore illustre que pour un millionnaire, ASK est une dépense mineure qui ne menace pas son capital (il l'a achetée comme on achète un petit jouet).
+--------------------------------------------------------
+
+Erreur #13 - Catégorie : Compréhension - L'implicite et l'attitude (Niveau B2/C1)
+Temps de réponse : 211.8 secondes
+Question : Selon ce passage, la réaction des agents face au décès de leur patron est principalement caractérisée par :
+
+Options :
+  A) Une profonde dépression qui paralyse totalement l'activité de l'agence.
+  B) Une préoccupation immédiate et pragmatique pour les enjeux de pouvoir.
+  C) Une volonté unanime de vendre l'entreprise pour éviter la faillite.
+  D) Un déni collectif quant à la réalité de la disparition de leur mentor.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : L'implicite du texte montre que le deuil est de façade (« une fois les larmes séchées ») et que la véritable priorité est le « contrôle financier » et l'héritage des parts.
+--------------------------------------------------------
+
+Erreur #14 - Catégorie : Nuances des Verbes de Mouvement - Académique (Niveau B2)
+Temps de réponse : 79.9 secondes
+Question : « Attendez-moi ici. Je dois _____ à la BU parce que j'y ai oublié mes manuels. Je vous les _____ dans la salle d'étude d'ici dix minutes. »
+
+Options :
+  A) retourner / apporte
+  B) revenir / amène
+  C) rentrer / rapporte
+  D) retourner / amène
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : A
+Explication     : French movement verbs are surgical. You use 'retourner' because you are going back to a place where you currently are *not* (the BU). You use 'apporter' (to bring) because books are inanimate objects. You never 'amène' (lead/bring a person) a book.
+--------------------------------------------------------
+
+Erreur #15 - Catégorie : Nuances des Verbes de Mouvement - S'éloigner d'un lieu (Niveau C1)
+Temps de réponse : 133.1 secondes
+Question : « C'est décidé, je vais _____ cette entreprise à la fin du mois. En attendant, j'ai besoin de _____ de cette salle pour respirer un peu. »
+
+Options :
+  A) partir / quitter
+  B) quitter / sortir
+  C) sortir / partir
+  D) quitter / partir
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : La nuance est stricte en français. « Quitter » est un verbe transitif direct : il doit être suivi d'un COD (quitter l'entreprise, quitter une personne). « Partir » est intransitif (partir de l'entreprise). « Sortir » s'utilise pour indiquer l'action physique de passer de l'intérieur à l'extérieur d'un espace clos (sortir de la salle).
+--------------------------------------------------------
+
+Erreur #16 - Catégorie : Grammaire - Contexte - Négation Quantitative (ne... ni... ni / ne... pas non plus) (Niveau B2)
+Temps de réponse : 233.1 secondes
+Question : Face à la tentative de sauvetage de Pignon, Pierre réalise que :
+
+Options :
+  A) Sa femme a réussi à trouver refuge chez une troisième personne inconnue.
+  B) Toutes les pistes pour retrouver sa femme sont bloquées et ses amis le rejettent.
+  C) Leblanc a secrètement accepté de cacher sa femme pour le faire souffrir.
+  D) Pignon refuse catégoriquement de l'aider à appeler d'autres contacts.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : La double négation « n'est ni chez X ni chez Y » exclut totalement les deux options. L'ajout de « ne veut pas non plus » (doesn't want to either) ajoute une couche de rejet. Pierre comprend que toutes ses options sont fermées.
+--------------------------------------------------------
+
+Erreur #17 - Catégorie : Subjonctif Irrégulier - Aller (La Volonté et la Colère)
+Temps de réponse : 36.8 secondes
+Question : « Pour que ce désastre cesse, j'exige que notre responsable logistique _____ immédiatement sur le terrain pour repérer la source du problème en personne. »
+
+Options :
+  A) va
+  B) ira
+  C) aille
+  D) aillent
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : Le verbe « exiger que » exprime une volonté impérieuse et déclenche toujours le subjonctif. Le verbe irrégulier « aller » prend le radical « aill- » au singulier, ce qui donne « aille » à la 3e personne du singulier.
+--------------------------------------------------------
+
+Erreur #18 - Catégorie : Compréhension - L'antiphrase et l'Agressivité verbale (Niveau C1)
+Temps de réponse : 177.8 secondes
+Question : La réplique de l'actrice envers son partenaire constitue principalement :
+
+Options :
+  A) Une tentative maladroite de détendre l'atmosphère par l'humour.
+  B) Une admiration avouée pour sa capacité à improviser face à la caméra.
+  C) Un conseil professionnel bienveillant pour l'aider à mémoriser son texte.
+  D) Une attaque passive-agressive utilisant des louanges simulées.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : D
+Explication     : L'utilisation de mots mélioratifs (« merveilleuse constance », « force le respect », « fascinant ») couplée à un « sourire glacial » et au contexte de « guerre » définit parfaitement l'antiphrase, une technique d'agression passive très française.
+--------------------------------------------------------
+
+Erreur #19 - Catégorie : Expressions Idiomatiques - et Administration (Niveau C1)
+Temps de réponse : 94.3 secondes
+Question : « Franchement, s'inscrire sur le site de la CAF, c'est _____ ! Ils me demandent des papiers impossibles à trouver. J'ai bien cru que j'allais _____ ! »
+
+Options :
+  A) du gâteau / tomber dans les pommes
+  B) la croix et la bannière / péter un plomb
+  C) un parcours de santé / jeter l'éponge
+  D) tiré par les cheveux / faire la grève
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : « C'est la croix et la bannière » est l'expression absolue pour dire que quelque chose est atrocement compliqué et fastidieux (très utilisé pour critiquer la bureaucratie française). « Péter un plomb » (ou péter un câble) est une expression familière indispensable signifiant s'énerver violemment, perdre patience.
+--------------------------------------------------------
+
+Erreur #20 - Catégorie : Subjonctif - L'Attente (Le Temps)
+Temps de réponse : 103.5 secondes
+Question : « J'en avais marre d'attendre que ta carrière _____, pour revoir mes 10 000 balles. »
+
+Options :
+  A) décolle
+  B) décollera
+  C) décollait
+  D) décollé
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : A
+Explication     : La construction « attendre que » (to wait until) exprime l'anticipation d'une action incertaine dans le futur, ce qui rend le subjonctif obligatoire.
+--------------------------------------------------------
+
+Erreur #21 - Catégorie : Temps - Durée et Concordance (Niveau B2)
+Temps de réponse : 112.0 secondes
+Question : Comment l'étudiant doit-il exprimer « I have been waiting for my transcript for three mois » en français correct ?
+
+Options :
+  A) J'ai attendu mon relevé de notes pour trois mois.
+  B) J'attends mon relevé de notes depuis trois mois.
+  C) J'avais attendu mon relevé de notes depuis trois mois.
+  D) Je suis en train d'attendre mon relevé de notes pendant trois mois.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : C'est un piège classique de traduction (Tense Mapping). En anglais, on utilise le 'Present Perfect Continuous' (I have been waiting). En français, pour une action qui a commencé dans le passé et qui *continue encore* au moment où l'on parle, on utilise obligatoirement le **Présent + depuis**. Le terme académique pour 'transcript' est 'relevé de notes'.
+--------------------------------------------------------
+
+Erreur #22 - Catégorie : Temps - Durée - Le "Past Perfect Continuous" (Niveau C1)
+Temps de réponse : 191.7 secondes
+Question : « Au moment de la fermeture de l'entreprise, j'y _____ responsable marketing _____ trois ans. C'était un choc total. »
+
+Options :
+  A) ai été / pendant
+  B) étais / pour
+  C) étais / depuis
+  D) avais été / il y a
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : This targets a major English-to-French tense mapping trap. In English, you use the Past Perfect Continuous ('I had been working there for 3 years'). In French, to express an action that started in the past and was *still ongoing* at a specific past reference point (the bankruptcy), you must use the Imparfait + depuis (J'y étais depuis 3 ans).
+--------------------------------------------------------
+
+Erreur #23 - Catégorie : Nuances des Verbes de Mouvement - S'éloigner (Niveau C1)
+Temps de réponse : 136.7 secondes
+Question : « N'oublie pas d'_____ ton passeport avec toi ! Et dépêche-toi, le taxi nous attend en bas, il faut que je t'_____ à l'aéroport avant 15h. »
+
+Options :
+  A) amener / apporte
+  B) emporter / emmène
+  C) apporter / amène
+  D) emmener / emporte
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : B
+Explication     : C'est la règle d'éloignement (to take away from the current location). Pour un objet inanimé (le passeport), on utilise « emporter » (to take away a thing). Pour un être humain (le petit frère), on utilise « emmener » (to take away a person). Amener/apporter s'utilisent pour un mouvement de rapprochement.
+--------------------------------------------------------
+
+Erreur #24 - Catégorie : Compréhension - Distracteurs de Portée (Niveau B2+)
+Temps de réponse : 201.1 secondes
+Question : Quel est le thème principal de ce texte ?
+
+Options :
+  A) La formation technique des ouvriers spécialisés en France.
+  B) Le retour aux matériaux traditionnels dans la construction écologique.
+  C) L'impact de la pollution du béton sur la santé des travailleurs.
+  D) L'utilisation exclusive du bois pour remplacer la pierre sur les chantiers.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : This tests the 'Too Broad/Too Narrow' trap. Option A is too narrow (it's only a supporting detail mentioned at the end regarding 'ouvriers' ). Option C mentions 'santé', which is never discussed. Option D uses absolute language ('exclusivement') which contradicts the text that mentions building ('bâtir')  with both 'pierre' and 'bois'. Option B correctly encompasses the whole paragraph.
+--------------------------------------------------------
+
+Erreur #25 - Catégorie : Compréhension - Négation Restrictive (ne... que) et Temporelle (ne... jamais) (Niveau C1)
+Temps de réponse : 683.5 secondes
+Question : Quelle conclusion morale se dégage de cette confrontation entre Brochant et Pignon ?
+
+Options :
+  A) La maladresse de François a définitivement prouvé qu'il ne méritait aucune amitié.
+  B) L'arrogance de Pierre l'a protégé des véritables dangers de la société bourgeoise.
+  C) La sincérité et l'humanité se trouvent parfois chez ceux que l'on méprise le plus.
+  D) Il ne faut jamais inviter d'inconnus chez soi, peu importe les circonstances.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : La restriction « ne l'avait conduit qu'à sa propre perte » (had led him *only* to his own ruin) et la négation temporelle « ne montraient jamais » (never showed) soulignent l'ironie morale du film : le « con » (l'idiot méprisé) a plus de cœur et d'humanité que le riche snob.
+--------------------------------------------------------
+
+Erreur #26 - Catégorie : Vocabulaire - Académique et Familier (Niveau B2+)
+Temps de réponse : 221.2 secondes
+Question : « Si tu continues à _____ les cours magistraux, tu vas devoir _____ toute la nuit avant l'examen pour espérer rattraper ton retard ! »
+
+Options :
+  A) sécher / bûcher
+  B) rater / pioncer
+  C) assister à / tricher
+  D) couper / bosser
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : A
+Explication     : « Sécher un cours » (to skip/ditch a class) est l'expression étudiante par excellence. « Bûcher » signifie étudier très intensément, travailler dur (to cram/study hard). « Pioncer » est un mot d'argot signifiant dormir.
+--------------------------------------------------------
+
+Erreur #27 - Catégorie : Grammaire - Subjonctif de Concession et d'Indignation (Niveau C1)
+Temps de réponse : 395.3 secondes
+Question : Que traduit l'usage des subordonnées au subjonctif dans la réflexion de Mathias (« Qu'il exige... soit. Mais qu'il nous traite... ») ?
+
+Options :
+  A) L'expression d'un ordre formel qu'il s'apprête à donner à son propre supérieur.
+  B) Le doute profond de Mathias quant aux véritables compétences financières de Hisham.
+  C) Une concession résignée sur un fait d'abord, suivie d'une profonde indignation face à un autre.
+  D) Le désir ardent de voir Hisham modifier ses méthodes de travail dans les plus brefs délais.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : La structure « Que + [Subjonctif], soit » est une formule classique pour concéder un argument (« J'accepte le fait qu'il exige de la rentabilité »). Elle est immédiatement mise en opposition avec un deuxième subjonctif (« Mais qu'il nous traite... ») qui exprime, lui, le rejet viscéral et l'indignation. C'est une figure de style très élégante pour argumenter.
+--------------------------------------------------------
+
+Erreur #28 - Catégorie : Temps - Durée - Échéance et Réalisation (Niveau B2+)
+Temps de réponse : 88.7 secondes
+Question : « Je veux que ce dossier me soit remis _____ exactement deux semaines. Si vous vous concentrez et que vous travaillez en équipe, vous êtes tout à fait capables de l'écrire _____ trois jours. »
+
+Options :
+  A) dans / en
+  B) en / dans
+  C) pour / pendant
+  D) pendant / depuis
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : A
+Explication     : « Dans » indique l'échéance future à partir du moment présent (In exactly two weeks = dans 2 semaines). « En » indique la quantité de temps nécessaire pour accomplir et terminer la tâche (It can be written in 3 days = en 3 jours).
+--------------------------------------------------------
+
+Erreur #29 - Catégorie : Subjonctif - Conjonction de But
+Temps de réponse : 36.4 secondes
+Question : « Je voudrais juste qu'on arrive à tout mettre sur la table. Pour que ce gars _____ aussi la chance d'avoir un avenir. »
+
+Options :
+  A) a
+  B) aura
+  C) ait
+  D) avait
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : La conjonction de but « pour que » impose le subjonctif. La forme irrégulière du verbe « avoir » à la troisième personne du singulier (ce gars) est « ait ».
+--------------------------------------------------------
+
+Erreur #30 - Catégorie : Sentiments - Abstraits - La Culpabilité vs La Rancune (Niveau C1)
+Temps de réponse : 253.2 secondes
+Question : « Franchement, je _____ à Marc de m'avoir laissé tomber comme ça. Mais au fond, je _____ aussi de ne pas avoir été plus ferme avec lui dès le début du semestre. »
+
+Options :
+  A) m'en veux / lui en veux
+  B) lui en veux / m'en veux
+  C) le regrette / me regrette
+  D) lui suis coupable / me suis coupable
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : Le verbe idiomatique « en vouloir à quelqu'un » signifie ressentir de la rancune, être fâché contre quelqu'un (I hold a grudge against him = Je lui en veux). À l'inverse, la forme pronominale « s'en vouloir » signifie se sentir coupable (I am mad at myself = Je m'en veux).
+--------------------------------------------------------
+
+Erreur #31 - Catégorie : Subjonctif Irrégulier - Aller (Volonté)
+Temps de réponse : 92.6 secondes
+Question : « Je tiens à ce que nous _____ le plus loin possible pour ne jamais nous sentir limités. »
+
+Options :
+  A) allons
+  B) allions
+  C) irons
+  D) aillions
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : L'expression de la volonté (« tenir à ce que ») exige le subjonctif. Attention au piège : pour « nous » et « vous », le subjonctif de « aller » utilise le radical de l'imparfait (all-), ce qui donne « allions », et non « aillions ».
+--------------------------------------------------------
+
+Erreur #32 - Catégorie : Subjonctif - L'Émotion (La Peur)
+Temps de réponse : 222.1 secondes
+Question : « Plus le temps passait, plus les gens nous sentaient favoris. Et on avait tous peur qu'ils _____ déçus. »
+
+Options :
+  A) sont
+  B) seront
+  C) soient
+  D) été
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : L'expression « avoir peur que » exprime une émotion et déclenche toujours l'utilisation du subjonctif. Le subjonctif présent de « être » pour « ils » est « soient ».
+--------------------------------------------------------
+
+Erreur #33 - Catégorie : Temps - Durée - Le Piège du Présent (Niveau B2+)
+Temps de réponse : 115.4 secondes
+Question : Sélectionnez la phrase qui est grammaticalement et sémantiquement correcte en français :
+
+Options :
+  A) Je suis arrivé à Paris il y a deux ans, et j'habite dans ce quartier depuis 2024.
+  B) J'arrive à Paris depuis deux ans, et j'ai habité dans ce quartier pour 2024.
+  C) Je suis arrivé à Paris depuis deux ans, et j'habite dans ce quartier il y a 2024.
+  D) J'habitais à Paris pendant deux ans, et j'y arrive depuis 2024.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : A
+Explication     : « Il y a » (ago) + Passé composé indique le moment précis où l'action s'est terminée dans le passé (I arrived 2 years ago). « Depuis » (since/for) + Présent indique une situation qui a commencé dans le passé et qui est toujours vraie au présent (I have been living here since 2024).
+--------------------------------------------------------
+
+Erreur #34 - Catégorie : Sentiments - Motivation - Le Langage Familier/Courant (Niveau B2+)
+Temps de réponse : 99.6 secondes
+Question : Quel est le sentiment exact exprimé par Chloé avec l'expression « j'ai la flemme » ?
+
+Options :
+  A) Elle ressent une douleur physique soudaine semblable à la grippe.
+  B) Elle est profondément déprimée et ressent une grande tristesse.
+  C) Elle ressent un manque total de motivation et une envie de paresser.
+  D) Elle est terrifiée à l'idée d'être interrogée par le professeur.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : « Avoir la flemme » est une expression familière indispensable en France. Cela signifie « to feel too lazy to do something / can't be bothered ». Ne pas confondre avec « avoir le cafard » (qui signifie être déprimé/triste).
+--------------------------------------------------------
+
+Erreur #35 - Catégorie : Subjonctif - L'Obligation / La Nécessité
+Temps de réponse : 11.5 secondes
+Question : « Il faut que tu _____ l'affaire. Sinon, ils vont te broyer. Tu m'entends ? »
+
+Options :
+  A) lâche
+  B) lâches
+  C) lâchais
+  D) lâcheras
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : B
+Explication     : N'oubliez pas que pour les verbes réguliers du premier groupe (-er), le subjonctif présent avec « tu » prend toujours un « -s » (que tu lâches) après la structure d'obligation « Il faut que ».
+--------------------------------------------------------
+
+Erreur #36 - Catégorie : Grammaire - Subjonctif et Hyperbole (Niveau B2)
+Temps de réponse : 225.8 secondes
+Question : Dans l'expression « et il faudrait que vous ne puissiez pas patienter », l'utilisation du subjonctif se justifie par :
+
+Options :
+  A) L'expression d'un doute concernant la capacité des invités à attendre.
+  B) La volonté de formuler un vœu ou une bénédiction envers les invités.
+  C) L'utilisation de la structure impersonnelle indiquant ici l'indignation et la nécessité.
+  D) L'évocation d'une action historique qui s'est déroulée dans le désert.
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : La structure « Il faut que / il faudrait que » déclenche toujours le subjonctif pour marquer l'obligation ou, dans ce cas précis (au conditionnel), l'indignation face à une exigence qu'elle juge ridicule.
+--------------------------------------------------------
+
+Erreur #37 - Catégorie : Grammaire - L'Hypothèse et le Regret (Niveau C1)
+Temps de réponse : 479.5 secondes
+Question : Quelle information temporelle ou logique est exprimée par la structure « S'il n'avait pas craint [...] il aurait clarifié » ?
+
+Options :
+  A) Une action inévitable dans le futur qui va définitivement détruire l'agence.
+  B) L'anticipation d'un scandale médiatique imminent qu'il n'a pas pu éviter.
+  C) Un reproche direct adressé à Gabriel pour son manque de compréhension émotionnelle.
+  D) Une condition irréelle dans le passé expliquant le motif de son long silence.
+
+Votre réponse   : B (Incorrecte)
+Bonne réponse   : D
+Explication     : La structure [Si + Plus-que-parfait] suivie du [Conditionnel Passé] exprime l'irréel du passé. Mathias a eu peur (c'est un fait), donc il n'a rien dit. La phrase explique que si la situation avait été différente (ce qui est faux), il aurait agi autrement.
+--------------------------------------------------------
+
+Erreur #38 - Catégorie : Nuances des Verbes de Mouvement - et d'Action (Niveau B2)
+Temps de réponse : 237.8 secondes
+Question : « Tous les étudiants doivent impérativement _____ les livres qu'ils ont empruntés avant le 15 juin. Ceux qui souhaitent _____ un invité extérieur à la fête de fin d'année doivent l'inscrire sur la liste. »
+
+Options :
+  A) ramener / rapporter
+  B) rapporter / ramener
+  C) rentrer / rendre
+  D) remettre / retourner
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : B
+Explication     : Le français distingue l'objet et la personne. « Rapporter » s'utilise pour une chose inanimée (bring back a book). « Ramener » s'utilise pour un être humain ou un animal qu'on mène avec soi (bring a guest). Même si beaucoup de Français font l'erreur à l'oral, le DELF pénalise cette confusion.
+--------------------------------------------------------
+
+Erreur #39 - Catégorie : Sentiments - Espoir et Implicite (Niveau C1)
+Temps de réponse : 81.1 secondes
+Question : Que craint l'étudiant à travers l'expression « poser un lapin » ?
+
+Options :
+  A) Que leur camarade n'apporte un animal de compagnie non autorisé en classe.
+  B) Que leur camarade ne vienne pas au rendez-vous sans les avoir prévenus.
+  C) Que leur camarade fasse une blague de mauvais goût pendant la présentation.
+  D) Que leur camarade décide d'abandonner définitivement ses études.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : B
+Explication     : « Poser un lapin à quelqu'un » est l'expression idiomatique classique pour dire « to stand someone up » (ne pas se présenter à un rendez-vous). Notez la grammaire : contrairement à beaucoup de langues romanes, « espérer que » est suivi de *l'indicatif* (va) en français, et non du subjonctif, car il exprime une certitude souhaitée.
+--------------------------------------------------------
+
+Erreur #40 - Catégorie : Sentiments - Idiomes - La Dépression (Niveau B2)
+Temps de réponse : 98.8 secondes
+Question : « Ne lui en veux pas s'il ne te rappelle pas. Depuis l'annonce des résultats, il _____. Il faut lui laisser le temps d'encaisser le choc. »
+
+Options :
+  A) cherche midi à quatorze heures
+  B) met les points sur les i
+  C) broie du noir
+  D) tombe dans les pommes
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : « Broyer du noir » (littéralement : to grind black) est une expression idiomatique très courante qui signifie être profondément déprimé, avoir des pensées sombres et négatives. L'équivalent de 'feeling blue'.
+--------------------------------------------------------
+
+Erreur #41 - Catégorie : Connecteurs Logiques - (Niveau B2)
+Temps de réponse : 217.6 secondes
+Question : Quel connecteur logique convient le mieux pour combler l'espace et exprimer l'opposition ?
+
+Options :
+  A) Parce qu'
+  B) Malgré qu'
+  C) Bien qu'
+  D) Cependant qu'
+
+Votre réponse   : B (Incorrecte)
+Bonne réponse   : C
+Explication     : Le passage exprime une concession/opposition. « Bien que » (Although) est le seul connecteur de la liste qui soit correct et qui exige d'être suivi par le subjonctif (« ait déconseillé »). Attention : « Malgré que » est généralement considéré comme incorrect en français soutenu, sauf avec le verbe avoir (Malgré qu'il en ait).
+--------------------------------------------------------
+
+Erreur #42 - Catégorie : Sentiments - Sensations - Concret vs Abstrait (Niveau B2+)
+Temps de réponse : 163.1 secondes
+Question : « Je vous avoue que j'_____ un trac immense. J'_____ à respirer normalement et, avec la tension accumulée, j'_____ au crâne depuis ce matin. »
+
+Options :
+  A) ai / ai du mal / ai mal
+  B) suis / ai de la difficulté / ai douleur
+  C) fais / ai mal / ai du mal
+  D) ai / ai mal / ai du mal
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : A
+Explication     : Idiomatic feeling expressions: 'Avoir le trac' (to have stage fright). 'Avoir du mal à' + [infinitive] is the abstract psychological/physical difficulty (trouble breathing). 'Avoir mal à' + [body part] is the concrete physical pain (my head hurts).
+--------------------------------------------------------
+
+Erreur #43 - Catégorie : Compréhension - Vie Quotidienne (Logement) [Difficulté : Difficile]
+Temps de réponse : 110.5 secondes
+Question : Selon cette note, quelle démarche les locataires victimes du problème doivent-ils accomplir ?
+
+Options :
+  A) Prévenir le syndic avant l'arrivée du plombier jeudi matin.
+  B) Payer les réparations liées aux dommages causés au 3ème étage.
+  C) Envoyer un document spécifique à leur compagnie d'assurance rapidement.
+  D) Déclarer le sinistre au plombier dans un délai de cinq jours.
+
+Votre réponse   : D (Incorrecte)
+Bonne réponse   : C
+Explication     : « Transmettre leur constat amiable à leur assurance habitation dans les cinq jours » correspond à l'envoi rapide d'un document à l'assurance. Les mots « dégât des eaux » (water damage) et « sinistre » (incident/claim) sont incontournables au niveau B2.
+--------------------------------------------------------
+
+Erreur #44 - Catégorie : Compréhension - Analyse de Graphique
+Temps de réponse : 14.2 secondes
+Question : Quel graphique correspond à ce commentaire ?
+
+Options :
+  A) Graphique 1
+  B) Graphique 2
+  C) Graphique 3
+  D) Graphique 4
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : D
+Explication     : Le commentaire mentionne des « fluctuations » (des hauts et des bas, ce qui élimine les graphiques 1 et 3) et indique une « performance record au mois de mai » (ce qui correspond au pic géant du Graphique 4, contrairement au Graphique 2 qui a son pic en mars).
+--------------------------------------------------------
+
+Erreur #45 - Catégorie : Subjonctif Irrégulier - Aller (Nécessité)
+Temps de réponse : 62.5 secondes
+Question : « Je suis dans la merde, il faut absolument que j'_____ à mon rendez-vous bancaire avec un costume correct. »
+
+Options :
+  A) vais
+  B) irai
+  C) aille
+  D) aille
+
+Votre réponse   : A (Incorrecte)
+Bonne réponse   : C
+Explication     : La nécessité exprimée par « il faut que » impose le subjonctif. Le verbe « aller » utilise le radical irrégulier « aill- » au singulier, ce qui donne « aille » à la première personne.
+--------------------------------------------------------
+
+Erreur #46 - Catégorie : Subjonctif Irrégulier - Savoir (L'Émotion et la Honte)
+Temps de réponse : 47.7 secondes
+Question : « J'ai terriblement honte que le reste de l'équipe _____ la vérité sur mon erreur de calcul. »
+
+Options :
+  A) sache
+  B) sait
+  C) sachait
+  D) saura
+
+Votre réponse   : C (Incorrecte)
+Bonne réponse   : A
+Explication     : Expressions of emotion, such as 'avoir honte que' (to be ashamed that) or 'craindre que' (to fear that), trigger the subjunctive. The irregular subjunctive stem for 'savoir' is 'sach-'. 'L'équipe' is third-person singular, so the correct conjugation is 'sache'.
+--------------------------------------------------------
+

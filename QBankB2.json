@@ -1,0 +1,2529 @@
+[
+  {
+    "category": "Vocabulaire - Collocations & Faux-amis (Niveau B2)",
+    "document": "Dans le monde de l'entreprise, il est crucial de savoir employer les bons termes pour ne pas trahir une traduction littérale de l'anglais.",
+    "question": "Afin de finaliser la _____ de votre contrat sans pénalité, le service financier a _____ la décision d'annuler votre _____ bancaire automatique.",
+    "options": {
+      "A": "coupure / fait / virement",
+      "B": "résiliation / pris / virement",
+      "C": "fin / eu / frais",
+      "D": "résiliation / fait / préavis"
+    },
+    "answer": "B",
+    "explanation": "This targets a classic Anglophone trap and your thematic vocabulary. In French, you do not 'make a decision' (faire une décision), you 'take a decision' (prendre une décision). Furthermore, to cancel a contract in administrative terms is a 'résiliation' , and an automatic bank transfer is a 'virement'."
+  },
+  {
+    "category": "Compréhension - Ton, Ironie et Implicite (Niveau C1)",
+    "document": "L'employé subalterne expliqua, avec une mine prétendument désolée, que le rapport financier avait été effacé par une mise à jour imprévue du serveur. La directrice l'écouta en silence, un sourire narquois se dessinant sur ses lèvres. « Bien sûr, une faille dans l'ingénierie des systèmes... C'est fascinant comme l'informatique a le sens du timing juste avant notre audit. Je vous remercie pour cette explication lumineuse. »",
+    "question": "Que révèle la réaction de la directrice face à l'employé ?",
+    "options": {
+      "A": "Elle est impressionnée par l'explication technique de son subalterne.",
+      "B": "Elle éprouve de la honte de ne pas comprendre l'ingénierie des systèmes.",
+      "C": "Elle feint l'admiration pour dénoncer un mensonge cousu de fil blanc.",
+      "D": "Elle est sincèrement soulagée d'avoir trouvé l'origine de l'imprévu."
+    },
+    "answer": "C",
+    "explanation": "The director's 'sourire narquois' (mocking smile)  and the use of the word 'fascinant' to describe a highly convenient computer crash is pure sarcasm. She recognizes his excuse is a 'mensonge'  that is 'cousu de fil blanc' (too obvious to fool anyone)[cite: 60, 61]."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée (Niveau B2+)",
+    "document": "Aujourd'hui, de plus en plus d'architectes décident de tourner le dos au tout-béton. Sur les chantiers écologiques, on recommence à bâtir avec des matériaux nobles et locaux comme la pierre ou le bois. Si cette démarche apaise les craintes environnementales et réduit l'empreinte carbone, elle exige toutefois des ouvriers hautement qualifiés, capables de renouer avec un savoir-faire ancestral presque inaperçu au siècle dernier.",
+    "question": "Quel est le thème principal de ce texte ?",
+    "options": {
+      "A": "La formation technique des ouvriers spécialisés en France.",
+      "B": "Le retour aux matériaux traditionnels dans la construction écologique.",
+      "C": "L'impact de la pollution du béton sur la santé des travailleurs.",
+      "D": "L'utilisation exclusive du bois pour remplacer la pierre sur les chantiers."
+    },
+    "answer": "B",
+    "explanation": "This tests the 'Too Broad/Too Narrow' trap. Option A is too narrow (it's only a supporting detail mentioned at the end regarding 'ouvriers' ). Option C mentions 'santé', which is never discussed. Option D uses absolute language ('exclusivement') which contradicts the text that mentions building ('bâtir')  with both 'pierre' and 'bois'. Option B correctly encompasses the whole paragraph."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (La Crainte)",
+    "document": "La réunion de crise touchait à sa fin. Le chef de projet, visiblement tendu, prit la parole : « Avec ce nouvel imprévu qui menace le projet... »",
+    "question": "« ...je crains que nous ne _____ pas respecter l'échéance fixée par le client. »",
+    "options": {
+      "A": "pouvons",
+      "B": "pourrons",
+      "C": "puissions",
+      "D": "pouvions"
+    },
+    "answer": "C",
+    "explanation": "The verb 'craindre' (to fear/worry)  expresses a negative emotion and absolutely triggers the subjunctive mood. The irregular subjunctive stem for 'pouvoir' is 'puiss-', making 'puissions' the correct answer."
+  },
+  {
+    "category": "Grammaire - Plus-que-parfait (Niveau B2)",
+    "document": "L'inspection de sécurité a eu lieu ce matin à 8h00 pétantes. Heureusement, le chef d'équipe s'était assuré que tout serait en ordre avant leur arrivée.",
+    "question": "Complétez la phrase : « Les ouvriers _____ le chantier de tous les déchets dangereux quelques heures auparavant. »",
+    "options": {
+      "A": "ont débarrassé",
+      "B": "avaient débarrassé",
+      "C": "débarrassaient",
+      "D": "auraient débarrassé"
+    },
+    "answer": "B",
+    "explanation": "The action 'avoir lieu' (to take place)  is in the passé composé (a eu lieu). The adverb 'auparavant' (previously/beforehand)  indicates that the action of clearing ('débarrasser')  the site ('chantier')  happened even further in the past, triggering the plus-que-parfait (avaient débarrassé)."
+  },
+  {
+    "category": "Vocabulaire - Administration et Logique (Niveau B2)",
+    "document": "Un employé du service client rédige un courriel expliquant la politique de l'entreprise concernant l'annulation des services.",
+    "question": "« Afin de valider la _____ de votre abonnement, veuillez vous assurer qu'aucun _____ bancaire n'est programmé après la date de/d'_____. »",
+    "options": {
+      "A": "coupure / virement / livraison",
+      "B": "tenue / paiement / imprévu",
+      "C": "résiliation / virement / échéance",
+      "D": "résiliation / accroc / échéance"
+    },
+    "answer": "C",
+    "explanation": "This strictly tests professional B2 vocabulary. 'Résiliation' is the legal term for canceling a contract. 'Virement' is a bank transfer. 'Échéance' is the due date or deadline."
+  },
+  {
+    "category": "Connecteurs Logiques - (Niveau C1)",
+    "document": "Le nouveau logiciel de gestion devait simplifier le travail quotidien des employés subalternes. _____, son interface s'est révélée particulièrement lourde et complexe à maîtriser. _____, son déploiement a généré des frais de formation considérables et totalement imprévus.",
+    "question": "Choisissez les bons connecteurs pour articuler logiquement ce texte :",
+    "options": {
+      "A": "D'abord / Quant à",
+      "B": "En outre / Toutefois",
+      "C": "Quant à / D'abord",
+      "D": "Toutefois / En outre"
+    },
+    "answer": "D",
+    "explanation": "The first blank requires a concession/opposition word because the software was *supposed* to simplify things, but it was actually 'lourd' (heavy/clunky) —so we use 'Toutefois' (however). The second blank adds another negative point (unexpected 'frais' or costs ), so we use 'En outre' (furthermore/additionally)."
+  },
+  {
+    "category": "Compréhension - Le Décalage et l'Hyperbole (Niveau C1)",
+    "document": "« J'en ai vraiment marre, soupira Marc en fixant son écran. Installer une simple imprimante dans cette entreprise relève de la prouesse olympique. Il faut d'abord l'accord du chef de service, puis l'intervention d'un expert en ingénierie des systèmes, et enfin attendre trois semaines pour la livraison d'un banal câble. C'est fascinant de voir à quel point on s'efforce de rendre le moindre détail absolument insurmontable. »",
+    "question": "Quel est le ton utilisé par Marc dans la dernière phrase (« C'est fascinant... ») ?",
+    "options": {
+      "A": "Admiratif face à l'organisation rigoureuse de son entreprise.",
+      "B": "Honteux de ne pas savoir utiliser le matériel informatique.",
+      "C": "Enthousiaste à l'idée d'accomplir un nouveau défi technologique.",
+      "D": "Ironique et exaspéré pour dénoncer une bureaucratie excessive."
+    },
+    "answer": "D",
+    "explanation": "Marc starts by saying 'en avoir marre' (to be fed up). He equates a basic task to a 'prouesse' (exploit/remarkable action)[cite: 18, 19], which is a massive hyperbole. Calling this nightmare 'fascinant' is purely ironic to highlight how much he despises the slow, heavy bureaucracy."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée (Niveau B2+)",
+    "document": "Pour attirer une nouvelle génération de visiteurs, la direction du musée s'est lancé un véritable défi : dépoussiérer l'image de ses collections classiques. Fini le silence solennel et les gardiens stricts ; l'institution propose désormais des soirées musicales pour les trentenaires, des vestiaires interactifs et des visites guidées théâtralisées. Bien que certains critiques de la presse s'offusquent de cette « transformation en parc d'attractions », la hausse spectaculaire des ventes de billets prouve que cette stratégie porte ses fruits.",
+    "question": "Quelle idée principale se dégage de ce texte ?",
+    "options": {
+      "A": "L'ajout de soirées musicales a sauvé le musée de la faillite.",
+      "B": "Le musée a licencié ses anciens gardiens pour dépoussiérer son image.",
+      "C": "La modernisation audacieuse du musée est un succès économique malgré les critiques.",
+      "D": "Les journalistes méprisent la nouvelle clientèle trentenaire du musée."
+    },
+    "answer": "C",
+    "explanation": "Option A is too specific (it focuses only on the music). Option B is fabricated (the text mentions no longer having strict guards, but nothing about firing them). Option D misrepresents the critics, who are mad at the 'theme park' style, not necessarily the 'trentenaire' (thirty-something)  clients. Option C perfectly summarizes the 'défi' (challenge)  to 'dépoussiérer' (rejuvenate/dust off)  the museum."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Exigence / Volonté)",
+    "document": "Le climat social de l'entreprise est au plus bas à cause de rumeurs de licenciement. Le PDG convoque la directrice des ressources humaines.",
+    "question": "« Afin d'éviter tout conflit avec le syndicat, j'exige que vous _____ le nécessaire pour apaiser les employés mécontents, coûte que coûte. »",
+    "options": {
+      "A": "faites",
+      "B": "feriez",
+      "C": "fassiez",
+      "D": "faisiez"
+    },
+    "answer": "C",
+    "explanation": "The verb 'exiger' (to demand imperatively)  expresses a strong will and requires the subjunctive ['exiger que' ]. The irregular subjunctive stem for 'faire' is 'fass-', giving 'fassiez' with the pronoun 'vous'. Additionally, the passage uses 'apaiser' (to calm)  and 'coûte que coûte' (at all costs)."
+  },
+  {
+    "category": "Compréhension - Ton et Implicite (Niveau C1)",
+    "document": "L'avocat de la partie adverse écoutait les explications alambiquées du directeur. Ce dernier prétendait que la disparition des dossiers financiers résultait d'une simple erreur informatique. L'avocat afficha un sourire narquois : « C'est une coïncidence véritablement fascinante. » Son client, beaucoup moins patient, lui murmura : « C'est un mensonge cousu de fil blanc, il nous prend pour des imbéciles. » La méfiance entre les deux parties était désormais totale.",
+    "question": "Que signifie l'expression « cousu de fil blanc » dans ce contexte précis ?",
+    "options": {
+      "A": "Que la disparition des documents a été réparée informatiquement avec habileté.",
+      "B": "Que la stratégie juridique de l'avocat est construite de manière très discrète.",
+      "C": "Que l'explication fournie par le directeur est trop grossière pour tromper quiconque.",
+      "D": "Que l'entreprise a tenté de dissimuler des preuves à l'intérieur de vêtements."
+    },
+    "answer": "C",
+    "explanation": "L'expression française « cousu de fil blanc » s'utilise pour qualifier un artifice, un mensonge ou une excuse tellement grossière et visible qu'elle ne peut tromper personne. Le ton de l'avocat (narquois/moqueur) confirme qu'il n'y croit pas une seconde."
+  },
+  {
+    "category": "Grammaire - Plus-que-parfait et Antériorité (Niveau B2)",
+    "document": "Le gala de charité qui devait marquer le sommet de l'année a failli tourner au fiasco à cause de plusieurs imprévus successifs. À 21h, une importante coupure d'électricité a soudainement plongé les invités dans l'obscurité totale. Heureusement, la directrice s'en était doutée : elle _____ de faire vérifier les générateurs de secours quelques jours auparavant.",
+    "question": "Choisissez le verbe correctement conjugué pour exprimer cette antériorité absolue :",
+    "options": {
+      "A": "a exigé",
+      "B": "exigeait",
+      "C": "avait exigé",
+      "D": "exigerait"
+    },
+    "answer": "C",
+    "explanation": "L'adverbe « auparavant » (plus tôt, antérieurement) et le contexte du récit au passé imposent l'utilisation du plus-que-parfait. L'action d'exiger s'est produite bien avant la coupure d'électricité. L'auxiliaire « avoir » se met à l'imparfait (avait exigé)."
+  },
+  {
+    "category": "Vocabulaire - Collocations et Termes administratifs (Niveau B2)",
+    "question": "« Conformément à nos conditions générales, nous vous rappelons que la _____ anticipée de votre contrat de maintenance nécessite d'envoyer un _____ de trois mois avant la prochaine _____. »",
+    "options": {
+      "A": "coupure / virement / livraison",
+      "B": "résiliation / préavis / échéance",
+      "C": "tenue / défi / santé",
+      "D": "résiliation / mensonge / exigence"
+    },
+    "answer": "B",
+    "explanation": "Ceci teste le Vocabulaire - Administratif strict, très fréquent au DELF B2. La fin légale d'un contrat est une « résiliation ». L'avertissement obligatoire avant de quitter est un « préavis ». La date limite de paiement ou de renouvellement est une « échéance »."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée (Niveau B2+)",
+    "document": "Les nouveaux chantiers urbains ne se contentent plus de bâtir le plus vite et le moins cher possible. Face à la crise écologique, on assiste à un retour massif aux matériaux nobles et locaux comme la pierre de taille et le bois brut. Si les ouvriers y trouvent un bénéfice indéniable pour leur santé, échappant ainsi aux redoutables vapeurs toxiques des colles industrielles, le coût prohibitif de ces constructions naturelles freine encore de nombreux promoteurs immobiliers réticents au changement.",
+    "question": "Quel est le thème principal de ce paragraphe ?",
+    "options": {
+      "A": "La nocivité des colles industrielles pour le fonctionnement général de l'organisme des travailleurs.",
+      "B": "Le retour à l'utilisation du bois pour remplacer définitivement la pierre dans le bâtiment.",
+      "C": "L'augmentation inévitable des salaires des ouvriers travaillant dans le secteur de l'éco-construction.",
+      "D": "L'évolution du secteur de la construction vers des matériaux sains mais financièrement coûteux."
+    },
+    "answer": "D",
+    "explanation": "Ceci est le test classique du distracteur « trop restreint ». L'option A est vraie selon le texte, mais ce n'est qu'un détail d'une seule phrase, pas le thème général. L'option B est fausse (ils utilisent le bois ET la pierre). L'option C n'est jamais mentionnée. L'option D résume correctement le texte entier."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (La Volonté et la Colère)",
+    "document": "Le directeur des opérations, qui en avait marre des retards constants dans le service de livraison et des plaintes des clients, frappa violemment du poing sur la table lors de la réunion matinale.",
+    "question": "« Pour que ce désastre cesse, j'exige que notre responsable logistique _____ immédiatement sur le terrain pour repérer la source du problème en personne. »",
+    "options": {
+      "A": "va",
+      "B": "ira",
+      "C": "aille",
+      "D": "aillent"
+    },
+    "answer": "C",
+    "explanation": "Le verbe « exiger que » exprime une volonté impérieuse et déclenche toujours le subjonctif. Le verbe irrégulier « aller » prend le radical « aill- » au singulier, ce qui donne « aille » à la 3e personne du singulier."
+  },
+  {
+    "category": "Subjonctif - Émotion et Doute (Niveau B2)",
+    "document": "L'interrogatoire touchait à sa fin. Le comportement du suspect, d'un calme froid, demeurait insondable pour les enquêteurs. Le juge d'instruction, constatant la faiblesse des preuves matérielles récoltées, soupira lourdement en rangeant ses dossiers.",
+    "question": "« Bien qu'il me semble évident qu'il est coupable, je crains qu'il ne _____ à la justice pour cette fois. »",
+    "options": {
+      "A": "échappe",
+      "B": "échappera",
+      "C": "échappait",
+      "D": "a échappé"
+    },
+    "answer": "A",
+    "explanation": "La locution « je crains que » (I fear that) exprime une émotion négative et impose le subjonctif. Pour le verbe régulier échapper à la 3e personne du singulier, la terminaison est un simple « -e »."
+  },
+  {
+    "category": "Connecteurs Logiques - d'Argumentation (Niveau C1)",
+    "document": "Le bilan annuel de ce jeune ingénieur des systèmes est particulièrement complexe à évaluer. _____, il a fait preuve d'une créativité technique exceptionnelle en proposant de nouvelles combines pour optimiser nos serveurs. _____, son refus systématique de communiquer sereinement avec ses collègues a lourdement pénalisé la livraison du projet. _____, son attitude parfois narquoise avec la direction l'empêchera très certainement d'obtenir une promotion cette année.",
+    "question": "Quels connecteurs logiques complètent correctement l'analyse de ce bilan dans l'ordre ?",
+    "options": {
+      "A": "Toutefois / D'abord / Quant à",
+      "B": "D'abord / Toutefois / En outre",
+      "C": "En outre / D'abord / Toutefois",
+      "D": "Quant à / En outre / Toutefois"
+    },
+    "answer": "B",
+    "explanation": "L'argumentation suit un schéma précis : introduction d'un premier point positif (D'abord = firstly), suivie d'une opposition/restriction forte introduisant un défaut (Toutefois = however), puis l'ajout d'un deuxième défaut qui vient s'additionner au premier (En outre = furthermore)."
+  },
+  {
+    "category": "Compréhension - Attitude, Psychologie et Vocabulaire (Niveau C1)",
+    "document": "La méthode de management du nouveau cadre était aussi simple que destructrice. Plutôt que de formuler des reproches constructifs à voix haute, il s'évertuait à culpabiliser ses subalternes par un traitement glacial. Chaque fois qu'une erreur, même parfaitement mineure, était repérée, il choisissait de se taire obstinément tout en les dévisageant d'un air méprisant au milieu de l'open space. Cette violence psychologique silencieuse, impossible à prouver formellement, finissait par pousser les employés les plus solides à la démission.",
+    "question": "Quelle est la stratégie managériale employée par le nouveau cadre telle que décrite dans le texte ?",
+    "options": {
+      "A": "Il privilégie la communication verbale directe pour résoudre les erreurs et apaiser les tensions.",
+      "B": "Il utilise l'isolement affectif et l'humiliation non verbale pour déstabiliser ses employés.",
+      "C": "Il éprouve une peur panique du conflit et évite systématiquement d'affronter ses équipes.",
+      "D": "Il se montre extrêmement clément, refusant de signaler les fautes mineures à sa hiérarchie."
+    },
+    "answer": "B",
+    "explanation": "Des mots comme « culpabiliser », « subalterne », « se taire », et « air méprisant » (scornful look) définissent une attitude passive-agressive (« isolement affectif et humiliation non verbale »). Les autres options contredisent le fait qu'il s'agit d'une méthode destructrice et délibérée."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (La Nécessité Absolue)",
+    "document": "L'expert-comptable posa le lourd dossier sur le bureau avec une fermeté implacable. « J'ai analysé l'intégralité des flux financiers de l'année. Désormais, vos petites combines budgétaires ne passeront plus inaperçues devant le fisc. »",
+    "question": "« Face à ce constat, il est absolument vital que vous le _____ pour ne pas aggraver davantage votre situation pénale. »",
+    "options": {
+      "A": "savez",
+      "B": "saurez",
+      "C": "sachiez",
+      "D": "saviez"
+    },
+    "answer": "C",
+    "explanation": "La structure « Il est vital que » exprime une forte nécessité et impose le mode subjonctif. Le verbe irrégulier « savoir » a pour radical subjonctif « sach- », ce qui donne « sachiez » avec le pronom vous."
+  },
+  {
+    "category": "Compréhension - Langage formel et Déduction pragmatique (Niveau C1)",
+    "document": "Au terme de longues heures de débats infructueux, le principal investisseur se leva brusquement et regarda sa montre avec ostentation. La patience des deux parties semblait indéniablement toucher à sa fin. « Il est tout à fait inutile de poursuivre cette mascarade plus longtemps, déclara-t-il d'une voix coupante. Vous ne ferez aucune concession significative, et je ne compte certainement pas lâcher mes parts pour un prix aussi ridicule. Inutile de me recontacter, je vous souhaite une bonne soirée, messieurs. »",
+    "question": "En regardant sa montre « avec ostentation » et en employant le terme de « mascarade », l'investisseur cherche principalement à :",
+    "options": {
+      "A": "Signaler très poliment et subtilement qu'il est en retard pour un autre rendez-vous.",
+      "B": "Tenter un ultime coup de bluff théâtral pour forcer ses partenaires à baisser leur prix.",
+      "C": "Présenter des excuses déguisées pour justifier son incapacité à s'aligner financièrement.",
+      "D": "Exprimer son profond mépris pour une négociation qu'il juge hypocrite et définitivement rompue."
+    },
+    "answer": "D",
+    "explanation": "Regarder sa montre « avec ostentation » (de manière très visible pour se faire remarquer) est une marque de mépris et d'ennui. Qualifier la réunion de « mascarade » (farce/comédie) et dire « inutile de me recontacter » prouve qu'il ne s'agit pas d'un bluff pour continuer à négocier, mais d'une rupture colérique et définitive."
+  },
+  {
+    "category": "Compréhension - Vie Professionnelle et Contrats (Niveau C1)",
+    "document": "« Madame, nous accusons réception de votre demande de résiliation. Toutefois, le préavis légal de soixante jours n'ayant pas été respecté avant l'échéance de votre contrat, des frais de pénalité vous seront appliqués. Il est désormais inutile de contester cette clause, qui figure noir sur blanc dans votre dossier. »",
+    "question": "Quelle est la raison principale pour laquelle l'entreprise applique des pénalités à cette cliente ?",
+    "options": {
+      "A": "Elle a annulé son contrat en utilisant une méthode de paiement invalide pour les frais.",
+      "B": "Elle a réclamé la résiliation de son abonnement après la date limite d'engagement.",
+      "C": "Elle a refusé de payer les frais de dossier exigés lors du renouvellement.",
+      "D": "Elle a formulé sa demande d'annulation sans respecter le délai d'avertissement préalable obligatoire."
+    },
+    "answer": "D",
+    "explanation": "This targets professional vocabulary from your list: 'résiliation' (cancellation), 'préavis' (prior notice), 'échéance' (deadline), 'toutefois' (however), and 'frais' (fees). The penalty is applied because the mandatory notice period ('préavis') was ignored."
+  },
+  {
+    "category": "Grammaire - Plus-que-parfait (Niveau B2)",
+    "document": "La réunion annuelle a finalement eu lieu dans l'annexe du bâtiment principal. L'équipe logistique _____ l'ensemble du matériel audiovisuel et des chaises la veille au soir, pour s'assurer que rien ne manque.",
+    "question": "Choisissez la forme correcte pour exprimer l'action d'avoir déplacé le matériel :",
+    "options": {
+      "A": "a déplacé",
+      "B": "avait déplacé",
+      "C": "déplaçait",
+      "D": "aurait déplacé"
+    },
+    "answer": "B",
+    "explanation": "The meeting 'took place' (a eu lieu - passé composé). The moving of the equipment ('matériel') happened the night before ('la veille au soir'). This anteriority in the past strictly requires the plus-que-parfait: auxiliaire à l'imparfait + participe passé ('avait déplacé')."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (L'Émotion et la Honte)",
+    "document": "Le jeune cadre, dont l'erreur stratégique venait de coûter un client majeur à l'agence, se confiait à voix basse à son collègue à la cafétéria, craignant que la rumeur ne se propage.",
+    "question": "« J'ai terriblement honte que le reste de l'équipe _____ la vérité sur mon erreur de calcul. »",
+    "options": {
+      "A": "sache",
+      "B": "sait",
+      "C": "sachait",
+      "D": "saura"
+    },
+    "answer": "A",
+    "explanation": "Expressions of emotion, such as 'avoir honte que' (to be ashamed that) or 'craindre que' (to fear that), trigger the subjunctive. The irregular subjunctive stem for 'savoir' is 'sach-'. 'L'équipe' is third-person singular, so the correct conjugation is 'sache'."
+  },
+  {
+    "category": "Compréhension - Ton, Décalage et Implicite (Niveau C1)",
+    "document": "« Je vois que vous avez brillamment réussi à renverser la totalité du café sur les seuls documents non numérisés de cette entreprise, commenta le directeur avec un sourire narquois, observant son subalterne éponger maladroitement la table. C'est une prouesse d'une précision insondable. Je vous remercie d'avoir ajouté ce petit défi à ma journée qui, d'ailleurs, touchait presque à sa fin. »",
+    "question": "Dans cette scène, la remarque du directeur souligne principalement :",
+    "options": {
+      "A": "Son admiration sincère pour la précision d'un geste technique.",
+      "B": "Son soulagement de voir la journée de travail enfin se terminer.",
+      "C": "Son exaspération déguisée sous une politesse ironique et mordante.",
+      "D": "Sa profonde méfiance envers les intentions cachées de son employé."
+    },
+    "answer": "C",
+    "explanation": "The director uses highly positive words ('brillamment', 'prouesse', 'précision', 'remercie') to describe a clumsy mistake ('maladroitement') made by his subordinate ('subalterne'). Combined with the 'sourire narquois' (mocking smile), this antiphrasis expresses pure sarcastic exasperation."
+  },
+  {
+    "category": "Connecteurs Logiques - d'Addition et de Restriction (Niveau B2+)",
+    "document": "L'ingénierie des systèmes de notre nouveau logiciel de gestion est très performante. _____, son coût de déploiement s'est révélé bien plus lourd que prévu. _____, il exigera une formation intensive pour l'ensemble du personnel.",
+    "question": "Sélectionnez la combinaison de Connecteurs Logiques - Appropriée :",
+    "options": {
+      "A": "D'abord / Quant à",
+      "B": "En outre / Toutefois",
+      "C": "Toutefois / En outre",
+      "D": "Désormais / Ailleurs"
+    },
+    "answer": "C",
+    "explanation": "The first sentence is positive. The second introduces a restriction/negative point (heavy cost), requiring 'Toutefois' (However). The third adds *another* negative point (requires training), needing 'En outre' (Furthermore/In addition)."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée et Dégager l'Idée Principale (Niveau C1)",
+    "document": "Sur les chantiers modernes, la tendance est de dépoussiérer les anciennes méthodes de travail pour privilégier le bien-être des ouvriers. Au lieu d'imposer des cadences infernales, on s'efforce désormais de dégager les zones à risque et de limiter le port de charges lourdes. Si cette réorganisation implique parfois un retard dans la livraison finale des bâtiments, elle a le mérite d'apaiser considérablement les tensions sociales et de réduire les accidents corporels, qui représentaient jusqu'alors un frein majeur.",
+    "question": "Quelle est l'idée directrice de ce paragraphe ?",
+    "options": {
+      "A": "Le retard inévitable des livraisons immobilières dû aux nouvelles normes de sécurité.",
+      "B": "La nécessité d'embaucher de jeunes ouvriers pour remplacer les anciennes méthodes.",
+      "C": "La modernisation des conditions de travail dans le but de sécuriser et pacifier les chantiers.",
+      "D": "La diminution de la rentabilité financière des entreprises de construction en France."
+    },
+    "answer": "C",
+    "explanation": "This tests your ability to avoid the 'Too Broad/Too Narrow' trap. Option A focuses only on a consequence (retard). Option B is fabricated. Option D assumes financial loss, which isn't stated. Option C accurately encompasses the main theme: modernizing ('dépoussiérer') conditions to improve safety and ease tensions ('apaiser')."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (L'Exigence et la Menace)",
+    "document": "Le ton montait dans le vestiaire sportif. L'entraîneur, fou de colère après la défaite, s'adressa à son capitaine d'une voix qui ne souffrait aucune contestation, menaçant de lui retirer son brassard.",
+    "question": "« Je me fiche que tu sois blessé ou fatigué. J'exige que tu _____ le nécessaire pour motiver cette équipe, coûte que coûte ! »",
+    "options": {
+      "A": "fais",
+      "B": "fasses",
+      "C": "feras",
+      "D": "faisais"
+    },
+    "answer": "B",
+    "explanation": "The verb 'exiger que' strictly triggers the subjunctive mood. The subjunctive stem for 'faire' is 'fass-'. Paired with 'tu', it becomes 'fasses'. 'Coûte que coûte' means 'at all costs', highlighting the intensity of the demand."
+  },
+  {
+    "category": "Vocabulaire - Expressions et Sens Figuré (Niveau B2+)",
+    "document": "Lorsqu'il a affirmé, sans ciller, que son dossier de présentation avait été dérobé par un espion industriel dans le métro, un silence lourd s'est installé dans l'assemblée. C'était un mensonge cousu de fil blanc, et la directrice n'avait pas l'intention de le laisser échapper à ses responsabilités.",
+    "question": "Que signifie la phrase « C'était un mensonge cousu de fil blanc » ?",
+    "options": {
+      "A": "C'était une invention très complexe, préparée avec minutie.",
+      "B": "C'était une rumeur répandue par l'industrie du textile.",
+      "C": "C'était une excuse grossière et beaucoup trop évidente.",
+      "D": "C'était une histoire vraie mais impossible à prouver formellement."
+    },
+    "answer": "C",
+    "explanation": "The idiom 'cousu de fil blanc' (sewn with white thread) refers to a lie or trick that is so poorly hidden or obvious that anyone can see right through it immediately."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (Le Doute et la Volonté)",
+    "document": "Le syndicat proposait une grève générale pour contester les nouvelles exigences de la direction. Cependant, les ouvriers, préoccupés par la perte de salaire, hésitaient à suivre le mouvement.",
+    "question": "« Bien qu'ils soient en colère, je doute fort qu'ils y _____ volontairement cette semaine. »",
+    "options": {
+      "A": "allons",
+      "B": "vont",
+      "C": "allaient",
+      "D": "aillent"
+    },
+    "answer": "D",
+    "explanation": "The expression 'douter que' (to doubt that) triggers the subjunctive. The verb 'aller' in the subjunctive for 'ils' uses the irregular stem 'aill-', resulting in 'aillent'."
+  },
+  {
+    "category": "Compréhension - Logique et Vocabulaire - Professionnel (Niveau C1)",
+    "document": "La candidate trentenaire s'assit face au recruteur. Son profil atypique incitait à la méfiance : elle avait enchaîné les missions de courte durée et de longs séjours à l'étranger. « D'abord, je tiens à préciser que mon parcours n'est pas le fruit du hasard, argumenta-t-elle sereinement. Chacune de mes expériences m'a permis d'acquérir une expertise technique que je compte désormais mettre au profit exclusif de votre entreprise, si toutefois vous me donnez l'opportunité de relever ce défi. »",
+    "question": "D'après cette tirade, quel est l'objectif premier de la candidate ?",
+    "options": {
+      "A": "Justifier ses fréquents séjours à l'étranger par des problèmes personnels complexes.",
+      "B": "Dénoncer la méfiance illégitime du recruteur face à son jeune âge.",
+      "C": "Transformer l'apparente instabilité de son CV en un atout stratégique et rassurant.",
+      "D": "Demander une formation supplémentaire pour pallier son manque d'expérience technique."
+    },
+    "answer": "C",
+    "explanation": "The candidate explains that her unusual path ('parcours atypique/instabilité') was intentional ('pas le fruit du hasard') and allowed her to gain expertise ('expertise technique/atout stratégique') which she will now dedicate to the company to reassure the recruiter."
+  },
+  {
+    "category": "Grammaire - Plus-que-parfait et l'Antériorité (Niveau B2)",
+    "document": "Lors de la confrontation glaciale dans la salle d'embaumement, Nate demanda enfin à sa sœur depuis quand elle s'introduisait la nuit pour voler les fluides. Le visage de Claire se figea. En réalité, le jeune homme _____ la disparition suspecte du matériel plusieurs semaines auparavant, mais il avait préféré se taire.",
+    "question": "Conjuguez le verbe « repérer » au temps correct pour marquer l'antériorité de cette découverte :",
+    "options": {
+      "A": "a repéré",
+      "B": "avait repéré",
+      "C": "repérait",
+      "D": "aurait repéré"
+    },
+    "answer": "B",
+    "explanation": "L'utilisation de l'adverbe « auparavant » (plus tôt, antérieurement) et le récit au passé (demanda, se figea) exigent le plus-que-parfait pour indiquer une action qui s'est déroulée *encore plus tôt* dans le passé. On utilise l'auxiliaire à l'imparfait + participe passé : « avait repéré »."
+  },
+  {
+    "category": "Compréhension - Ironie, Ton et Vocabulaire (Niveau C1)",
+    "document": "Andréa contempla le caprice de son acteur qui refusait catégoriquement de sortir de sa loge tant que la production n'aurait pas remplacé les roses blanches par des roses rouges. « Je dois admettre que ton implication émotionnelle dans la survie de ce film est d'une profondeur insondable, sourit-elle d'un air narquois. Cette prouesse artistique me laisse littéralement sans voix. »",
+    "question": "Que révèle l'attitude d'Andréa face à l'acteur ?",
+    "options": {
+      "A": "Elle est sincèrement impressionnée par son perfectionnisme et sa rigueur professionnelle.",
+      "B": "Elle tente de le rassurer en validant ses choix artistiques complexes.",
+      "C": "Elle exprime une exaspération profonde à travers une flatterie excessive et sarcastique.",
+      "D": "Elle est confuse face à des exigences qu'elle juge difficiles à comprendre."
+    },
+    "answer": "C",
+    "explanation": "Des mots comme « prouesse » (exploit remarquable) et « insondable » (profond) sont utilisés de manière totalement disproportionnée pour décrire un caprice d'enfant (la couleur des roses). Associé à son « air narquois » (moqueur), c'est l'essence même du sarcasme et de l'exaspération."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (L'Émotion et la Honte)",
+    "document": "Charlotte, de plus en plus anxieuse face à la situation qui lui échappait, attrapa le bras d'Émilie dans la cuisine. « Cette idée de payer un escort boy était un désastre. La culpabilité me ronge, et j'ai terriblement honte qu'Elsa ne _____ la vérité sur ce mensonge que nous avons mis en place. »",
+    "question": "Conjuguez le verbe « savoir » à la forme correcte :",
+    "options": {
+      "A": "sait",
+      "B": "saura",
+      "C": "sachait",
+      "D": "sache"
+    },
+    "answer": "D",
+    "explanation": "Les expressions d'émotion négative ou de jugement moral (« avoir honte que », « craindre que ») déclenchent toujours le mode subjonctif. Le radical irrégulier de savoir est « sach- ». À la 3e personne du singulier (Elsa), la terminaison est -e : « sache »."
+  },
+  {
+    "category": "Connecteurs Logiques - Administratifs (Niveau C1)",
+    "document": "Monsieur, votre licenciement prendra officiellement effet à la fin du mois. _____, compte tenu des circonstances exceptionnelles, nous vous dispensons d'effectuer votre préavis réglementaire. _____, vos frais de déplacement du mois dernier, ils vous seront remboursés par virement bancaire sous huitaine.",
+    "question": "Sélectionnez les Connecteurs Logiques - Appropriés pour articuler cet e-mail :",
+    "options": {
+      "A": "D'abord / En outre",
+      "B": "Toutefois / Quant à",
+      "C": "Désormais / Ailleurs",
+      "D": "En outre / Toutefois"
+    },
+    "answer": "B",
+    "explanation": "Le premier espace marque une opposition/concession (le licenciement est effectif, *cependant* on vous dispense du préavis), ce qui requiert « Toutefois ». Le second espace introduit un changement de sujet (concernant les frais), ce qui requiert la locution « Quant à » (As for / Regarding)."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée et Dégager l'Implicite (Niveau C1)",
+    "document": "Face aux Colonnes d'Hercule, la méfiance de l'équipage viking était palpable. Franchir ce détroit représentait un défi colossal, une plongée vers l'insondable Méditerranée. Bjorn savait intimement que sans les connaissances maritimes empiriques de Sindric, tenter cette expédition aurait été un suicide pur et simple, indépendamment de la solidité de leurs navires pourtant bâtis pour affronter la pire des tempêtes.",
+    "question": "D'après ce passage, qu'est-ce qui garantit véritablement la survie et la réussite de l'expédition ?",
+    "options": {
+      "A": "L'excellente qualité de construction et la solidité des navires vikings.",
+      "B": "Le courage aveugle de l'équipage prêt à relever tous les défis.",
+      "C": "L'expertise technique et l'expérience de navigation du personnage de Sindric.",
+      "D": "La clémence des dieux face au mystère de la mer Méditerranée."
+    },
+    "answer": "C",
+    "explanation": "Le texte indique très clairement que *sans* les connaissances de Sindric, le voyage aurait été un « suicide », et ce, « indépendamment » (regardless of) la solidité des bateaux. L'option A est donc un distracteur de texte classique (vrai dans la vie, mais faux selon la logique précise de la phrase)."
+  },
+  {
+    "category": "Vocabulaire - Collocations et Faux-amis (Niveau B2)",
+    "document": "Épuisée par les préparatifs de la fête et les hurlements constants des enfants, la mère finit par perdre patience et s'adressa durement à sa sœur.",
+    "question": "« J'en ai marre ! Je vais _____ une crise de nerfs si personne ne _____ la décision de m'aider à débarrasser la table ! »",
+    "options": {
+      "A": "avoir / fait",
+      "B": "faire / prend",
+      "C": "prendre / fait",
+      "D": "faire / fabrique"
+    },
+    "answer": "B",
+    "explanation": "Cette question teste vos collocations idiomatiques. En français, on « fait une crise » (not have a crisis) et on « prend une décision » (not make a decision). C'est le piège anglophone le plus fréquent au niveau B2."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (L'Exigence et la Nécessité)",
+    "document": "La réunion de crise touchait à sa fin dans les locaux de l'agence. Mathias se leva brusquement, l'air martial. « Je me fiche des états d'âme de ce réalisateur ou de ses exigences salariales exorbitantes. »",
+    "question": "« Pour que le film puisse sortir à temps, j'exige que nous lui _____ une offre financière définitive avant ce soir, coûte que coûte ! »",
+    "options": {
+      "A": "faisons",
+      "B": "ferons",
+      "C": "fassions",
+      "D": "faisions"
+    },
+    "answer": "C",
+    "explanation": "La structure « exiger que » (to demand that) exprime une volonté impérieuse et nécessite le subjonctif. Le radical irrégulier de « faire » est « fass- ». Avec le pronom « nous », la conjugaison est « fassions »."
+  },
+  {
+    "category": "Compréhension - Métaphore et Idiotisme (Niveau C1)",
+    "document": "Lorsque le père d'Elsa, supposément absent, approuva bruyamment l'excuse du colocataire depuis le fond du salon plongé dans la pénombre, la scène vira au burlesque. Face à Jules, resté perplexe sur le pas de la porte, ce mensonge cousu de fil blanc ne pouvait décemment pas passer inaperçu bien longtemps.",
+    "question": "Que signifie la combinaison des expressions « cousu de fil blanc » et « passer inaperçu » dans ce texte ?",
+    "options": {
+      "A": "Que le mensonge était si bien préparé qu'il a presque fonctionné.",
+      "B": "Que la tromperie était tellement évidente et grossière qu'il était impossible de l'ignorer.",
+      "C": "Que les vêtements du père le rendaient facilement repérable dans le noir.",
+      "D": "Que le colocataire avait oublié d'éteindre la lumière avant de mentir."
+    },
+    "answer": "B",
+    "explanation": "« Cousu de fil blanc » signifie qu'un mensonge est trop évident. « Ne pas passer inaperçu » signifie qu'il est impossible de ne pas le remarquer. La combinaison des deux insiste sur le caractère grossier et ridicule de la tentative de dissimulation."
+  },
+  {
+    "category": "Grammaire - Plus-que-parfait antériorité cachée (Niveau C1)",
+    "document": "Gabriel fulminait de rage en découvrant l'identité de la jeune assistante subalterne. Mathias, le regard fuyant, tentait maladroitement de justifier son silence. En réalité, Arlette, grâce à son intuition légendaire, _____ le secret du lien de parenté entre Mathias et Camille bien avant que la vérité n'éclate au grand jour.",
+    "question": "Conjuguez le verbe « repérer » à la forme correcte :",
+    "options": {
+      "A": "a repéré",
+      "B": "repérait",
+      "C": "avait repéré",
+      "D": "aurait repéré"
+    },
+    "answer": "C",
+    "explanation": "L'action d'Arlette (découvrir le secret) s'est déroulée *avant* le moment passé où Gabriel se met en colère et où la vérité éclate. La locution conjonctive « bien avant que » confirme cette antériorité profonde, nécessitant le plus-que-parfait (« avait repéré »)."
+  },
+  {
+    "category": "Compréhension - Hyperbole et Rhétorique (Niveau B2+)",
+    "document": "L'effervescence régnait dans la maison. Pour justifier son retard dans la livraison du repas de fête face à l'impatience de ses convives, la mère s'écria, les bras levés au ciel : « Les Juifs ont erré dans le désert pendant quarante ans sans se plaindre ! Et il faudrait que vous, vous ne puissiez pas attendre 10 malheureuses minutes pour vos légumes ? »",
+    "question": "Dans cette scène, quel est l'objectif rhétorique principal de la mère ?",
+    "options": {
+      "A": "Dispenser une leçon d'histoire religieuse stricte à des invités ignorants.",
+      "B": "Excuser le fait que le repas ait été accidentellement brûlé dans le four.",
+      "C": "Culpabiliser volontairement ses interlocuteurs par l'utilisation d'une comparaison exagérée.",
+      "D": "Détourner l'attention pour cacher qu'elle n'a pas encore commencé à cuisiner."
+    },
+    "answer": "C",
+    "explanation": "L'utilisation d'un événement dramatique historique de 40 ans pour justifier un retard de 10 minutes est une hyperbole (exagération). Le mot issu de votre vocabulaire « culpabiliser » (to make someone feel guilty) est la clé ici : elle utilise cette comparaison disproportionnée pour leur donner honte de leur propre impatience."
+  },
+  {
+    "category": "Compréhension - L'implicite et les distracteurs (Niveau B2/C1)",
+    "document": "Lors de sa visite houleuse à l'usine Wonder, Bernard Tapie n'a pas ménagé ses effets de manche. Face à des ouvriers exaspérés par les rumeurs de licenciements massifs, le nouvel acquéreur a troqué le costume de patron distant pour celui du sauveur providentiel. Si son discours enflammé sur la « reprise d'un fleuron national » a su arracher quelques applaudissements à une foule pourtant hostile, les délégués syndicaux, eux, ne sont pas dupes. Derrière la promesse solennelle de « zéro suppression d'emploi » se dessine déjà, dans les dossiers qu'ils ont pu consulter, l'ombre d'une restructuration implacable, soigneusement camouflée par une communication redoutablement efficace.",
+    "question": "Selon ce passage, l'attitude des syndicats face au discours de Bernard Tapie révèle :",
+    "options": {
+      "A": "Une adhésion totale à son projet de restructuration pour sauver l'usine.",
+      "B": "Une profonde méfiance à l'égard de ses véritables intentions économiques.",
+      "C": "Une colère irrépressible face à l'inefficacité de sa communication.",
+      "D": "Un soulagement de voir les ouvriers acclamer un sauveur providentiel."
+    },
+    "answer": "B",
+    "explanation": "L'expression « ne sont pas dupes » signifie qu'ils ne se laissent pas tromper. L'option A est un piège (ils n'y adhèrent pas). L'option C contredit le texte (la communication est « redoutablement efficace »). L'option D concerne la foule, pas les syndicats."
+  },
+  {
+    "category": "Compréhension - Ironie et Décalage social (Niveau B2/C1)",
+    "document": "Dans l'appartement parisien de Charlotte, la tension était montée d'un cran. \n« — Je t’assure, l'idée de payer un escort boy pour redonner confiance à Elsa, c’était un véritable coup de génie, ironisa Charlotte en ajustant nerveusement son écharpe.\n— Un coup de génie, vraiment ? rétorqua Émilie, incrédule. Non seulement tu as vidé notre compte commun pour financer cette thérapie d'un genre douteux, mais tu as aussi réussi l'exploit de la faire tomber amoureuse d'un professionnel de l'illusion. Franchement, si c'est ça ta conception d'un plan sans accroc, je crains fort que nous ne devions revoir nos critères de réussite avant que la situation ne nous explose définitivement au visage. »",
+    "question": "Quelle est l'intention principale d'Émilie dans sa réplique ?",
+    "options": {
+      "A": "Féliciter subtilement Charlotte pour l'audace de son initiative.",
+      "B": "Exprimer sa peur obsessionnelle de devoir rembourser le compte commun.",
+      "C": "Dénoncer le manque de professionnalisme de l'homme qu'elles ont engagé.",
+      "D": "Souligner avec amertume les conséquences désastreuses d'une initiative absurde."
+    },
+    "answer": "D",
+    "explanation": "Émilie utilise un ton sarcastique (« réussi l'exploit », « plan sans accroc ») pour détruire l'argument de Charlotte. L'option B est trop réductrice (le compte commun n'est qu'un détail de son argumentation) et l'option C est fausse, l'escort a très bien fait son travail (trop bien, même)."
+  },
+  {
+    "category": "Grammaire - Subjonctif et Hyperbole (Niveau B2)",
+    "document": "L'effervescence dans la cuisine familiale atteignait son paroxysme avant le dîner de fête. Face à l'impatience grandissante de ses invités qui réclamaient l'entrée, la maîtresse de maison, au bord de la crise de nerfs, s'exclama avec une théâtralité assumée : « Pour l'amour du ciel, j'ai plus de trente kilos de légumes à faire rôtir ce soir ! Les Hébreux ont erré quarante ans dans le désert sans se plaindre de la faim, et il faudrait que vous, vous ne puissiez pas patienter dix malheureuses minutes dans le salon pour que ce repas soit parfait ? »",
+    "question": "Dans l'expression « et il faudrait que vous ne puissiez pas patienter », l'utilisation du subjonctif se justifie par :",
+    "options": {
+      "A": "L'expression d'un doute concernant la capacité des invités à attendre.",
+      "B": "La volonté de formuler un vœu ou une bénédiction envers les invités.",
+      "C": "L'utilisation de la structure impersonnelle indiquant ici l'indignation et la nécessité.",
+      "D": "L'évocation d'une action historique qui s'est déroulée dans le désert."
+    },
+    "answer": "C",
+    "explanation": "La structure « Il faut que / il faudrait que » déclenche toujours le subjonctif pour marquer l'obligation ou, dans ce cas précis (au conditionnel), l'indignation face à une exigence qu'elle juge ridicule."
+  },
+  {
+    "category": "Compréhension - Chronologie et Plus-que-parfait (Niveau C1)",
+    "document": "L'atmosphère dans la salle de repos de l'entreprise funéraire était lourde de non-dits. Lorsque Nate a finalement confronté Claire au sujet du matériel d'embaumement qui disparaissait régulièrement, le visage de la jeune fille s'est figé. « Je regrette vraiment que tu ne nous en aies pas parlé plus tôt », a-t-il lâché d'un ton glacial. En réalité, Nate avait déjà compris depuis plusieurs jours que quelqu'un s'introduisait dans le laboratoire la nuit, mais il avait préféré garder le silence en espérant naïvement qu'elle viendrait s'avouer coupable d'elle-même.",
+    "question": "Lequel de ces événements intérieurs s'est produit en premier dans la chronologie réelle de l'histoire ?",
+    "options": {
+      "A": "Nate a pris la décision de confronter Claire directement.",
+      "B": "Nate a déduit que des intrusions nocturnes avaient lieu.",
+      "C": "Claire a volé le matériel d'embaumement pour la première fois.",
+      "D": "Nate a espéré obtenir des aveux spontanés de la part de sa sœur."
+    },
+    "answer": "B",
+    "explanation": "C'est un test classique sur le Plus-que-parfait et la chronologie implicite. Le texte dit : « Nate avait déjà compris [...] mais il avait préféré garder le silence en espérant... ». L'action de comprendre (B) précède logiquement l'action d'espérer des aveux (D). (L'option C est vraie dans l'absolu, mais n'est pas un « événement intérieur » mentionné comme tel dans la perspective temporelle du narrateur)."
+  },
+  {
+    "category": "Compréhension - Langage formel et Déduction (Niveau B2)",
+    "document": "Dans le bureau exigu du Palais de Justice, l'ambiance était électrique. Le procureur, fixant l'homme d'affaires avec une froideur clinique, lui exposa les faits sans le moindre détour. « Si vous continuez à nier l'évidence et à protéger vos associés coûte que coûte, je doute fort que vous échappiez à une condamnation ferme. Il est impératif que nous mettions fin à ce cirque médiatique dès aujourd'hui. » Face à cet ultimatum formel, l'accusé maintint son sourire narquois, refusant catégoriquement de jouer le rôle du bouc émissaire que la justice semblait lui avoir taillé sur mesure.",
+    "question": "L'attitude de l'accusé à la fin du paragraphe démontre qu'il :",
+    "options": {
+      "A": "A conscience de la gravité des faits et s'apprête à signer des aveux.",
+      "B": "Est terrifié par la perspective d'une condamnation ferme et définitive.",
+      "C": "Méprise la menace judiciaire et rejette la responsabilité qu'on veut lui imposer.",
+      "D": "Accepte stoïquement de devenir un bouc émissaire pour protéger ses collègues."
+    },
+    "answer": "C",
+    "explanation": "« Maintenir un sourire narquois » et « refuser catégoriquement » indiquent un mépris du danger. Les options A, B et D contredisent directement le comportement de l'accusé décrit à la fin du texte."
+  },
+  {
+    "category": "Compréhension - Implicite et Métaphore (Niveau C1)",
+    "document": "Sur le pont du navire, le vent glacial fouettait les visages fatigués mais résolus de l'équipage viking. Devant eux se dressaient les imposantes Colonnes d'Hercule, frontière mythique entre le monde connu et les mystères insondables de la Méditerranée. Alors que certains guerriers murmuraient des prières, craignant de franchir cette limite sacrée, le chef se tourna vers son mystérieux navigateur. « Quelle chance j'ai eue de te rencontrer », déclara-t-il, la voix couverte par le fracas des vagues. Loin d'être une simple formule de politesse, cet aveu traduisait la conscience aiguë que, sans les connaissances empiriques de ce vagabond des mers, leur quête de conquête se serait achevée depuis longtemps au fond de l'océan.",
+    "question": "Que suggère le narrateur à propos de la déclaration du chef viking à son navigateur ?",
+    "options": {
+      "A": "Elle masque habilement sa peur d'affronter les dieux de la Méditerranée.",
+      "B": "Elle révèle une dépendance stratégique vitale plutôt qu'une simple courtoisie.",
+      "C": "Elle est purement ironique, car le navigateur les a menés dans un piège.",
+      "D": "Elle prouve que le chef a totalement abandonné ses croyances religieuses."
+    },
+    "answer": "B",
+    "explanation": "La phrase clé est : « Loin d'être une simple formule de politesse, cet aveu traduisait la conscience aiguë que... ». Le succès de l'expédition dépend entièrement du navigateur (dépendance stratégique)."
+  },
+  {
+    "category": "Compréhension - Vocabulaire - Administratif et Faux-amis (Niveau B2+)",
+    "document": "L'échange téléphonique touchait à sa fin et la tension était désormais palpable. « Écoutez, madame, je conçois parfaitement que votre licenciement imprévu bouleverse vos projets personnels, répondit le gestionnaire d'un ton monocorde. Néanmoins, conformément aux clauses stipulées dans votre bail, et à moins que vous ne fournissiez une attestation employeur valide sous quarante-huit heures, votre préavis de trois mois reste exigible dans son intégralité. Inutile de feindre l'ignorance, la reconduction tacite des engagements est une pratique légale courante dont vous avez d'ailleurs profité l'année dernière. »",
+    "question": "Face aux explications de la cliente, le gestionnaire immobilier se montre :",
+    "options": {
+      "A": "Empathique et désireux de contourner les règles strictes de son agence.",
+      "B": "Inflexible, doutant ouvertement de la prétendue naïveté de son interlocutrice.",
+      "C": "Confus face aux clauses très complexes du contrat de reconduction tacite.",
+      "D": "Prêt à faire un geste commercial si un paiement partiel est effectué rapidement."
+    },
+    "answer": "B",
+    "explanation": "Le terme « ton monocorde », l'usage de « Néanmoins », et surtout l'accusation directe « Inutile de feindre l'ignorance » prouvent qu'il est froid, strict et ne croit pas à l'innocence de la locataire."
+  },
+  {
+    "category": "Grammaire - L'antériorité / Plus-que-parfait et les Regrets (Niveau C1)",
+    "document": "La réunion avec les créanciers ressemblait à une exécution sommaire. La directrice de la banque, au regard implacable, passa en revue les comptes désastreux de la société d'électroménager. « Monsieur Tapie, ce niveau d'endettement est une véritable bombe nucléaire à retardement. Je vous avais pourtant mise en garde contre ces risques bien avant que vous ne signiez ces accords calamiteux. » Bernard, muré dans le silence, sentit la colère monter. S'il n'avait pas cédé à la précipitation un an auparavant, il n'en serait jamais arrivé à devoir justifier sa vision stratégique devant cette cour martiale improvisée.",
+    "question": "Quel élément temporel est mis en évidence dans la dernière phrase du texte ?",
+    "options": {
+      "A": "L'exécution sommaire prévue par les créanciers à cause des dettes futures.",
+      "B": "Les pressions constantes exercées par la banque depuis le début de la crise.",
+      "C": "Une décision malheureuse prise dans un passé lointain ayant entraîné la crise présente.",
+      "D": "La signature imminente d'accords calamiteux pour tenter de sauver l'entreprise."
+    },
+    "answer": "C",
+    "explanation": "La structure « S'il n'avait pas cédé » (Conditionnel passé/Plus-que-parfait) exprime le regret lié à une action passée (« un an auparavant ») qui est la cause directe de la situation désastreuse actuelle."
+  },
+  {
+    "category": "Compréhension - Expressions idiomatiques (Niveau B2)",
+    "document": "Le stratagème était cousu de fil blanc, mais dans la panique du moment, c'était leur seule issue. Jules patientait sur le palier, le visage fermé et le regard lourd de soupçons. En entrouvrant la porte d'entrée, le colocataire s'efforça de prendre l'air le plus détaché possible : « Écoute, je suis navré de te faire déplacer jusqu'ici pour rien, mais Elsa a déjà quitté les lieux. Elle est partie très tôt pour assister à un séminaire. » C'est alors que, depuis le fond de la pièce plongée dans la pénombre, la voix grave du père résonna, validant bruyamment le mensonge : « Oui, tout à fait ! ». Un silence gêné s'abattit instantanément, réduisant à néant leurs efforts de dissimulation.",
+    "question": "Que signifie l'expression « cousu de fil blanc » dans ce contexte précis ?",
+    "options": {
+      "A": "Que l'excuse inventée nécessitait l'approbation d'une figure d'autorité.",
+      "B": "Que la situation était parfaitement organisée et maîtrisée de bout en bout.",
+      "C": "Que le mensonge préparé était beaucoup trop évident et manquait de subtilité.",
+      "D": "Que les vêtements du colocataire étaient inadaptés pour recevoir un invité."
+    },
+    "answer": "C",
+    "explanation": "L'expression française « cousu de fil blanc » s'utilise pour qualifier un mensonge, une excuse ou une intrigue tellement grossière et visible qu'elle ne trompe personne."
+  },
+  {
+    "category": "Compréhension - Dégager l'idée principale (Niveau B2/C1)",
+    "document": "Sous le feu des projecteurs, le présentateur affichait une aisance presque insolente. Son émission télévisée, baptisée pompeusement « Réussite », avait pour ambition claire de dépoussiérer l'image de l'entrepreneuriat dans une France frappée par la crise. « Il faut que nous cessions d'avoir honte de l'argent et que nous arrêtions de considérer chaque victoire individuelle comme une anomalie ou un crime, clama-t-il devant un public visiblement conquis. Je ne prétends pas que ce chemin soit facile, ni qu'il plaise aux élites traditionnelles, mais je tiens fermement à ce que chacun d'entre vous réalise qu'il tient son destin économique entre ses propres mains. »",
+    "question": "Quel message fondamental le présentateur cherche-t-il à insuffler à son auditoire ?",
+    "options": {
+      "A": "Le désir de créer une émission de télévision pour dénoncer la corruption des élites.",
+      "B": "La nécessité d'assumer son ambition sans culpabilité pour se forger un avenir.",
+      "C": "L'urgence de modifier les lois fiscales pour faciliter l'entrepreneuriat face à la crise.",
+      "D": "L'importance de rester très humble et discret lorsqu'on atteint enfin la richesse."
+    },
+    "answer": "B",
+    "explanation": "Tout le discours tourne autour de la décomplexion face à la réussite (« cesser d'avoir honte », « considérer une victoire comme une anomalie », « tient son destin entre ses mains »). L'option D est l'exact opposé de son propos."
+  },
+  {
+    "category": "Compréhension - Langage Familier et Sous-entendus (Niveau C1)",
+    "document": "Une discussion animée entre amies :\n— Balance le doss.\n— Quel doss ?\n— Tu fais ta tête de fouine. Tu me caches un truc ! T'es furtive, là, je le sens ! »",
+    "question": "Que révèle l'utilisation des termes « tête de fouine » et « furtive » dans ce contexte ?",
+    "options": {
+      "A": "La personne a un comportement fuyant car elle dissimule un secret.",
+      "B": "La personne se déplace très rapidement et discrètement.",
+      "C": "La personne est très curieuse et pose trop de questions.",
+      "D": "La personne fait preuve d'une grande élégance animale."
+    },
+    "answer": "A",
+    "explanation": "« Furtif » et « tête de fouine » décrivent ici quelqu'un qui a un regard coupable et tente de passer inaperçu parce qu'il cache une information. « Balancer le doss » (le dossier) signifie « avouer le secret »."
+  },
+  {
+    "category": "Compréhension - L'implicite et l'attitude (Niveau B2/C1)",
+    "document": "La disparition soudaine de Samuel Kerr, le fondateur charismatique de l'agence ASK, laissa ses collaborateurs dans un état de stupeur abyssal. Toutefois, une fois les larmes séchées et les somptueuses couronnes de fleurs commandées, la cruelle réalité du marché reprit instantanément le dessus dans les couloirs de l'entreprise. Derrière les éloges funèbres solennels et les souvenirs émus partagés à la machine à café, une question brûlante monopolisait secrètement l'esprit des associés : qui allait hériter des parts majoritaires du défunt et prendre le contrôle financier de ce navire prestigieux, désormais privé de son capitaine ?",
+    "question": "Selon ce passage, la réaction des agents face au décès de leur patron est principalement caractérisée par :",
+    "options": {
+      "A": "Une profonde dépression qui paralyse totalement l'activité de l'agence.",
+      "B": "Une préoccupation immédiate et pragmatique pour les enjeux de pouvoir.",
+      "C": "Une volonté unanime de vendre l'entreprise pour éviter la faillite.",
+      "D": "Un déni collectif quant à la réalité de la disparition de leur mentor."
+    },
+    "answer": "B",
+    "explanation": "L'implicite du texte montre que le deuil est de façade (« une fois les larmes séchées ») et que la véritable priorité est le « contrôle financier » et l'héritage des parts."
+  },
+  {
+    "category": "Grammaire - L'antériorité / Plus-que-parfait (Niveau C1)",
+    "document": "La stupeur envahit la salle de réunion lorsque le pot aux roses fut finalement découvert par l'équipe. Mathias, qui prétendait depuis des mois négocier durement avec la production pour sauver l'agence de la ruine, jouait en réalité un double jeu redoutable. Avant même que la rumeur du redressement judiciaire ne se répande dans la presse spécialisée, il _________ secrètement des pourparlers avec Starmedia, l'agence concurrente, pour y garantir sa propre place en cas de naufrage.",
+    "question": "Quel verbe conjugué au plus-que-parfait illustre correctement l'antériorité de la trahison de Mathias ?",
+    "options": {
+      "A": "avait entamé",
+      "B": "a entamé",
+      "C": "avait entamés",
+      "D": "aurait entamé"
+    },
+    "answer": "A",
+    "explanation": "L'action de négocier avec la concurrence s'est déroulée loin dans le passé, avant la découverte de la trahison. On utilise l'auxiliaire « avoir » à l'imparfait, et le participe passé « entamé » ne s'accorde pas car le COD (des pourparlers) est placé après le verbe."
+  },
+  {
+    "category": "Compréhension - Ironie et Sarcasme (Niveau B2)",
+    "document": "« Faire croire que vous partez chez notre grand concurrent simplement pour espionner et sauver l'agence... J'appelle ça vivre dangereusement. Immense respect. » lança Andréa en fixant Mathias droit dans les yeux, la voix tranchante. Derrière le fin sourire de façade qu'elle affichait, l'ambiance dans le bureau n'avait pourtant rien d'une célébration. Les autres associés observaient la scène en silence, parfaitement conscients que la loyauté à géométrie variable de leur confrère venait de franchir un point de non-retour.",
+    "question": "Quel est le ton exact employé par Andréa dans la première phrase de ce passage ?",
+    "options": {
+      "A": "Une admiration sincère face au courage professionnel de son collègue.",
+      "B": "Une inquiétude profonde quant aux risques juridiques encourus.",
+      "C": "Un sarcasme cinglant visant à souligner l'absurdité de son mensonge.",
+      "D": "Une confusion totale due à la complexité de la stratégie d'entreprise."
+    },
+    "answer": "C",
+    "explanation": "L'expression « Immense respect » est une antiphrase. La mention de la « voix tranchante » et du contexte (une trahison de la loyauté) prouve qu'elle se moque amèrement de l'excuse ridicule de Mathias."
+  },
+  {
+    "category": "Grammaire - Subjonctif de Nécessité (Niveau B2)",
+    "document": "Tandis que la perspective d'un rachat hostile planait sur la prestigieuse agence ASK, Arlette, doyenne de l'entreprise, toujours imperturbable avec son chien sur les genoux, prit la parole d'un ton solennel : « Écoutez-moi bien, les enfants. Si nous voulons survivre à cette tempête sans perdre notre âme et notre indépendance, il est absolument impératif que chacun d'entre vous ravale son ego et que nous _________ un front commun et solidaire face à l'adversité. »",
+    "question": "Conjuguez le verbe « former » pour compléter correctement la réplique d'Arlette :",
+    "options": {
+      "A": "formons",
+      "B": "formerons",
+      "C": "formions",
+      "D": "formions"
+    },
+    "answer": "C",
+    "explanation": "La structure impersonnelle « il est absolument impératif que » exige systématiquement le mode subjonctif. Avec le pronom « nous », le verbe régulier du premier groupe prend la terminaison « -ions »."
+  },
+  {
+    "category": "Compréhension - Les Faux-amis (Niveau C1)",
+    "document": "Fraîchement débarquée de sa province du sud, la jeune Camille pensait que son lien de parenté, savamment dissimulé, avec l'un des puissants pontes de l'agence lui ouvrirait miraculeusement les portes du septième art. Elle dut rapidement déchanter. Reléguée aux tâches ingrates d'assistante, elle découvrit que dans cet univers de faux-semblants, on attendait avant tout d'elle qu'elle assume les innombrables erreurs d'organisation en gardant le sourire, y compris celles qu'elle n'avait pas commises, afin de préserver la sacro-sainte réputation des acteurs.",
+    "question": "Dans le contexte de ce passage, que signifie le verbe « assumer » ?",
+    "options": {
+      "A": "Présumer ou supposer qu'une chose est vraie sans en avoir la preuve.",
+      "B": "Prendre sur soi la responsabilité d'une situation difficile et l'accepter.",
+      "C": "Déléguer secrètement ses propres tâches à un subordonné naïf.",
+      "D": "Dénoncer publiquement les injustices subies sur le lieu de travail."
+    },
+    "answer": "B",
+    "explanation": "C'est un piège classique pour les anglophones ! En français, « assumer » ne veut pas dire « to assume » (qui se traduit par supposer/présumer), mais « to take responsibility for » ou « to own up to »."
+  },
+  {
+    "category": "Connecteurs Logiques - (Niveau B2)",
+    "document": "Le réalisateur trépignait d'impatience derrière son moniteur. La comédienne, épuisée par des nuits blanches à bercer son nouveau-né, peinait de plus en plus à dissimuler ses cernes sous les épaisses couches de maquillage. _________ son agent lui ait expressément déconseillé d'accepter ce tournage physiquement harassant si peu de temps après son accouchement, elle avait signé le contrat à la hâte, contrainte par des obligations fiscales devenues impossibles à ignorer.",
+    "question": "Quel connecteur logique convient le mieux pour combler l'espace et exprimer l'opposition ?",
+    "options": {
+      "A": "Parce qu'",
+      "B": "Malgré qu'",
+      "C": "Bien qu'",
+      "D": "Cependant qu'"
+    },
+    "answer": "C",
+    "explanation": "Le passage exprime une concession/opposition. « Bien que » (Although) est le seul connecteur de la liste qui soit correct et qui exige d'être suivi par le subjonctif (« ait déconseillé »). Attention : « Malgré que » est généralement considéré comme incorrect en français soutenu, sauf avec le verbe avoir (Malgré qu'il en ait)."
+  },
+  {
+    "category": "Compréhension - Dégager l'idée principale (Niveau B2)",
+    "document": "Dans le milieu impitoyable du cinéma, la profession d'agent artistique traîne souvent une réputation sulfureuse. « Nous prélevons dix pour cent sur les contrats des stars, c'est ce modèle économique qui forge notre malédiction », philosopha Mathias avec un cynisme assumé. « Cela nous vaut d'être systématiquement étiquetés par la presse comme des vautours, toujours prêts à fondre sur la moindre faille pour s'enrichir. Alors qu'en réalité, à l'abri des regards, nous passons nos journées à jouer les confesseurs, à recoller les morceaux de leurs vies personnelles désastreuses et à cajoler leurs egos d'une fragilité terrifiante. »",
+    "question": "L'utilisation de la métaphore des « vautours » dans la bouche de Mathias sert à :",
+    "options": {
+      "A": "Revendiquer la cruauté nécessaire pour réussir dans les affaires.",
+      "B": "Dénoncer la vénalité des acteurs qui exploitent leurs agents.",
+      "C": "Illustrer la perception extérieure très négative et injuste de leur métier.",
+      "D": "Prouver que l'agence est sur le point de faire faillite financièrement."
+    },
+    "answer": "C",
+    "explanation": "Mathias oppose l'étiquette de « vautours » (l'image péjorative que le public a d'eux) à la réalité de leur métier, où ils agissent plutôt comme des confesseurs ou des psychologues protégeant des egos fragiles."
+  },
+  {
+    "category": "Compréhension - Psychologie et Prétextes (Niveau C1)",
+    "document": "Sur le plateau, l'assistant réalisateur s'arrachait les cheveux. La scène culminante du film exigeait que l'illustre acteur principal plonge dans une piscine non chauffée. Une directive que ce dernier refusait obstinément d'exécuter, invoquant à grands cris une « vision artistique divergente » et déplorant le « manque de cohérence psychologique » de l'action. En coulisses, Gabriel, son agent, soupira lourdement. Il savait pertinemment que toute cette rhétorique intellectuelle de haut vol ne servait qu'à masquer une vérité bien plus triviale : l'acteur, coquet à l'extrême, refusait tout simplement de ruiner son brushing coûteux devant l'équipe technique.",
+    "question": "Que suggère ce texte concernant l'argumentation théâtrale déployée par l'acteur ?",
+    "options": {
+      "A": "C'est une démarche sincère pour améliorer la qualité du scénario.",
+      "B": "C'est un écran de fumée verbal destiné à dissimuler un caprice de vanité.",
+      "C": "C'est une technique courante pour négocier un cachet plus élevé.",
+      "D": "C'est la preuve de son conflit personnel profond avec le réalisateur."
+    },
+    "answer": "B",
+    "explanation": "L'expression « masquer une vérité bien plus triviale » indique que l'acteur utilise des mots intellectuels (écran de fumée) pour cacher une préoccupation purement narcissique (son brushing)."
+  },
+  {
+    "category": "Grammaire - L'antériorité / Plus-que-parfait verbale cachée (Niveau B2/C1)",
+    "document": "Dans un coin du bistrot parisien, Gabriel sentit son téléphone vibrer. Au bout du fil, le producteur américain se montra catégorique : Cécile était jugée trop vieille pour le rôle et l'offre lui était retirée sur-le-champ. Le visage livide, Gabriel raccrocha. Lorsqu'il rejoignit l'actrice à sa table quelques instants plus tard, affichant un sourire détendu et chaleureux, il se contenta de lui murmurer que les contrats suivaient leur cours normal. Incapable d'affronter la détresse de son talent, il lui avait sciemment caché la vérité.",
+    "question": "Quel événement s'est produit en premier dans la chronologie de cette scène ?",
+    "options": {
+      "A": "Gabriel décide de sourire pour rassurer Cécile de France.",
+      "B": "Le producteur américain annule définitivement le casting de Cécile.",
+      "C": "Gabriel rejoint l'actrice à sa table dans le bistrot.",
+      "D": "Cécile découvre qu'elle a perdu son rôle dans le film."
+    },
+    "answer": "B",
+    "explanation": "C'est une question de chronologie logique. L'action déclencheuse initiale est l'appel du producteur (l'annulation). L'option D est un piège : le texte indique justement que Gabriel lui a « caché la vérité », donc Cécile ne l'a pas encore découverte."
+  },
+  {
+    "category": "Compréhension - L'antiphrase et l'Agressivité verbale (Niveau C1)",
+    "document": "Le tournage du film d'époque en costumes virait peu à peu au naufrage. Entre les deux têtes d'affiche masculines et féminines, la courtoisie professionnelle des premiers jours avait rapidement laissé place à une guerre des tranchées silencieuse. « C'est absolument fascinant de constater avec quelle merveilleuse constance tu parviens à oublier ton texte à chaque fois que la caméra commence à tourner, murmura l'actrice avec un sourire glacial. Ton implication démesurée dans ce projet force véritablement le respect. » Face à l'affront public, son partenaire serra les poings à s'en faire blanchir les jointures.",
+    "question": "La réplique de l'actrice envers son partenaire constitue principalement :",
+    "options": {
+      "A": "Une tentative maladroite de détendre l'atmosphère par l'humour.",
+      "B": "Une admiration avouée pour sa capacité à improviser face à la caméra.",
+      "C": "Un conseil professionnel bienveillant pour l'aider à mémoriser son texte.",
+      "D": "Une attaque passive-agressive utilisant des louanges simulées."
+    },
+    "answer": "D",
+    "explanation": "L'utilisation de mots mélioratifs (« merveilleuse constance », « force le respect », « fascinant ») couplée à un « sourire glacial » et au contexte de « guerre » définit parfaitement l'antiphrase, une technique d'agression passive très française."
+  },
+  {
+    "category": "Compréhension - Métaphore et Ton (Niveau B2+)",
+    "document": "L'arrivée de Hisham Janowski, le nouveau propriétaire millionnaire de l'agence ASK, suscita rapidement les murmures amusés des assistantes. Observant de loin ce patron parachuté dans un milieu artistique qu'il ne maîtrisait absolument pas, Noémie glissa à Camille avec un sourire en coin : « En même temps, avec tout le pognon qu'il a, pour lui, cette agence, ce n'est rien. C'est exactement comme s'il s'achetait un château Playmobil. Visiblement, il ne va pas y jouer bien souvent, vu qu'il vit la moitié de l'année à Londres. » Mais derrière cette apparente légèreté, l'équipe redoutait secrètement les méthodes d'un homme d'affaires britannique habitué à rentabiliser ses « jouets » coûte que coûte.",
+    "question": "L'utilisation de la métaphore du « château Playmobil » par l'assistante sert avant tout à souligner :",
+    "options": {
+      "A": "La taille dérisoire des locaux de l'agence parisienne par rapport à ceux de Londres.",
+      "B": "Le mépris affiché du nouveau patron pour le cinéma d'auteur et l'art dramatique.",
+      "C": "Le décalage entre la richesse du propriétaire et le manque d'enjeux financiers qu'il perçoit dans cet investissement.",
+      "D": "L'immaturité flagrante et le comportement profondément enfantin du nouveau directeur au quotidien."
+    },
+    "answer": "C",
+    "explanation": "Un jouet Playmobil représente un achat financièrement insignifiant pour un adulte. L'option D est un piège (interprétation littérale du mot « jouet »). La métaphore illustre que pour un millionnaire, ASK est une dépense mineure qui ne menace pas son capital (il l'a achetée comme on achète un petit jouet)."
+  },
+  {
+    "category": "Grammaire - L'Hypothèse et le Regret (Niveau C1)",
+    "document": "Le silence dans le bureau de Gabriel était devenu assourdissant. Poussé dans ses derniers retranchements, Mathias finit par cracher le morceau : la jeune assistante dévouée n'était autre que sa propre fille illégitime. Gabriel, stupéfait par l'ampleur de la supercherie, peinait à formuler une phrase cohérente. « Depuis le début ? Tu comptais nous prévenir quand au juste ? » balbutia-t-il, trahi. En vérité, Mathias avait surtout espéré gagner du temps. S'il n'avait pas craint que ce scandale familial ne fît exploser l'équilibre déjà précaire de l'agence, il aurait sans doute clarifié la situation dès l'embauche de Camille. Mais la lâcheté, comme souvent, l'avait emporté.",
+    "question": "Quelle information temporelle ou logique est exprimée par la structure « S'il n'avait pas craint [...] il aurait clarifié » ?",
+    "options": {
+      "A": "Une action inévitable dans le futur qui va définitivement détruire l'agence.",
+      "B": "L'anticipation d'un scandale médiatique imminent qu'il n'a pas pu éviter.",
+      "C": "Un reproche direct adressé à Gabriel pour son manque de compréhension émotionnelle.",
+      "D": "Une condition irréelle dans le passé expliquant le motif de son long silence."
+    },
+    "answer": "D",
+    "explanation": "La structure [Si + Plus-que-parfait] suivie du [Conditionnel Passé] exprime l'irréel du passé. Mathias a eu peur (c'est un fait), donc il n'a rien dit. La phrase explique que si la situation avait été différente (ce qui est faux), il aurait agi autrement."
+  },
+  {
+    "category": "Compréhension - Sous-entendus et Hypocrisie (Niveau B2+)",
+    "document": "L'acteur vedette, confortablement affalé dans le canapé du bureau, feuilletait le scénario avec une moue dédaigneuse. « Ce n'est pas que le cachet me rebute, Andréa. C'est simplement que l'arc narratif de mon personnage manque singulièrement d'épaisseur psychologique. J'en ai vu de toutes les couleurs dans ce métier, mais des amoureux en face l'un de l'autre qui trinquent au lieu de s'embrasser pour de bon, c'est d'une platitude affligeante ! » Andréa opina du chef avec une compassion parfaitement feinte. Elle savait pertinemment que son client cherchait désespérément une excuse intellectuelle pour se retirer d'un tournage dont le réalisateur venait d'être accusé de harcèlement dans la presse matinale.",
+    "question": "L'attitude d'Andréa face aux critiques de son client sur le scénario démontre qu'elle :",
+    "options": {
+      "A": "Partage sincèrement son indignation face à la pauvreté littéraire des dialogues.",
+      "B": "Tente de le manipuler pour qu'il accepte malgré tout une forte baisse de salaire.",
+      "C": "Joue le jeu de la complaisance tout en connaissant ses véritables motivations inavouables.",
+      "D": "Est complètement ignorante des récents scandales touchant le réalisateur du film."
+    },
+    "answer": "C",
+    "explanation": "L'expression « opina du chef avec une compassion feinte » (nodded with fake compassion) révèle l'hypocrisie professionnelle. Elle fait semblant de valider son excuse artistique, alors qu'elle sait qu'il veut juste fuir un scandale de presse."
+  },
+  {
+    "category": "Compréhension - Vocabulaire Idiomatique (Niveau C1)",
+    "document": "Arrêtés sur le bas-côté d'une route de campagne pour un excès de vitesse manifeste alors qu'ils tentaient de rejoindre un tournage, Gabriel et Hervé voyaient déjà leur journée s'effondrer. Mais le gendarme, reconnaissant soudainement l'agent du célèbre comédien dont sa propre fille était éperdument fan, changea radicalement d'attitude. Rangeant son carnet à souches, il glissa avec un clin d'œil : « Enfin bref, vous n'irez pas devant le juge. Son film, il faut absolument qu'il le finisse ! Si vous pouviez juste lui demander un autographe, ce serait pour ma fille... » Gabriel, soulagé d'avoir échappé à une lourde contravention par un tel passe-droit, s'empressa de promettre monts et merveilles.",
+    "question": "Dans cette situation, le terme « passe-droit » utilisé à la fin du texte désigne :",
+    "options": {
+      "A": "Une autorisation légale de conduire un véhicule de fonction malgré une petite infraction.",
+      "B": "Une faveur illégitime obtenue uniquement grâce à un statut ou à des relations.",
+      "C": "Un arrangement financier formel permettant de payer une contravention en plusieurs fois.",
+      "D": "Un document officiel délivré par le gendarme pour justifier le retard des agents au travail."
+    },
+    "answer": "B",
+    "explanation": "C'est du vocabulaire B2/C1 essentiel. Un « passe-droit » est un privilège abusif, une exception au règlement accordée par favoritisme. Ici, le gendarme annule l'amende en échange d'une faveur personnelle (un autographe)."
+  },
+  {
+    "category": "Grammaire - Subjonctif de Concession et d'Indignation (Niveau C1)",
+    "document": "Depuis la prise de contrôle par Hisham Janowski, l'atmosphère chez ASK était devenue irrespirable. Lors de la réunion hebdomadaire, l'homme d'affaires imposa froidement de nouvelles directives ultra-restrictives. « Je conçois que ces procédures d'entreprise vous heurtent, trancha-t-il, mais je doute fort que nous redressions la barre en gérant cette agence comme un camp de vacances. » Mathias, ravalant difficilement sa fierté, griffonna un mot sur le bloc-notes de Gabriel : « Qu'il exige de la rentabilité, soit. C'est son rôle. Mais qu'il nous traite comme des stagiaires incompétents devant toute l'équipe, je ne l'accepterai pas. »",
+    "question": "Que traduit l'usage des subordonnées au subjonctif dans la réflexion de Mathias (« Qu'il exige... soit. Mais qu'il nous traite... ») ?",
+    "options": {
+      "A": "L'expression d'un ordre formel qu'il s'apprête à donner à son propre supérieur.",
+      "B": "Le doute profond de Mathias quant aux véritables compétences financières de Hisham.",
+      "C": "Une concession résignée sur un fait d'abord, suivie d'une profonde indignation face à un autre.",
+      "D": "Le désir ardent de voir Hisham modifier ses méthodes de travail dans les plus brefs délais."
+    },
+    "answer": "C",
+    "explanation": "La structure « Que + [Subjonctif], soit » est une formule classique pour concéder un argument (« J'accepte le fait qu'il exige de la rentabilité »). Elle est immédiatement mise en opposition avec un deuxième subjonctif (« Mais qu'il nous traite... ») qui exprime, lui, le rejet viscéral et l'indignation. C'est une figure de style très élégante pour argumenter."
+  },
+  {
+    "category": "Compréhension - Vie Professionnelle",
+    "document": "MATHIEU LEROUX\nRESPONSABLE COMMERCIAL\nAgence publicité et marketing Noiret\n\nTél : 01 23 32 23 32\nEmail : mathieu.leroux@anoiret.fr\nSite : agence-noiret.com",
+    "question": "Ce document est",
+    "options": {
+      "A": "un carton d’invitation.",
+      "B": "une carte de visite.",
+      "C": "un faire-part.",
+      "D": "une publicité."
+    },
+    "answer": "B",
+    "explanation": "Ce document mentionne le nom, la profession, et les coordonnées d’une personne. C’est donc une carte de visite."
+  },
+  {
+    "category": "Compréhension - Petites Annonces",
+    "document": "Réfrigérateur comme neuf\n100€\n\nFrigo de seconde main, 1m88 (hauteur), 60 cm (largeur), 67 cm (profondeur).\nAcheté il y a un an, très peu utilisé.\nEncore sous garantie pendant 1 an.\n\nÀ récupérer à Ville-Marie, à Montréal.\nContact pour photos ou informations supplémentaires par e-mail ou par téléphone.",
+    "question": "Le produit vendu dans cette annonce",
+    "options": {
+      "A": "peut être expédié.",
+      "B": "est très ancien.",
+      "C": "est d’occasion.",
+      "D": "est un téléphone."
+    },
+    "answer": "C",
+    "explanation": "Il est décrit « comme neuf » et « de seconde main », ce qui signifie qu'il est d’occasion.\nFrench has two words for 'new': neuf and nouveau. Neuf means brand-new from a store or factory (opposite of old/used). Nouveau means 'new to you' or a change in status, like a new hairstyle or a new boss."
+  },
+  {
+    "category": "Compréhension - Tourisme",
+    "document": "GUÉDELON\n\nNous bâtissons un château fort avec la pierre, la terre, le bois et nos mains… Nous transformons la nature en château fort ! Notre site est à visiter ou à revisiter sans modération.\nSitué dans l’Yonne, venez partager avec nous l’aventure de Guédelon au cœur de la forêt dans une nature préservée et sereine.\nVisitez Guédelon à votre rythme, en prenant le temps d’observer les gestes, d’échanger avec les ouvriers...",
+    "question": "Ce document propose",
+    "options": {
+      "A": "de visiter un monument historique.",
+      "B": "d’assister à un spectacle vivant.",
+      "C": "de découvrir un chantier médiéval.",
+      "D": "de randonner dans une forêt calme."
+    },
+    "answer": "C",
+    "explanation": "Un « chantier » est un site de construction. L’annonce propose de visiter un lieu où se construit (« nous bâtissons ») un château."
+  },
+  {
+    "category": "Grammaire - Pronoms",
+    "question": "Cédric veut toujours partir en vacances à la mer, mais _____, je préfère la montagne.",
+    "options": { "A": "mois", "B": "moi", "C": "me", "D": "je" },
+    "answer": "B",
+    "explanation": "On utilise le pronom tonique « moi » avant le sujet « je » pour marquer un contraste avec Cédric."
+  },
+  {
+    "category": "Vocabulaire - Collocations",
+    "question": "J’ai répondu à la question que tu m’as _____.",
+    "options": {
+      "A": "demandée",
+      "B": "dite",
+      "C": "posée",
+      "D": "interrogée"
+    },
+    "answer": "C",
+    "explanation": "En français, on dit « poser une question » et non pas « demander une question »."
+  },
+  {
+    "category": "Vocabulaire - Monde du travail",
+    "question": "Elle a travaillé en région parisienne pendant une dizaine d’années, puis son entreprise l’a _____ dans le sud de la France.",
+    "options": {
+      "A": "mutée",
+      "B": "changée",
+      "C": "virée",
+      "D": "fabriquée"
+    },
+    "answer": "A",
+    "explanation": "« Muter » signifie qu’une entreprise envoie un employé travailler ailleurs."
+  },
+  {
+    "category": "Compréhension - Analyse de Graphique",
+    "document": "« Nos efforts continus de prospection en Outre-Mer semblent porter leurs fruits. Malgré des fluctuations, une performance record a été enregistrée au mois de mai. »",
+    "ascii_art": [
+      "[Graphique 1]                  [Graphique 2]",
+      " 50|          /            50|          /\\",
+      " 30|      _.-'             30|\\        /  \\    _.-",
+      " 10| __.-' ~               10| \\_ _  /    \\ _/",
+      "  0+--------------------    0+--------------------",
+      "    Jan Fév Mar Avr Mai Jui   Jan Fév Mar Avr Mai Jui",
+      "",
+      "[Graphique 3]                  [Graphique 4]",
+      " 50|\\                      50|          /\\",
+      " 30| \\__          _.-      30|\\  /\\    /  \\",
+      " 10|    \\_      _/__       10| \\_  _  /    \\_/ \\",
+      "  0+--------------------    0+--------------------",
+      "    Jan Fév Mar Avr Mai Jui   Jan Fév Mar Avr Mai Jui"
+    ],
+    "question": "Quel graphique correspond à ce commentaire ?",
+    "options": {
+      "A": "Graphique 1",
+      "B": "Graphique 2",
+      "C": "Graphique 3",
+      "D": "Graphique 4"
+    },
+    "answer": "D",
+    "explanation": "Le commentaire mentionne des « fluctuations » (des hauts et des bas, ce qui élimine les graphiques 1 et 3) et indique une « performance record au mois de mai » (ce qui correspond au pic géant du Graphique 4, contrairement au Graphique 2 qui a son pic en mars)."
+  },
+  {
+    "category": "Compréhension - Service Client",
+    "question": "Pour s’excuser du problème rencontré, l’entreprise...",
+    "options": {
+      "A": "procède à un remboursement.",
+      "B": "envoie un cadeau.",
+      "C": "commence des soldes.",
+      "D": "fait un geste commercial."
+    },
+    "answer": "D",
+    "explanation": "Offrir une remise de 20% sur un prochain achat est un « geste commercial » (standard B2 terminology)."
+  },
+  {
+    "category": "Compréhension - Démarches Académiques [Difficulté : Moyenne]",
+    "document": "« Cher candidat, le jury de la Licence 3 Informatique générale a examiné votre demande de Validation des Acquis Professionnels et Personnels (VAPP). Bien que votre expérience en entreprise soit très valorisante, votre candidature est actuellement mise en attente. En effet, il manque à votre dossier le justificatif de votre niveau de français. Sans la réception de ce document avant le 15 juin, nous ne pourrons pas donner une suite favorable à votre admission à l'université. »",
+    "question": "Quel est le statut actuel de la candidature décrite dans cet e-mail ?",
+    "options": {
+      "A": "Elle est définitivement rejetée par le jury.",
+      "B": "Elle est acceptée sous réserve de réussir un examen d'informatique.",
+      "C": "Elle est suspendue jusqu'à l'envoi d'une pièce manquante.",
+      "D": "Elle est entièrement validée grâce à l'expérience professionnelle."
+    },
+    "answer": "C",
+    "explanation": "« Mise en attente » signifie que la procédure est suspendue. L'option A est fausse (pas encore rejetée), l'option B est un piège (le document manquant concerne la langue, pas l'informatique), et l'option D ignore la condition stricte imposée par le jury."
+  },
+  {
+    "category": "Compréhension - Faux-amis et Vocabulaire Technique [Difficulté : Difficile]",
+    "document": "« Le nouvel algorithme de vision par ordinateur fait beaucoup parler de lui. Il prétend réduire la latence à moins de 6 millisecondes sur le traitement d'images haute résolution. C'est une promesse extrêmement ambitieuse. Toutefois, si son architecture est intéressante, elle nécessite une telle puissance de calcul que son déploiement sur des systèmes embarqués ou des drones autonomes s'avère totalement rédhibitoire à ce stade de développement. »",
+    "question": "D'après ce texte, l'intégration de cet algorithme sur des drones autonomes est :",
+    "options": {
+      "A": "Recommandée malgré les légers problèmes de latence.",
+      "B": "Fortement compromise à cause de ses exigences matérielles.",
+      "C": "Idéale car l'algorithme est conçu pour l'autonomie.",
+      "D": "Impossible en raison de son coût d'achat très élevé."
+    },
+    "answer": "B",
+    "explanation": "C'est un test sur le vocabulaire B2/C1. « Rédhibitoire » désigne un défaut inacceptable qui empêche la réalisation d'une chose. L'option D est un distracteur classique : le texte parle de « puissance de calcul » (exigences matérielles/hardware), pas du prix."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée [Difficulté : Extra-Difficile]",
+    "document": "« Face à la pénurie de talents, de nombreuses entreprises se tournent vers les développeurs \"full-stack\". Ces couteaux suisses du web maîtrisent tant la création d'interfaces que la gestion des bases de données. Toutefois, si cette grande polyvalence séduit immédiatement les startups cherchant à optimiser leur masse salariale, les architectes logiciels mettent en garde : à vouloir tout faire, on finit souvent par effleurer les concepts sans jamais les approfondir, ce qui peut se faire au détriment de la solidité globale de l'infrastructure e-commerce. »",
+    "question": "Quelle est l'idée principale exprimée dans ce paragraphe ?",
+    "options": {
+      "A": "Les startups préfèrent engager des spécialistes plutôt que des profils généralistes.",
+      "B": "La maîtrise de plusieurs langages garantit une meilleure infrastructure e-commerce.",
+      "C": "Le manque de développeurs fait chuter les salaires dans les startups.",
+      "D": "La polyvalence de ces développeurs est appréciée mais présente des limites techniques."
+    },
+    "answer": "D",
+    "explanation": "L'option A est le contraire du texte. L'option B est fausse (le texte dit que ça se fait au détriment de l'infrastructure). L'option C est un distracteur utilisant des mots du texte (« masse salariale », « pénurie ») hors contexte. L'option D résume parfaitement la nuance : appréciée (séduit les startups) mais limitée (effleurer les concepts)."
+  },
+  {
+    "category": "Compréhension - Vie Quotidienne (Logement) [Difficulté : Difficile]",
+    "document": "« Chers résidents, suite à un dégât des eaux survenu au 3ème étage, nous vous informons qu'une coupure d'eau générale sera effectuée ce jeudi de 9h à 14h afin de permettre l'intervention du plombier. Par ailleurs, nous rappelons aux locataires concernés qu'il est impératif de transmettre leur constat amiable à leur assurance habitation dans un délai de cinq jours ouvrés suivant le sinistre. Le syndic décline toute responsabilité en cas de retard de déclaration. »",
+    "question": "Selon cette note, quelle démarche les locataires victimes du problème doivent-ils accomplir ?",
+    "options": {
+      "A": "Prévenir le syndic avant l'arrivée du plombier jeudi matin.",
+      "B": "Payer les réparations liées aux dommages causés au 3ème étage.",
+      "C": "Envoyer un document spécifique à leur compagnie d'assurance rapidement.",
+      "D": "Déclarer le sinistre au plombier dans un délai de cinq jours."
+    },
+    "answer": "C",
+    "explanation": "« Transmettre leur constat amiable à leur assurance habitation dans les cinq jours » correspond à l'envoi rapide d'un document à l'assurance. Les mots « dégât des eaux » (water damage) et « sinistre » (incident/claim) sont incontournables au niveau B2."
+  },
+  {
+    "category": "Compréhension - Services et Contrats [Difficulté : Moyenne]",
+    "document": "« Conformément à nos conditions générales, toute demande de résiliation de votre abonnement sportif doit être notifiée par lettre recommandée avec accusé de réception au moins un mois avant la date d'échéance. À défaut, l'abonnement sera tacitement reconduit pour un an. Notez qu'un déménagement professionnel ou un problème de santé prolongé (sur présentation d'un justificatif) constituent des motifs légitimes pour une rupture anticipée sans pénalité. »",
+    "question": "Dans quelle situation un abonné peut-il annuler son contrat avant la fin de l'année sans payer de frais supplémentaires ?",
+    "options": {
+      "A": "S'il envoie un e-mail au moins un mois avant la date de fin.",
+      "B": "S'il doit changer de ville pour le travail et peut le prouver.",
+      "C": "S'il oublie la date d'échéance et que le contrat est reconduit.",
+      "D": "S'il décide d'arrêter le sport et refuse de payer son mois."
+    },
+    "answer": "B",
+    "explanation": "Le texte indique qu'un « déménagement professionnel » permet une « rupture anticipée sans pénalité » (c'est-à-dire une annulation avant la fin sans payer de frais). Attention au terme « tacitement reconduit » : cela signifie que le contrat se renouvelle automatiquement, un grand classique des pièges administratifs français !"
+  },
+  {
+    "category": "Compréhension - Ton, Ironie et Implicite [Difficulté : Locuteur Natif]",
+    "document": "« La nouvelle mouture de cette plateforme e-commerce nous était annoncée comme une véritable révolution. L'agence de communication nous promettait une fluidité sans pareille. À l'usage, on découvre surtout une vitrine alourdie par des animations superflues, masquant péniblement un back-end capricieux. Quant au tout nouveau système d'authentification sur mesure, il a au moins le grand mérite de tester la patience des utilisateurs les plus stoïques. Une grande réussite, en somme. »",
+    "question": "Quel est le véritable avis du journaliste concernant le système d'authentification ?",
+    "options": {
+      "A": "Il est incroyablement sécurisé et protège bien les clients.",
+      "B": "Il est particulièrement frustrant et lent à utiliser.",
+      "C": "Il est esthétiquement très réussi mais un peu inutile.",
+      "D": "Il demande une formation technique pour être compris."
+    },
+    "answer": "B",
+    "explanation": "Le texte repose entièrement sur le sarcasme. Dire qu'un système « a le mérite de tester la patience des utilisateurs » signifie de manière implicite et ironique qu'il est atrocement lent et frustrant. La phrase finale (« Une grande réussite, en somme. ») est une antiphrase (dire le contraire de ce que l'on pense)."
+  },
+  {
+    "category": "Vocabulaire - Collocations & Faux-amis (Piège classique)",
+    "question": "Le 10 juin prochain, il devra _____ son examen du DELF B2 au centre de langues.",
+    "options": {
+      "A": "réussir",
+      "B": "passer",
+      "C": "prendre",
+      "D": "faire"
+    },
+    "answer": "B",
+    "explanation": "Anglicism alert! In English you 'take' a test and 'pass' it if you succeed. In French, you 'passer un examen' (take a test), and you 'réussir un examen' (pass it)."
+  },
+  {
+    "category": "Vocabulaire - Académique (Faux-amis)",
+    "document": "La présence est obligatoire. Pour valider son année en Licence 3 d'informatique générale, l'étudiant doit s'engager à se présenter à tous les travaux dirigés.",
+    "question": "Selon le règlement, l'étudiant a l'obligation de/d' _____ aux cours.",
+    "options": {
+      "A": "attendre",
+      "B": "écouter",
+      "C": "assister",
+      "D": "participer"
+    },
+    "answer": "C",
+    "explanation": "To 'attend' a class or meeting is 'assister à' in French. 'Attendre' means to wait."
+  },
+  {
+    "category": "Vocabulaire - Professionnel (Piège anglophone)",
+    "question": "Après avoir vu l'annonce pour le poste d'ingénieur logiciel en chef, Jalin a décidé de/d' _____ immédiatement.",
+    "options": {
+      "A": "appliquer",
+      "B": "postuler",
+      "C": "demander",
+      "D": "inscrire"
+    },
+    "answer": "B",
+    "explanation": "You do not 'appliquer' for a job in French (that's an anglicism). You 'postuler à une offre d'emploi'."
+  },
+  {
+    "category": "Compréhension - Nuance de Ton (Avis partagé)",
+    "document": "« Le nouvel algorithme de vision par ordinateur est d'une rapidité remarquable et la latence est quasiment nulle. C'est une vraie prouesse technique. Quel dommage, cependant, que l'architecture soit si complexe à intégrer pour les petites équipes de développement. »",
+    "question": "L'avis exprimé par l'auteur sur l'algorithme est :",
+    "options": {
+      "A": "Totalement élogieux.",
+      "B": "Sévèrement critique.",
+      "C": "Mitigé.",
+      "D": "Totalement indifférent."
+    },
+    "answer": "C",
+    "explanation": "The author praises the speed but complains about the complexity ('Quel dommage, cependant...'). An opinion with both positive and negative elements is 'mitigé' (mixed/avis partagé)."
+  },
+  {
+    "category": "Vocabulaire - Administratif (Services & E-commerce)",
+    "question": "Avant de lancer le développement du nouveau site e-commerce, l'agence a envoyé un _____ au client pour estimer le coût total de la prestation.",
+    "options": {
+      "A": "devis",
+      "B": "reçu",
+      "C": "bilan",
+      "D": "chèque"
+    },
+    "answer": "A",
+    "explanation": "A 'devis' is a quote or estimate provided before a service. A 'facture' (invoice) or 'reçu' (receipt) comes after."
+  },
+  {
+    "category": "Compréhension - Compréhension de l'Implicite (Administration)",
+    "document": "Monsieur, \nMalgré l'indéniable qualité de votre projet d'intelligence artificielle et la pertinence de votre budget, nous sommes au regret de ne pouvoir donner une suite favorable à votre demande de subvention pour cette année fiscale.",
+    "question": "Quel est l'objectif principal de ce courrier ?",
+    "options": {
+      "A": "Féliciter le candidat pour son projet.",
+      "B": "Demander des documents financiers supplémentaires.",
+      "C": "Notifier un refus.",
+      "D": "Proposer un entretien d'évaluation."
+    },
+    "answer": "C",
+    "explanation": "« Ne pouvoir donner une suite favorable » is the standard, polite French administrative phrasing for rejecting an application (Notifier un refus)."
+  },
+  {
+    "category": "Compréhension - Distracteur de Portée (Too Broad/Too Narrow)",
+    "document": "Bien que les drones fassent la une des journaux pour la livraison de colis, la véritable révolution silencieuse se joue aujourd'hui dans l'agriculture. Équipés de capteurs multispectraux, ces engins volants permettent désormais d'analyser la santé des cultures, de cartographier les champs et d'optimiser l'arrosage avec une précision chirurgicale.",
+    "question": "Quel est le thème principal de ce paragraphe ?",
+    "options": {
+      "A": "Les innovations technologiques dans la presse.",
+      "B": "Le futur de la livraison à domicile.",
+      "C": "La photographie aérienne haute résolution.",
+      "D": "L'utilisation des drones dans le secteur agricole."
+    },
+    "answer": "D",
+    "explanation": "Option B is a distractor mentioned in the first sentence. Option C is too narrow. Option D represents the core subject of the text."
+  },
+  {
+    "category": "Vocabulaire - du Quotidien (Administration Bancaire)",
+    "question": "Pour que l'université puisse procéder au virement de vos frais de déplacement, merci de fournir votre _____ à la scolarité.",
+    "options": { "A": "CV", "B": "SMIC", "C": "RIB", "D": "Kbis" },
+    "answer": "C",
+    "explanation": "A 'RIB' (Relevé d'Identité Bancaire) is the document containing your bank details, universally required in France to receive a bank transfer (virement)."
+  },
+  {
+    "category": "Connecteurs Logiques - Opposition",
+    "question": "Le déploiement de la nouvelle interface web s'est déroulé sans problème majeur sur les serveurs ; _____, quelques utilisateurs rencontrent encore des bugs d'affichage sur mobile.",
+    "options": {
+      "A": "en effet",
+      "B": "par conséquent",
+      "C": "néanmoins",
+      "D": "d'ailleurs"
+    },
+    "answer": "C",
+    "explanation": "The sentence introduces a success, followed by a lingering issue. 'Néanmoins' (nevertheless/however) is the correct logical connector for opposition/concession."
+  },
+  {
+    "category": "Vocabulaire - Professionnel (Ressources Humaines)",
+    "document": "Suite à votre embauche, les trois premiers mois permettront d'évaluer vos compétences sur le terrain. Durant cette phase, le contrat peut être rompu à tout moment par l'une ou l'autre des parties.",
+    "question": "Le document fait référence à :",
+    "options": {
+      "A": "une période d'essai.",
+      "B": "un licenciement abusif.",
+      "C": "un congé maternité.",
+      "D": "un préavis de départ."
+    },
+    "answer": "A",
+    "explanation": "A probationary period at the start of a job is called 'une période d'essai' in French labor law."
+  },
+
+  {
+    "category": "Subjonctif - L'Émotion (La Peur)",
+    "document": "Bernard exprime sa crainte de décevoir les supporters marseillais avant la finale.",
+    "question": "« Plus le temps passait, plus les gens nous sentaient favoris. Et on avait tous peur qu'ils _____ déçus. »",
+    "options": {
+      "A": "sont",
+      "B": "seront",
+      "C": "soient",
+      "D": "été"
+    },
+    "answer": "C",
+    "explanation": "L'expression « avoir peur que » exprime une émotion et déclenche toujours l'utilisation du subjonctif. Le subjonctif présent de « être » pour « ils » est « soient »."
+  },
+  {
+    "category": "Subjonctif - L'Obligation / La Nécessité",
+    "document": "Le procureur Montgolfier demande à Jacques Glassmann de confirmer ses accusations.",
+    "question": "« Essayez de réfléchir. Il faut que vous _____ sûr de vous. »",
+    "options": {
+      "A": "êtes",
+      "B": "soyez",
+      "C": "serez",
+      "D": "étiez"
+    },
+    "answer": "B",
+    "explanation": "La structure impersonnelle « Il faut que » exprime une nécessité absolue et requiert le mode subjonctif. Avec le pronom « vous », le verbe « être » devient « soyez »."
+  },
+  {
+    "category": "Subjonctif - La Volonté / Le Désir",
+    "document": "Dans les vestiaires, Bernard motive ses joueurs avant le match contre le PSG.",
+    "question": "« Ce soir, c'est pas juste du football. Ce soir, c'est l'histoire. Je veux qu'on leur _____ une branlée, au PSG. »",
+    "options": {
+      "A": "met",
+      "B": "mettons",
+      "C": "mette",
+      "D": "mettra"
+    },
+    "answer": "C",
+    "explanation": "Les verbes exprimant la volonté ou le désir, comme « vouloir que », nécessitent le subjonctif. Avec le sujet « on », le verbe « mettre » devient « mette »."
+  },
+  {
+    "category": "Subjonctif - Le Doute",
+    "document": "Le procureur Montgolfier avertit Bernard Tapie des risques s'il persiste dans le mensonge.",
+    "question": "« Mais si vous continuez à mentir [...] je doute fort que vous _____ à une condamnation. »",
+    "options": {
+      "A": "échappez",
+      "B": "échapperez",
+      "C": "échappiez",
+      "D": "échappé"
+    },
+    "answer": "C",
+    "explanation": "L'expression « douter que » exprime une incertitude et demande le subjonctif. Pour les verbes réguliers en -er, la terminaison avec « vous » est « -iez » (échappiez)."
+  },
+  {
+    "category": "Subjonctif - L'Obligation (Forme Orale)",
+    "document": "Bernard demande à Dominique de lui faire confiance pour relancer leurs affaires.",
+    "question": "« Revenir à ce qu'on sait faire. Pour ça, faut que tu me _____ confiance. »",
+    "options": {
+      "A": "fais",
+      "B": "fasses",
+      "C": "fera",
+      "D": "fait"
+    },
+    "answer": "B",
+    "explanation": "Même à l'oral, lorsque le « il » de « il faut que » est supprimé (« faut que »), la règle reste la même : le subjonctif est obligatoire. Le subjonctif de « faire » avec « tu » est « fasses »."
+  },
+  {
+    "category": "Subjonctif - La Préférence",
+    "document": "Bernard refuse l'arrangement à l'amiable proposé par le procureur.",
+    "question": "« Déjà, c'est pas la première fois, et puis je préfère que chacun _____ dans son coin. »",
+    "options": {
+      "A": "restes",
+      "B": "reste",
+      "C": "restera",
+      "D": "resté"
+    },
+    "answer": "B",
+    "explanation": "L'expression « préférer que » indique une volonté/préférence et déclenche le subjonctif. Le pronom indéfini « chacun » se conjugue à la troisième personne du singulier (reste)."
+  },
+  {
+    "category": "Subjonctif - Conjonction de But",
+    "document": "Madame Leduc tente d'apaiser les ouvriers de Wonder en colère après l'annonce des licenciements.",
+    "question": "« J'ai parlé à M. Tapie. [...] Il m'a donné toute latitude pour qu'on _____ sereinement. »",
+    "options": {
+      "A": "parle",
+      "B": "parlons",
+      "C": "parlera",
+      "D": "parler"
+    },
+    "answer": "A",
+    "explanation": "Les locutions conjonctives exprimant un but (comme « pour que » ou « afin que ») sont toujours suivies du subjonctif. Avec « on », on utilise la terminaison « -e » (parle)."
+  },
+  {
+    "category": "Subjonctif - L'Obligation / La Nécessité",
+    "document": "Dominique conseille à Bernard d'abandonner l'affaire face à la pression médiatique et judiciaire.",
+    "question": "« Il faut que tu _____ l'affaire. Sinon, ils vont te broyer. Tu m'entends ? »",
+    "options": {
+      "A": "lâche",
+      "B": "lâches",
+      "C": "lâchais",
+      "D": "lâcheras"
+    },
+    "answer": "B",
+    "explanation": "N'oubliez pas que pour les verbes réguliers du premier groupe (-er), le subjonctif présent avec « tu » prend toujours un « -s » (que tu lâches) après la structure d'obligation « Il faut que »."
+  },
+  {
+    "category": "Subjonctif - Conjonction de But",
+    "document": "Jean, le père de Bernard, intervient auprès des ouvriers de Wonder pour qu'ils écoutent Sylvestre.",
+    "question": "« Je voudrais juste qu'on arrive à tout mettre sur la table. Pour que ce gars _____ aussi la chance d'avoir un avenir. »",
+    "options": { "A": "a", "B": "aura", "C": "ait", "D": "avait" },
+    "answer": "C",
+    "explanation": "La conjonction de but « pour que » impose le subjonctif. La forme irrégulière du verbe « avoir » à la troisième personne du singulier (ce gars) est « ait »."
+  },
+  {
+    "category": "Subjonctif - La Volonté (Conditionnelle)",
+    "document": "Lors d'une réunion tendue, Charles Coupant menace de révéler l'existence des sociétés-écrans.",
+    "question": "« Merci, Dominique, pour cet effort… Sauf si vous voulez qu'on _____ des sociétés-écrans. »",
+    "options": {
+      "A": "parle",
+      "B": "parlons",
+      "C": "parlera",
+      "D": "parlé"
+    },
+    "answer": "A",
+    "explanation": "Le verbe « vouloir » suivi de « que » nécessite le subjonctif pour exprimer une volonté ou une exigence. Ici, le sujet de la subordonnée est « on », ce qui donne « parle »."
+  },
+  {
+    "category": "Subjonctif - L'Émotion (La Joie)",
+    "document": "Le jury de l'émission télévisée donne un avis très enthousiaste sur le premier disque de Bernard.",
+    "question": "« Nous allons faire l'unanimité, parce que… je suis ravi que ça ne se termine pas sans que j'en _____ une qui me plaît. »",
+    "options": {
+      "A": "trouve",
+      "B": "trouves",
+      "C": "trouvait",
+      "D": "trouvera"
+    },
+    "answer": "A",
+    "explanation": "L'expression de l'émotion « être ravi que » déclenche l'utilisation du subjonctif. De plus, la locution « sans que » exige également le subjonctif (que je trouve)."
+  },
+  {
+    "category": "Subjonctif - L'Attente (Le Temps)",
+    "document": "Roger, un ancien ami à qui Bernard doit de l'argent, exprime son impatience.",
+    "question": "« J'en avais marre d'attendre que ta carrière _____, pour revoir mes 10 000 balles. »",
+    "options": {
+      "A": "décolle",
+      "B": "décollera",
+      "C": "décollait",
+      "D": "décollé"
+    },
+    "answer": "A",
+    "explanation": "La construction « attendre que » (to wait until) exprime l'anticipation d'une action incertaine dans le futur, ce qui rend le subjonctif obligatoire."
+  },
+  {
+    "category": "Subjonctif - Verbes Irréguliers (Obligation)",
+    "document": "Un membre du jury donne son avis critique sur la chanson interprétée par Bernard.",
+    "question": "« Je pense que pour qu'une chanson soit vraiment un succès, il faut qu'elle _____ être interprétée par plusieurs artistes. »",
+    "options": {
+      "A": "peut",
+      "B": "pourra",
+      "C": "puisse",
+      "D": "pouvait"
+    },
+    "answer": "C",
+    "explanation": "L'obligation avec « Il faut que » nécessite le subjonctif. Le verbe « pouvoir » possède un radical subjonctif très irrégulier (« puiss- »), ce qui donne « puisse » pour la troisième personne du singulier."
+  },
+  {
+    "category": "Subjonctif - La Volonté / Le Désir",
+    "document": "Bernard justifie son choix d'inviter Amina Diallo pour travailler sur le plan banlieue.",
+    "question": "« C'est d'abord parce qu'elle vient de banlieue, comme moi, et que c'est de son expérience que je veux qu'on _____. »",
+    "options": {
+      "A": "repart",
+      "B": "reparte",
+      "C": "repartons",
+      "D": "repartira"
+    },
+    "answer": "B",
+    "explanation": "La volonté exprimée par « vouloir que » demande le mode subjonctif. Le verbe du 3e groupe « repartir » conjugué avec le pronom « on » au subjonctif présent donne « reparte »."
+  },
+  {
+    "category": "Subjonctif - L'Obligation / La Nécessité",
+    "document": "Sur le plateau de télévision, Bernard explique ce qui motive son engagement.",
+    "question": "« Parce qu'il faut qu'on _____ de croire que nous, Français, on aurait un problème avec la réussite. »",
+    "options": {
+      "A": "arrête",
+      "B": "arrêtons",
+      "C": "arrêtera",
+      "D": "arrêté"
+    },
+    "answer": "A",
+    "explanation": "La structure « Il faut que » est toujours suivie du subjonctif. Avec le pronom indéfini « on », le verbe régulier prend la terminaison « -e » (arrête)."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (Nécessité)",
+    "document": "Bernard tente de convaincre les banquiers de De Sarnez d'investir dans son projet d'abonnement électroménager.",
+    "question": "« Il faut que vous _____ que c'est une révolution dans l'histoire du commerce, et non un simple magasin. »",
+    "options": {
+      "A": "savez",
+      "B": "saviez",
+      "C": "sachiez",
+      "D": "sachez"
+    },
+    "answer": "C",
+    "explanation": "L'expression de nécessité « Il faut que » déclenche toujours le subjonctif. Le verbe « savoir » possède un radical irrégulier au subjonctif (sach-). Conjugué avec « vous », on obtient « sachiez »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Émotion/Crainte)",
+    "document": "Michelle exprime ses inquiétudes face aux multiples projets de Bernard et aux dettes qui s'accumulent.",
+    "question": "« Je crains que tu ne _____ une grave erreur en empruntant encore de l'argent. »",
+    "options": {
+      "A": "fais",
+      "B": "fasses",
+      "C": "faisais",
+      "D": "feras"
+    },
+    "answer": "B",
+    "explanation": "Les verbes exprimant une émotion ou une crainte, comme « craindre que », sont suivis du subjonctif. Le radical de « faire » est « fass- », ce qui donne « fasses » avec le pronom « tu »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (Doute)",
+    "document": "Le jury de l'émission de chant évalue la performance de Bernard.",
+    "question": "« Le jury doute que d'autres artistes _____ interpréter cette chanson avec succès. »",
+    "options": {
+      "A": "peuvent",
+      "B": "pourront",
+      "C": "pouvaient",
+      "D": "puissent"
+    },
+    "answer": "D",
+    "explanation": "L'expression d'un doute (« douter que ») nécessite l'emploi du subjonctif. Le radical irrégulier de « pouvoir » est « puiss- », donnant « puissent » à la troisième personne du pluriel."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (Nécessité)",
+    "document": "Bernard, ruiné, rend visite à Roger pour lui revendre sa télévision P2000.",
+    "question": "« Je suis dans la merde, il faut absolument que j'_____ à mon rendez-vous bancaire avec un costume correct. »",
+    "options": {
+      "A": "vais",
+      "B": "irai",
+      "C": "aille",
+      "D": "aille"
+    },
+    "answer": "C",
+    "explanation": "La nécessité exprimée par « il faut que » impose le subjonctif. Le verbe « aller » utilise le radical irrégulier « aill- » au singulier, ce qui donne « aille » à la première personne."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (Émotion/Crainte)",
+    "document": "Jean, le père de Bernard, s'effondre dans le jardin après un malaise.",
+    "question": "« Bernard a très peur que son père ne _____ pas survivre à cette crise cardiaque. »",
+    "options": {
+      "A": "peut",
+      "B": "puisse",
+      "C": "pourra",
+      "D": "pouvait"
+    },
+    "answer": "B",
+    "explanation": "« Avoir peur que » exprime une émotion et commande le subjonctif. Avec le radical « puiss- », le verbe « pouvoir » se conjugue « puisse » à la troisième personne du singulier."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (Doute)",
+    "document": "Marcel Loiseau vient tous les jours faire pression sur Farid afin qu'il vende son garage.",
+    "question": "« Je doute que tu _____ résister longtemps à la pression de Marcel Loiseau. »",
+    "options": {
+      "A": "sais",
+      "B": "sauras",
+      "C": "saches",
+      "D": "sachais"
+    },
+    "answer": "C",
+    "explanation": "Le verbe « douter que » introduit le subjonctif. Le radical irrégulier de « savoir » (sach-) conjugué à la deuxième personne du singulier devient « saches »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Nécessité/Exigence)",
+    "document": "Bernard tente de convaincre le banquier de la banque De Sarnez d'investir dans son nouveau concept.",
+    "question": "« Je tiens à ce que vous _____ confiance à mon projet de révolution commerciale. »",
+    "options": {
+      "A": "faites",
+      "B": "ferez",
+      "C": "fassiez",
+      "D": "faisiez"
+    },
+    "answer": "C",
+    "explanation": "L'expression « tenir à ce que » marque une forte volonté ou nécessité et exige le subjonctif. Le verbe « faire » se conjugue « fassiez » avec le pronom « vous »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (Nécessité)",
+    "document": "Le médecin urgentiste explique à Bernard que le délai d'intervention est crucial en cas d'infarctus.",
+    "question": "« Il est indispensable que nous _____ arriver en moins de 30 minutes avec un défibrillateur. »",
+    "options": {
+      "A": "pouvons",
+      "B": "pouvions",
+      "C": "pourrons",
+      "D": "puissions"
+    },
+    "answer": "D",
+    "explanation": "La locution « Il est indispensable que » exprime une nécessité absolue et déclenche le subjonctif. Le verbe « pouvoir » avec « nous » s'écrit « puissions » (radical puiss-)."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (Doute)",
+    "document": "Marcel Loiseau met Bernard en garde concernant ses relations avec Dominique.",
+    "question": "« Je doute que vos petites combines _____ passer inaperçues très longtemps. »",
+    "options": {
+      "A": "vont",
+      "B": "iront",
+      "C": "allient",
+      "D": "aillent"
+    },
+    "answer": "D",
+    "explanation": "Le doute exige le subjonctif. Le verbe « aller » à la troisième personne du pluriel (pour « vos combines ») prend le radical « aill- » et devient « aillent »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Nécessité orale)",
+    "document": "Bernard discute avec Farid de ses plans ambitieux et de la voiture Ferrari Dino.",
+    "question": "« Faut absolument que tu me _____ un bon prix pour cette voiture italienne. »",
+    "options": {
+      "A": "fais",
+      "B": "fasses",
+      "C": "fera",
+      "D": "faites"
+    },
+    "answer": "B",
+    "explanation": "Même sous sa forme orale raccourcie (« Faut que » au lieu de « Il faut que »), la nécessité requiert le subjonctif. Avec « tu », on utilise « fasses »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (Doute)",
+    "document": "Michelle critique le parcours instable de Bernard, qui passe d'une idée à une autre très rapidement.",
+    "question": "« Je doute fort qu'il _____ un jour se contenter d'une vie simple et tranquille. »",
+    "options": {
+      "A": "peut",
+      "B": "pourra",
+      "C": "puisse",
+      "D": "pouvait"
+    },
+    "answer": "C",
+    "explanation": "Le verbe « douter » implique une incertitude et entraîne le subjonctif. À la troisième personne du singulier, le verbe pouvoir devient « puisse »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (Volonté)",
+    "document": "Bernard refuse de rester dans une position subalterne et souhaite viser toujours plus haut.",
+    "question": "« Je tiens à ce que nous _____ le plus loin possible pour ne jamais nous sentir limités. »",
+    "options": {
+      "A": "allons",
+      "B": "allions",
+      "C": "irons",
+      "D": "aillions"
+    },
+    "answer": "B",
+    "explanation": "L'expression de la volonté (« tenir à ce que ») exige le subjonctif. Attention au piège : pour « nous » et « vous », le subjonctif de « aller » utilise le radical de l'imparfait (all-), ce qui donne « allions », et non « aillions »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Savoir (Exigence)",
+    "document": "Marcel Loiseau exige de la loyauté de la part de Bernard après le déjeuner de ce dernier avec Dominique.",
+    "question": "« Il est impératif que tu _____ que la loyauté surpasse toutes les autres qualités dans ce métier. »",
+    "options": {
+      "A": "sais",
+      "B": "sauras",
+      "C": "saches",
+      "D": "sachais"
+    },
+    "answer": "C",
+    "explanation": "L'expression « Il est impératif que » traduit une forte nécessité, demandant le subjonctif. Le radical irrégulier de savoir est « sach- », donnant « saches » à la deuxième personne du singulier."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Doute)",
+    "document": "Les banquiers de De Sarnez écoutent la présentation de Bernard, mais restent sceptiques quant à sa viabilité.",
+    "question": "« Nous doutons que vous _____ fortune en vendant de l'électroménager avec ce système d'abonnement. »",
+    "options": {
+      "A": "faites",
+      "B": "ferez",
+      "C": "fassiez",
+      "D": "faisiez"
+    },
+    "answer": "C",
+    "explanation": "Le doute impose l'emploi du subjonctif. Le verbe « faire » avec le pronom « vous » se conjugue avec le radical irrégulier « fass- », ce qui donne « fassiez »."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (Émotion)",
+    "document": "Bernard fait la démonstration enthousiaste de la nouvelle télévision à télécommande au magasin.",
+    "question": "« Le vendeur est furieux que Bernard _____ voler sa vente en s'imposant devant le client. »",
+    "options": {
+      "A": "va",
+      "B": "aille",
+      "C": "ira",
+      "D": "allait"
+    },
+    "answer": "B",
+    "explanation": "L'expression d'un sentiment (« être furieux que ») déclenche toujours le mode subjonctif. Avec le sujet « Bernard » (il), le verbe « aller » se conjugue « aille »."
+  },
+
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Formation de base)",
+    "document": "« - Ça va, tout va bien ? - Je te l'_____ dit. »",
+    "question": "Complétez avec la bonne forme au plus-que-parfait :",
+    "options": {
+      "A": "a",
+      "B": "ai",
+      "C": "avais",
+      "D": "avais eu"
+    },
+    "answer": "C",
+    "explanation": "Le plus-que-parfait est utilisé pour parler d'une action passée qui s'est déroulée avant une autre action passée. Ici, l'auxiliaire « avoir » à l'imparfait (« avais ») est combiné avec le participe passé « dit » pour la première personne du singulier."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Auxiliaire Avoir)",
+    "document": "« Ils ont des billes dans le club. Ils _____ avec la direction. »",
+    "question": "Quel est le verbe correctement conjugué au plus-que-parfait ?",
+    "options": {
+      "A": "ont échangé",
+      "B": "avaient échangé",
+      "C": "auraient échangé",
+      "D": "étaient échangés"
+    },
+    "answer": "B",
+    "explanation": "Pour décrire une action antérieure à un moment précis du passé, on emploie le plus-que-parfait. Avec « Ils », l'auxiliaire « avoir » s'écrit « avaient », suivi du participe passé « échangé »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Concordance des temps)",
+    "document": "« [...] je vous rappelle qu'il _____, avant de se rétracter. »",
+    "question": "Complétez la phrase au plus-que-parfait pour marquer l'antériorité :",
+    "options": {
+      "A": "a accepté",
+      "B": "avait accepté",
+      "C": "a eu accepté",
+      "D": "était accepté"
+    },
+    "answer": "B",
+    "explanation": "L'action d'accepter a eu lieu avant l'action de se rétracter. Le plus-que-parfait (« avait accepté ») est donc indispensable pour situer cette première action encore plus loin dans le passé."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau C1 (Piège d'accord avec le COD)",
+    "document": "« Vous m'_____ avant que je franchisse cette porte. »",
+    "question": "Choisissez la bonne conjugaison au plus-que-parfait :",
+    "options": {
+      "A": "avez condamné",
+      "B": "aviez condamné",
+      "C": "auriez condamné",
+      "D": "aviez condamnés"
+    },
+    "answer": "B",
+    "explanation": "La condamnation s'est produite avant le passage de la porte, justifiant le plus-que-parfait. Avec « Vous », l'auxiliaire est « aviez » ; le participe passé « condamné » s'accorde avec le COD « m' » (masculin singulier pour Bernard Tapie), il reste donc « condamné » sans -s."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Verbes irréguliers)",
+    "document": "« Tu m'_____ qu'il était bon, c'est un enculé. »",
+    "question": "Complétez la réplique au plus-que-parfait :",
+    "options": {
+      "A": "as dit",
+      "B": "avais dit",
+      "C": "avais dis",
+      "D": "aurais dit"
+    },
+    "answer": "B",
+    "explanation": "Pour signaler que la parole a été prononcée à un moment lointain (avant la déception actuelle dans le passé), le plus-que-parfait est requis. La forme correcte est « avais dit »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Contexte oral)",
+    "document": "« Une connerie pareille, j'_____ ça qu'au gouvernement. »",
+    "question": "Conjuguez le verbe « entendre » au plus-que-parfait :",
+    "options": {
+      "A": "ai entendu",
+      "B": "avais entendu",
+      "C": "avais entendue",
+      "D": "étais entendu"
+    },
+    "answer": "B",
+    "explanation": "L'action d'entendre cette sottise renvoie à une période antérieure (l'époque du gouvernement). On utilise l'auxiliaire à l'imparfait (« avais ») et le participe passé neutre « entendu »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Sujet singulier 'On')",
+    "document": "« On _____ avec les Asiatiques. Une rétrocommission, qui devait nous permettre... »",
+    "question": "Conjuguez le verbe « négocier » au plus-que-parfait :",
+    "options": {
+      "A": "a négocié",
+      "B": "avait négocié",
+      "C": "avions négocié",
+      "D": "avait négociés"
+    },
+    "answer": "B",
+    "explanation": "Le plus-que-parfait montre que la négociation s'est produite avant la situation présente dans le récit. Le pronom « On » requiert la troisième personne du singulier pour l'auxiliaire (« avait »), donnant « avait négocié »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Absence d'accord avec COI)",
+    "document": "« Je vous _____ des solutions. Madame Tapie, ce niveau d'endettement, c'est une bombe nucléaire à retardement. »",
+    "question": "Choisissez la bonne forme au plus-que-parfait :",
+    "options": {
+      "A": "avais demandé",
+      "B": "avais demandés",
+      "C": "aviez demandé",
+      "D": "ai demandé"
+    },
+    "answer": "A",
+    "explanation": "Le sujet « Je » exige l'auxiliaire « avais ». Le participe passé « demandé » ne s'accorde pas avec « vous » car il s'agit d'un Complément d'Objet Indirect (demander *à* quelqu'un)."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Formation avec Faire)",
+    "document": "« Mon client a appris que... vous _____ une offre pour la reprise des usines Wonder »",
+    "question": "Complétez avec le verbe « faire » au plus-que-parfait :",
+    "options": {
+      "A": "avez fait",
+      "B": "aviez fait",
+      "C": "aviez faite",
+      "D": "auriez fait"
+    },
+    "answer": "B",
+    "explanation": "L'action de faire l'offre est antérieure à la découverte du client (« a appris »). Le plus-que-parfait est donc de mise avec la structure « aviez fait »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Inversion syntaxique à l'oral)",
+    "document": "« Qui nous a promis zéro suppression d'emploi. Zéro, il _____ ! »",
+    "question": "Quel temps est utilisé pour exprimer cette action antérieure ?",
+    "options": {
+      "A": "a dit",
+      "B": "avait dit",
+      "C": "disait",
+      "D": "aura dit"
+    },
+    "answer": "B",
+    "explanation": "La promesse a été faite dans un passé encore plus lointain par rapport au moment de la colère des ouvriers, justifiant l'utilisation du plus-que-parfait « avait dit » en fin de phrase."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Forme négative orale)",
+    "document": "« Tu m'_____ pas _____. Papa, on s'en fout, tu les as entendus ? »",
+    "question": "Complétez cette phrase (typique de l'oral) au plus-que-parfait :",
+    "options": {
+      "A": "as / dit",
+      "B": "avais / dit",
+      "C": "avais / dis",
+      "D": "avais / dire"
+    },
+    "answer": "B",
+    "explanation": "Dans la construction du plus-que-parfait à la forme négative (qui, à l'oral, perd souvent le « ne »), l'adverbe de négation entoure l'auxiliaire. Ainsi, « Tu m'avais pas dit » est la syntaxe correcte."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B1 (Discours indirect)",
+    "document": "« On _____ qu'on faisait 50-50. T'arrêtes d'être noir, comme ça ? »",
+    "question": "Conjuguez « dire » au plus-que-parfait :",
+    "options": {
+      "A": "avait dit",
+      "B": "a dit",
+      "C": "avait dis",
+      "D": "avions dit"
+    },
+    "answer": "A",
+    "explanation": "Pour faire référence à un accord passé (« 50-50 ») validé avant le dialogue actuel, le plus-que-parfait est utilisé. Le pronom « On » est suivi de « avait dit »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau B2 (Infinitif négatif consécutif)",
+    "document": "« - Je t'_____ de pas t'associer. - Rien à voir. »",
+    "question": "Complétez avec la forme correcte :",
+    "options": {
+      "A": "ai dit",
+      "B": "avais dit",
+      "C": "avais dis",
+      "D": "aurais dit"
+    },
+    "answer": "B",
+    "explanation": "L'avertissement de ne pas s'associer s'est produit dans un passé lointain par rapport au problème actuel, justifiant le plus-que-parfait « avais dit »."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau C1/Natif (Piège avec COI)",
+    "document": "« Je vous _____ de pas le dire. Nicole. Préparez-vous à déménager, vous venez chez Wonder. »",
+    "question": "Conjuguez le verbe dire au plus-que-parfait :",
+    "options": {
+      "A": "ai dit",
+      "B": "avais dit",
+      "C": "avais dite",
+      "D": "aviez dit"
+    },
+    "answer": "B",
+    "explanation": "L'action passée ancienne s'exprime avec le plus-que-parfait : auxiliaire « avais » avec le sujet « Je ». Le participe passé « dit » reste invariable, le pronom « vous » étant un complément d'objet indirect (« dire à quelqu'un »)."
+  },
+  {
+    "category": "Grammaire - Plus que parfait - Niveau C1/Natif (Verbe pronominal)",
+    "document": "« On s'_____, avec Bernard, qu'il prendrait Stéphanie au début des vacances. »",
+    "question": "Conjuguez le verbe pronominal « se dire » au plus-que-parfait :",
+    "options": {
+      "A": "était dit",
+      "B": "était dits",
+      "C": "avait dit",
+      "D": "étions dit"
+    },
+    "answer": "A",
+    "explanation": "Les verbes pronominaux se conjuguent toujours avec l'auxiliaire « être » dans les temps composés. Au plus-que-parfait, cela donne « s'était dit ». Le participe passé reste invariable car « se » a la fonction de COI (« dire à soi-même »)."
+  },
+  {
+    "category": "Compréhension - Ton et Ironie (Niveau C1)",
+    "document": "Le jeune chef de projet, la voix tremblante, expliqua que la livraison du logiciel avait été retardée par une panne informatique d'une complexité insondable. Le directeur le fixa, un sourire narquois aux lèvres. « Je dois admettre que perdre l'intégralité de nos données la veille de l'audit relève d'une prouesse technique tout à fait exceptionnelle. Ce mensonge, cousu de fil blanc, illustre parfaitement votre incapacité à assumer vos erreurs. Inutile d'ajouter quoi que ce soit, notre collaboration touche à sa fin. »",
+    "question": "Quelle est l'intention principale du directeur dans ce passage ?",
+    "options": {
+      "A": "Féliciter le chef de projet pour sa maîtrise de l'ingénierie des systèmes.",
+      "B": "Exprimer sa méfiance naturelle vis-à-vis des attaques informatiques complexes.",
+      "C": "Dénoncer l'incompétence et la mauvaise foi de son subalterne de manière sarcastique.",
+      "D": "Exiger une enquête approfondie sur l'origine de cette disparition de données."
+    },
+    "answer": "C",
+    "explanation": "L'utilisation de mots mélioratifs (« prouesse », « exceptionnelle ») associés à un « sourire narquois » (mocking) face à une catastrophe professionnelle est la définition même de l'ironie. De plus, il qualifie l'excuse de « mensonge cousu de fil blanc » (a blatant lie)."
+  },
+  {
+    "category": "Grammaire - Contexte - L'antériorité / Plus-que-parfait (Niveau B2)",
+    "document": "L'assemblée générale des actionnaires a finalement eu lieu dans un climat particulièrement lourd. Malgré les nombreux imprévus de la matinée, le président s'est montré rassurant. Heureusement, la directrice financière _____ une nouvelle stratégie de réduction des frais plusieurs semaines auparavant, ce qui a permis d'apaiser la colère des investisseurs.",
+    "question": "Conjuguez le verbe « bâtir » à la forme correcte pour marquer l'antériorité :",
+    "options": {
+      "A": "a bâti",
+      "B": "avait bâti",
+      "C": "bâtissait",
+      "D": "aurait bâti"
+    },
+    "answer": "B",
+    "explanation": "Le récit principal est au passé composé (« a eu lieu », « s'est montré »). L'adverbe « auparavant » (previously) indique que la directrice a créé sa stratégie encore plus tôt dans le passé. Cela déclenche obligatoirement le plus-que-parfait (auxiliaire imparfait + participe passé : avait bâti)."
+  },
+  {
+    "category": "Vocabulaire - Collocations et Faux-amis (Niveau B2)",
+    "document": "L'étudiant trentenaire, épuisé par ses révisions nocturnes, s'assit lourdement sur le banc. Il se confia à son camarade : « J'en ai marre de cette pression constante. Je dois absolument valider mon niveau de langue aujourd'hui. »",
+    "question": "« Il faut que je _____ cet examen de français demain matin, coûte que coûte. Si je le _____, mon admission à l'université sera définitivement compromise. »",
+    "options": {
+      "A": "réussisse / perds",
+      "B": "fasse / manque",
+      "C": "passe / rate",
+      "D": "prenne / passe"
+    },
+    "answer": "C",
+    "explanation": "C'est le piège anglophone ultime : en français, « to take an exam » se dit « passer un examen ». Le verbe « to fail an exam » se dit « rater » ou « échouer à ». (L'option D est une traduction littérale de l'anglais 'take/pass' qui est totalement fausse en français)."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Pouvoir (Nécessité et Colère)",
+    "document": "La tension dans la salle de conférence était palpable. Les syndicats menaçaient d'entamer une grève illimitée si leurs exigences n'étaient pas entendues. Le PDG, le visage empourpré de colère, se tourna vers son responsable des ressources humaines :",
+    "question": "« Je me moque des détails procéduraux. Il est vital que nous _____ apaiser cette situation avant que la presse ne s'en mêle ! »",
+    "options": {
+      "A": "pouvons",
+      "B": "pourrons",
+      "C": "puissions",
+      "D": "pouvions"
+    },
+    "answer": "C",
+    "explanation": "L'expression de la nécessité absolue (« Il est vital que ») exige le mode subjonctif. Le verbe irrégulier « pouvoir » a pour radical « puiss- ». Avec le pronom « nous », on obtient « puissions »."
+  },
+  {
+    "category": "Compréhension - Distracteurs de Portée (Niveau C1)",
+    "document": "Afin de dépoussiérer l'image du secteur du bâtiment, les nouvelles directives européennes imposent désormais une refonte totale de la sécurité sur les chantiers. L'objectif premier n'est plus seulement d'accélérer les cadences de livraison, mais de dégager des fonds pour préserver la santé des ouvriers. En limitant le port de charges lourdes et en réduisant l'exposition aux produits toxiques, les entreprises espèrent endiguer la pénurie de main-d'œuvre qui les menace depuis une décennie.",
+    "question": "Quel est l'enjeu principal évoqué dans ce paragraphe ?",
+    "options": {
+      "A": "L'augmentation inévitable des délais de livraison dans la construction européenne.",
+      "B": "La nécessité de nettoyer les chantiers pour éviter les maladies respiratoires.",
+      "C": "L'amélioration stratégique des conditions de travail pour attirer et protéger les ouvriers.",
+      "D": "La suppression totale des charges lourdes pour les jeunes travailleurs uniquement."
+    },
+    "answer": "C",
+    "explanation": "Il faut éviter le piège de l'interprétation littérale ou trop ciblée. L'option A est une déduction fausse. L'option B est un piège sur le verbe « dépoussiérer » (qui ici a un sens figuré : rajeunir/moderniser, et non pas nettoyer la poussière physique). L'option C résume parfaitement l'idée centrale du texte."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Aller (L'Émotion et la Crainte)",
+    "document": "Sylvie observait son fils faire ses valises avec une angoisse grandissante. Après sa récente rupture et son licenciement imprévu, le jeune homme avait décidé de tout lâcher pour s'isoler dans une cabane isolée en pleine montagne.",
+    "question": "« Je crains fort qu'il n'_____ se perdre dans cette folie, chuchota-t-elle à son mari. C'est un piège psychologique dont il aura du mal à s'échapper. »",
+    "options": {
+      "A": "va",
+      "B": "ira",
+      "C": "allait",
+      "D": "aille"
+    },
+    "answer": "D",
+    "explanation": "Le verbe « craindre que » (to fear that) exprime une émotion négative et déclenche obligatoirement le subjonctif. Le verbe irrégulier « aller » utilise le radical « aill- » au singulier, devenant « aille » à la 3e personne."
+  },
+  {
+    "category": "Compréhension - Vocabulaire Administratif (Niveau B2+)",
+    "document": "« Monsieur le Directeur, je constate avec stupéfaction que vous avez procédé à la retenue de ma caution par virement bancaire. Conformément à la loi, la résiliation de mon bail a été notifiée avec un préavis d'un mois en raison de ma mutation professionnelle. Toute tentative de me culpabiliser ou d'exiger des frais supplémentaires pour usure normale est non seulement inutile, mais parfaitement illégale. Je vous somme de régulariser la situation avant l'échéance de la semaine prochaine. »",
+    "question": "Dans cet e-mail, quel est l'objectif principal du locataire ?",
+    "options": {
+      "A": "S'excuser pour les dégâts accidentels causés lors de son séjour dans l'appartement.",
+      "B": "Négocier une extension de son préavis suite à un imprévu professionnel de dernière minute.",
+      "C": "Contester fermement une sanction financière injustifiée appliquée après son départ.",
+      "D": "Demander la résiliation de son bail sans avoir à justifier légalement de sa mutation."
+    },
+    "answer": "C",
+    "explanation": "Ce texte regorge de mots de votre vocabulaire (`résiliation, préavis, échéance, virement, culpabiliser, frais`). Le locataire conteste le fait qu'on lui ait retenu de l'argent (« retenue de ma caution » / « exiger des frais ») alors qu'il a respecté les règles (« préavis d'un mois »)."
+  },
+  {
+    "category": "Grammaire - Contexte - Connecteurs Logiques d'Argumentation (Niveau C1)",
+    "document": "La nouvelle politique de télétravail a suscité des réactions très mitigées au sein de l'entreprise. _____, elle a permis de réduire considérablement la fatigue liée aux transports en commun pour une majorité de l'équipe. _____, l'ingénierie des systèmes n'était pas préparée à une telle surcharge, entraînant des coupures de serveurs répétitives. _____, la direction se refuse catégoriquement à investir dans du nouveau matériel.",
+    "question": "Choisissez les connecteurs appropriés pour compléter l'argumentation de ce texte :",
+    "options": {
+      "A": "D'abord / Toutefois / En outre",
+      "B": "En outre / Quant à / Toutefois",
+      "C": "Toutefois / D'abord / En outre",
+      "D": "Quant à / En outre / D'abord"
+    },
+    "answer": "A",
+    "explanation": "L'argumentation commence par présenter un point positif initial (« D'abord » / Firstly). Ensuite, elle introduit une forte opposition technique (« Toutefois » / However). Enfin, elle ajoute un deuxième problème par-dessus le premier problème (« En outre » / Furthermore)."
+  },
+  {
+    "category": "Compréhension - Métaphore et Faux-amis (Niveau C1)",
+    "document": "Dans les couloirs de l'agence, Julien excellait dans l'art de passer inaperçu tout en semant la discorde. Lors des réunions, il affichait systématiquement un soutien indéfectible à ses collègues, pour mieux leur tailler un costume en pièces dès qu'ils avaient le dos tourné. Cette fausse bienveillance, d'abord perçue comme de la courtoisie par la direction, avait fini par générer une atmosphère de méfiance généralisée au sein de l'équipe.",
+    "question": "Que signifie l'expression métaphorique « tailler un costume en pièces » dans ce texte ?",
+    "options": {
+      "A": "Aider ses collègues à s'habiller de manière plus professionnelle et stricte.",
+      "B": "Critiquer sévèrement et détruire la réputation de quelqu'un en son absence.",
+      "C": "Saboter physiquement les affaires personnelles et les tenues des autres employés.",
+      "D": "Déconstruire les arguments techniques des autres lors d'une présentation publique."
+    },
+    "answer": "B",
+    "explanation": "L'expression française « tailler un costume » (littéralement : to tailor a suit for someone) est une expression familière très courante qui signifie dire beaucoup de mal de quelqu'un, le critiquer violemment dans son dos."
+  },
+  {
+    "category": "Subjonctif Irrégulier - Faire (Le Doute et l'Incertitude)",
+    "document": "Le syndicat de l'usine est dans une colère noire. Les ouvriers menacent de bloquer les livraisons de bois dès demain matin si la prime de risque n'est pas versée. Le directeur de production, paniqué, s'adresse au PDG de l'entreprise :",
+    "question": "« Bien que nos finances soient dans le rouge, je doute fort qu'ils _____ marche arrière si nous ne cédons pas sur la question des salaires. »",
+    "options": {
+      "A": "font",
+      "B": "feront",
+      "C": "fassent",
+      "D": "faisaient"
+    },
+    "answer": "C",
+    "explanation": "L'expression « douter que » introduit une forte incertitude quant à la réalisation de l'action, ce qui exige le subjonctif. Le radical irrégulier de faire est « fass- ». Avec « ils » (les ouvriers), le verbe devient « fassent ». Faire marche arrière signifie reculer ou abandonner une action."
+  },
+  {
+    "category": "Temps - Durée et Concordance (Niveau B2)",
+    "document": "Au secrétariat de l'université (la scolarité), un étudiant étranger s'impatiente face à l'employée de l'administration. Il essaie d'expliquer que sa situation dure depuis un moment et qu'il attend toujours un document vital pour son visa.",
+    "question": "Comment l'étudiant doit-il exprimer « I have been waiting for my transcript for three mois » en français correct ?",
+    "options": {
+      "A": "J'ai attendu mon relevé de notes pour trois mois.",
+      "B": "J'attends mon relevé de notes depuis trois mois.",
+      "C": "J'avais attendu mon relevé de notes depuis trois mois.",
+      "D": "Je suis en train d'attendre mon relevé de notes pendant trois mois."
+    },
+    "answer": "B",
+    "explanation": "C'est un piège classique de traduction (Tense Mapping). En anglais, on utilise le 'Present Perfect Continuous' (I have been waiting). En français, pour une action qui a commencé dans le passé et qui *continue encore* au moment où l'on parle, on utilise obligatoirement le **Présent + depuis**. Le terme académique pour 'transcript' est 'relevé de notes'."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - (Niveau B2)",
+    "document": "Deux étudiants discutent à la cafétéria du campus. L'un d'eux doit faire un aller-retour rapide avant de se remettre à travailler d'arrache-pied (to work relentlessly) pour ses examens.",
+    "question": "« J'ai oublié mon ordinateur portable dans mon appartement. Je vais _____ chez moi pour le récupérer, et ensuite je _____ à la bibliothèque pour finir mon essai. »",
+    "options": {
+      "A": "retourner / reviens",
+      "B": "rentrer / retourne",
+      "C": "revenir / rentre",
+      "D": "repartir / retourne"
+    },
+    "answer": "B",
+    "explanation": "Le français est très strict sur les mouvements. « Rentrer » signifie spécifiquement 'go back home' (ou à sa base). « Retourner » signifie 'go back to a place where you are NOT currently'. Puisqu'il est à la cafétéria, il va *rentrer* chez lui, puis il va *retourner* à la bibliothèque (un autre lieu)."
+  },
+  {
+    "category": "Sentiments - Concrets vs Abstraits (Niveau B2+)",
+    "document": "Après avoir passé huit heures d'affilée à réviser la philosophie, Julien est totalement épuisé, tant physiquement qu'intellectuellement.",
+    "question": "« Franchement, je n'en peux plus. J'_____ à la tête à cause de la fatigue, et j'_____ à comprendre ce dernier chapitre sur Kant. Je crois que je vais faire l'impasse dessus. »",
+    "options": {
+      "A": "ai mal / ai du mal",
+      "B": "ai du mal / ai mal",
+      "C": "ai la douleur / ai le problème",
+      "D": "suis mal / ai de la difficulté"
+    },
+    "answer": "A",
+    "explanation": "« Avoir mal à » + [partie du corps] exprime une douleur physique concrète (My head hurts). « Avoir du mal à » + [infinitif] exprime une difficulté abstraite ou psychologique (I have trouble understanding). L'expression étudiante « faire l'impasse sur » signifie ignorer volontairement un chapitre pour un examen."
+  },
+  {
+    "category": "Compréhension - Expressions Idiomatiques - de la Vie Quotidienne (Niveau C1)",
+    "document": "Dans un e-mail envoyé à son colocataire, Sarah se plaint de ses démarches administratives : « Entre la préfecture pour le renouvellement du titre de séjour et la CAF pour l'aide au logement, cette semaine a été un véritable parcours du combattant. On m'a baladée de guichet en guichet. Résultat, je suis épuisée. »",
+    "question": "Que signifie l'expression « un parcours du combattant » dans ce contexte ?",
+    "options": {
+      "A": "Un entraînement physique imposé par l'université pour obtenir une bourse.",
+      "B": "Une série d'obstacles et de difficultés administratives très épuisantes.",
+      "C": "Une dispute violente et agressive avec des fonctionnaires de l'État.",
+      "D": "Un processus simple et rapide, réservé aux anciens militaires."
+    },
+    "answer": "B",
+    "explanation": "Littéralement, c'est un « military obstacle course ». Au sens figuré (très utilisé en France pour parler de l'administration, des impôts, des visas), « un parcours du combattant » désigne un processus long, complexe, plein d'obstacles et de frustrations."
+  },
+  {
+    "category": "Temps - Durée - Les Prépositions (Niveau B2)",
+    "document": "Lors d'un entretien de stage, le recruteur demande à la candidate combien de temps elle compte rester dans l'entreprise et combien de temps elle a mis pour rédiger son excellente thèse.",
+    "question": "« Je suis disponible _____ six mois à partir de septembre. J'ai d'ailleurs réussi à rédiger la première partie de ma thèse _____ seulement trois semaines. »",
+    "options": {
+      "A": "pendant / pour",
+      "B": "pour / en",
+      "C": "depuis / pendant",
+      "D": "en / dans"
+    },
+    "answer": "B",
+    "explanation": "« Pour » exprime une durée *prévue dans le futur* (I am available *for* six months). « En » exprime le *temps nécessaire* pour accomplir une action complétée (I managed to write it *in* three weeks)."
+  },
+  {
+    "category": "Sentiments - Motivation - Le Langage Familier/Courant (Niveau B2+)",
+    "document": "Jeudi, 7h30 du matin. Le réveil sonne. Chloé envoie un SMS à son amie de la fac : « Désolée, je ne viens pas au cours magistral de droit constitutionnel ce matin. Il pleut, il fait froid, j'ai une de ces flemmes... Prends des notes pour moi, s'il te plaît ! »",
+    "question": "Quel est le sentiment exact exprimé par Chloé avec l'expression « j'ai la flemme » ?",
+    "options": {
+      "A": "Elle ressent une douleur physique soudaine semblable à la grippe.",
+      "B": "Elle est profondément déprimée et ressent une grande tristesse.",
+      "C": "Elle ressent un manque total de motivation et une envie de paresser.",
+      "D": "Elle est terrifiée à l'idée d'être interrogée par le professeur."
+    },
+    "answer": "C",
+    "explanation": "« Avoir la flemme » est une expression familière indispensable en France. Cela signifie « to feel too lazy to do something / can't be bothered ». Ne pas confondre avec « avoir le cafard » (qui signifie être déprimé/triste)."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - et d'Action (Niveau B2)",
+    "document": "À la fin du semestre, les règles de la Bibliothèque Universitaire (la BU) sont très strictes concernant les emprunts des étudiants.",
+    "question": "« Tous les étudiants doivent impérativement _____ les livres qu'ils ont empruntés avant le 15 juin. Ceux qui souhaitent _____ un invité extérieur à la fête de fin d'année doivent l'inscrire sur la liste. »",
+    "options": {
+      "A": "ramener / rapporter",
+      "B": "rapporter / ramener",
+      "C": "rentrer / rendre",
+      "D": "remettre / retourner"
+    },
+    "answer": "B",
+    "explanation": "Le français distingue l'objet et la personne. « Rapporter » s'utilise pour une chose inanimée (bring back a book). « Ramener » s'utilise pour un être humain ou un animal qu'on mène avec soi (bring a guest). Même si beaucoup de Français font l'erreur à l'oral, le DELF pénalise cette confusion."
+  },
+  {
+    "category": "Compréhension - Vocabulaire Académique et Métaphores (Niveau C1)",
+    "document": "Le directeur de thèse a rendu son brouillon à l'étudiant avec de nombreuses annotations à l'encre rouge. Lors de leur rendez-vous, il lui déclare sans détours : « Votre recherche de sources est remarquable. Néanmoins, l'architecture de votre plan est une véritable usine à gaz. Le lecteur s'y perd complètement dès l'introduction. Il va falloir simplifier tout cela de toute urgence. »",
+    "question": "Que signifie la métaphore « une véritable usine à gaz » dans la bouche du professeur ?",
+    "options": {
+      "A": "Que le plan est polluant et nocif pour la recherche universitaire.",
+      "B": "Que le plan repose sur des concepts industriels très novateurs.",
+      "C": "Que la structure du devoir est inutilement complexe et incompréhensible.",
+      "D": "Que l'étudiant a généré une quantité de travail impressionnante et efficace."
+    },
+    "answer": "C",
+    "explanation": "Une « usine à gaz » (a gas plant) est une métaphore française très courante dans le monde professionnel et académique pour désigner un système, un projet ou une organisation beaucoup trop compliqué, lourd et difficile à comprendre."
+  },
+  {
+    "category": "Temps - Durée - Le Piège du Présent (Niveau B2+)",
+    "document": "Lors d'une soirée étudiante, un expatrié raconte son parcours d'intégration en France à ses nouveaux amis.",
+    "question": "Sélectionnez la phrase qui est grammaticalement et sémantiquement correcte en français :",
+    "options": {
+      "A": "Je suis arrivé à Paris il y a deux ans, et j'habite dans ce quartier depuis 2024.",
+      "B": "J'arrive à Paris depuis deux ans, et j'ai habité dans ce quartier pour 2024.",
+      "C": "Je suis arrivé à Paris depuis deux ans, et j'habite dans ce quartier il y a 2024.",
+      "D": "J'habitais à Paris pendant deux ans, et j'y arrive depuis 2024."
+    },
+    "answer": "A",
+    "explanation": "« Il y a » (ago) + Passé composé indique le moment précis où l'action s'est terminée dans le passé (I arrived 2 years ago). « Depuis » (since/for) + Présent indique une situation qui a commencé dans le passé et qui est toujours vraie au présent (I have been living here since 2024)."
+  },
+  {
+    "category": "Sentiments - Espoir et Implicite (Niveau C1)",
+    "document": "L'équipe d'étudiants attend fiévreusement le quatrième membre de leur groupe pour finaliser l'exposé. Il a déjà une demi-heure de retard. L'un d'eux, particulièrement agacé, regarde sa montre et déclare : « J'espère sincèrement qu'il ne va pas nous poser un lapin, parce que si on doit présenter sa partie à sa place, on est mal barrés. »",
+    "question": "Que craint l'étudiant à travers l'expression « poser un lapin » ?",
+    "options": {
+      "A": "Que leur camarade n'apporte un animal de compagnie non autorisé en classe.",
+      "B": "Que leur camarade ne vienne pas au rendez-vous sans les avoir prévenus.",
+      "C": "Que leur camarade fasse une blague de mauvais goût pendant la présentation.",
+      "D": "Que leur camarade décide d'abandonner définitivement ses études."
+    },
+    "answer": "B",
+    "explanation": "« Poser un lapin à quelqu'un » est l'expression idiomatique classique pour dire « to stand someone up » (ne pas se présenter à un rendez-vous). Notez la grammaire : contrairement à beaucoup de langues romanes, « espérer que » est suivi de *l'indicatif* (va) en français, et non du subjonctif, car il exprime une certitude souhaitée."
+  },
+  {
+    "category": "Temps - Durée et Concordance (Niveau B2)",
+    "document": "Lors d'un entretien pour intégrer un Master, le jury vous interroge sur vos expériences passées et vos projets. Vous souhaitez leur expliquer que vous avez travaillé à l'étranger durant l'été dernier (une action finie) et que vous prévoyez d'y repartir l'année prochaine pour une durée fixe.",
+    "question": "« L'été dernier, j'ai travaillé à Londres _____ trois mois. L'année prochaine, je prévois d'y repartir _____ un an. »",
+    "options": {
+      "A": "pour / pendant",
+      "B": "pendant / pour",
+      "C": "depuis / en",
+      "D": "en / dans"
+    },
+    "answer": "B",
+    "explanation": "En français, « pendant » s'utilise pour une durée fermée et complètement terminée dans le passé (I worked for 3 months = J'ai travaillé pendant 3 mois). « Pour » s'utilise spécifiquement pour exprimer une durée prévue ou projetée dans le futur (I am leaving for a year = Je pars pour un an)."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - Personnes vs Objets (Niveau B2+)",
+    "document": "Vous êtes invité(e) à une pendaison de crémaillère (housewarming party) organisée par des camarades de promotion. L'hôte vous a demandé de venir avec de quoi boire, et vous lui demandez si votre colocataire peut se joindre à la fête.",
+    "question": "« Est-ce que ça te dérange si j'_____ mon colocataire ce soir ? D'ailleurs, tu préfères que j'_____ du vin rouge ou du champagne ? »",
+    "options": {
+      "A": "apporte / amène",
+      "B": "amène / apporte",
+      "C": "emmène / emporte",
+      "D": "ramène / rapporte"
+    },
+    "answer": "B",
+    "explanation": "Le français distingue strictement les humains des objets. On utilise « amener » (ou emmener) pour les êtres animés qui se déplacent par eux-mêmes (bring a person). On utilise « apporter » (ou emporter) pour les objets inanimés que l'on porte physiquement (bring wine). Bien que beaucoup de Français fassent l'erreur à l'oral avec « ramener », le DELF exige cette distinction classique."
+  },
+  {
+    "category": "Expressions Idiomatiques - et Administration (Niveau C1)",
+    "document": "Un étudiant international discute avec un camarade français de ses démarches pour obtenir l'aide au logement (les APL). Le site internet a planté trois fois, et on lui demande sans cesse de nouveaux justificatifs incompréhensibles.",
+    "question": "« Franchement, s'inscrire sur le site de la CAF, c'est _____ ! Ils me demandent des papiers impossibles à trouver. J'ai bien cru que j'allais _____ ! »",
+    "options": {
+      "A": "du gâteau / tomber dans les pommes",
+      "B": "la croix et la bannière / péter un plomb",
+      "C": "un parcours de santé / jeter l'éponge",
+      "D": "tiré par les cheveux / faire la grève"
+    },
+    "answer": "B",
+    "explanation": "« C'est la croix et la bannière » est l'expression absolue pour dire que quelque chose est atrocement compliqué et fastidieux (très utilisé pour critiquer la bureaucratie française). « Péter un plomb » (ou péter un câble) est une expression familière indispensable signifiant s'énerver violemment, perdre patience."
+  },
+  {
+    "category": "Sentiments - Sensations - Concret vs Abstrait (Niveau B2)",
+    "document": "Lors d'une consultation au centre médical universitaire, un étudiant tente d'expliquer ses symptômes après une mauvaise chute sportive, tout en confiant ses problèmes de sommeil liés à la pression académique.",
+    "question": "« Docteur, j'_____ à la cheville droite quand je marche, et avec le stress des examens, j'_____ à m'endormir le soir. »",
+    "options": {
+      "A": "ai du mal / ai mal",
+      "B": "ai de la douleur / suis difficile",
+      "C": "ai mal / ai du mal",
+      "D": "suis douloureux / ai de la difficulté"
+    },
+    "answer": "C",
+    "explanation": "« Avoir mal à » + [partie du corps] indique une douleur physique concrète (My ankle hurts). « Avoir du mal à » + [verbe à l'infinitif] exprime une difficulté, qu'elle soit physique, psychologique ou intellectuelle (I have trouble falling asleep). C'est une nuance très souvent testée."
+  },
+  {
+    "category": "Temps - Durée et Traduction du \"Past Continuous\" (Niveau B2+)",
+    "document": "Pour raconter une anecdote de la vie quotidienne de manière fluide et native, il est essentiel de bien séparer l'action de fond (le décor) de l'événement soudain qui vient l'interrompre.",
+    "question": "Comment traduiriez-vous l'idée : 'I was studying at the library when suddenly the fire alarm went off' ?",
+    "options": {
+      "A": "J'ai étudié à la bibliothèque quand soudain l'alarme a sonné.",
+      "B": "Je suis en train d'étudier à la bibliothèque quand soudain l'alarme sonnait.",
+      "C": "J'étudiais à la bibliothèque quand soudain l'alarme a sonné.",
+      "D": "J'étudiais à la bibliothèque quand soudain l'alarme sonnait."
+    },
+    "answer": "C",
+    "explanation": "En français, l'action longue en cours de déroulement dans le passé (le décor ou 'past continuous') ne se traduit pas par 'être en train de' au passé, mais simplement par l'imparfait (« J'étudiais »). L'action courte et soudaine qui vient l'interrompre se traduit obligatoirement par le passé composé (« a sonné »)."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - La Direction (Niveau C1)",
+    "document": "Vous êtes à une soirée chez des amis. Vous réalisez avec effroi que vous avez laissé vos clés d'appartement sur votre bureau au travail. Vous expliquez votre plan à votre hôte.",
+    "question": "« Je suis désolé, je dois _____ au bureau pour chercher mes clés. Ne m'attendez pas, je ne _____ pas à la soirée, je vais directement _____ chez moi après. »",
+    "options": {
+      "A": "rentrer / reviendrai / retourner",
+      "B": "retourner / reviendrai / rentrer",
+      "C": "revenir / retournerai / rentrer",
+      "D": "retourner / rentrerai / revenir"
+    },
+    "answer": "B",
+    "explanation": "Cette phrase exige une précision chirurgicale. « Retourner » : aller dans un lieu où l'on n'est plus (le bureau). « Revenir » : retourner au point de départ où l'on se trouve actuellement au moment où l'on parle (la soirée). « Rentrer » : retourner spécifiquement à son domicile (chez soi)."
+  },
+  {
+    "category": "Vocabulaire - Académique et Familier (Niveau B2+)",
+    "document": "Pendant la semaine de révisions (les partiels), la tension monte sur le campus. Deux étudiants échangent sur leurs méthodes de travail et leur niveau de préparation catastrophique.",
+    "question": "« Si tu continues à _____ les cours magistraux, tu vas devoir _____ toute la nuit avant l'examen pour espérer rattraper ton retard ! »",
+    "options": {
+      "A": "sécher / bûcher",
+      "B": "rater / pioncer",
+      "C": "assister à / tricher",
+      "D": "couper / bosser"
+    },
+    "answer": "A",
+    "explanation": "« Sécher un cours » (to skip/ditch a class) est l'expression étudiante par excellence. « Bûcher » signifie étudier très intensément, travailler dur (to cram/study hard). « Pioncer » est un mot d'argot signifiant dormir."
+  },
+  {
+    "category": "Temps - Durée - L'Achèvement vs Le Départ (Niveau B2)",
+    "document": "En milieu universitaire ou professionnel, il est crucial d'être précis sur les délais pour ne pas créer de malentendus avec les directeurs de thèse ou les chefs de projet.",
+    "question": "« L'ingénieur a réussi à réparer le serveur _____ deux heures. Il m'a assuré que le système serait de nouveau complètement opérationnel _____ dix minutes. »",
+    "options": {
+      "A": "pendant / pour",
+      "B": "en / dans",
+      "C": "dans / en",
+      "D": "depuis / d'ici"
+    },
+    "answer": "B",
+    "explanation": "« En » exprime la durée totale nécessaire pour accomplir et terminer une action (It took him 2 hours to fix it). « Dans » indique le moment futur où une action va se réaliser à partir de l'instant présent (It will be operational in 10 minutes)."
+  },
+  {
+    "category": "Sentiments - Sensations - Perception vs État d'âme (Niveau B2+)",
+    "document": "Lors d'un entretien d'évaluation, une jeune chercheuse exprime son mal-être général face à l'ambiance de son laboratoire et à l'attitude passive-agressive de son directeur de recherche.",
+    "question": "« Honnêtement, je _____ très mal à l'aise dans ce laboratoire. Je _____ bien qu'il y a des tensions cachées, mais personne n'ose rien dire. »",
+    "options": {
+      "A": "me sens / sens",
+      "B": "sens / me sens",
+      "C": "me ressens / ressens",
+      "D": "suis sentie / ressent"
+    },
+    "answer": "A",
+    "explanation": "« Se sentir » (+ adjectif/adverbe) exprime un état physique ou psychologique purement personnel (I feel uncomfortable = Je me sens mal à l'aise). « Sentir » (+ nom ou proposition 'que') exprime la perception d'une chose extérieure, que ce soit par un sens physique ou par l'intuition (I sense/feel that there are tensions = Je sens qu'il y a)."
+  },
+  {
+    "category": "Expressions Idiomatiques - et Déceptions (Niveau C1)",
+    "document": "Après des semaines de recherche de stage intenses, Thomas rentre à sa colocation, visiblement dépité. Il raconte sa journée désastreuse à ses amis dans le salon.",
+    "question": "« Le recruteur m'a _____ à notre rendez-vous de 14h. J'ai attendu une heure devant l'agence pour rien. Bref, aujourd'hui, j'ai _____. »",
+    "options": {
+      "A": "fait un faux bond / jeté l'éponge",
+      "B": "posé un lapin / fait chou blanc",
+      "C": "mis un râteau / cassé la croûte",
+      "D": "donné sa langue au chat / broyé du noir"
+    },
+    "answer": "B",
+    "explanation": "« Poser un lapin à quelqu'un » signifie ne pas venir à un rendez-vous sans prévenir l'autre personne (to stand someone up). « Faire chou blanc » signifie échouer complètement dans une recherche, une démarche ou une tentative (to draw a blank / to fail completely)."
+  },
+  {
+    "category": "Temps - Durée - Le \"Past Perfect Continuous\" (Niveau C1)",
+    "document": "Lors d'un entretien d'embauche, vous racontez la fin de votre expérience dans une startup qui a soudainement fait faillite en 2024.",
+    "question": "« Au moment de la fermeture de l'entreprise, j'y _____ responsable marketing _____ trois ans. C'était un choc total. »",
+    "options": {
+      "A": "ai été / pendant",
+      "B": "étais / pour",
+      "C": "étais / depuis",
+      "D": "avais été / il y a"
+    },
+    "answer": "C",
+    "explanation": "This targets a major English-to-French tense mapping trap. In English, you use the Past Perfect Continuous ('I had been working there for 3 years'). In French, to express an action that started in the past and was *still ongoing* at a specific past reference point (the bankruptcy), you must use the Imparfait + depuis (J'y étais depuis 3 ans)."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - Académique (Niveau B2)",
+    "document": "Vous êtes à la cafétéria avec votre groupe de travail. Vous avez besoin d'aller chercher vos livres à la bibliothèque universitaire (BU) et de rejoindre vos camarades dans la salle d'étude juste après.",
+    "question": "« Attendez-moi ici. Je dois _____ à la BU parce que j'y ai oublié mes manuels. Je vous les _____ dans la salle d'étude d'ici dix minutes. »",
+    "options": {
+      "A": "retourner / apporte",
+      "B": "revenir / amène",
+      "C": "rentrer / rapporte",
+      "D": "retourner / amène"
+    },
+    "answer": "A",
+    "explanation": "French movement verbs are surgical. You use 'retourner' because you are going back to a place where you currently are *not* (the BU). You use 'apporter' (to bring) because books are inanimate objects. You never 'amène' (lead/bring a person) a book."
+  },
+  {
+    "category": "Sentiments - Sensations - Concret vs Abstrait (Niveau B2+)",
+    "document": "Avant de soutenir votre thèse (thesis defense) devant le jury, vous décrivez votre état physique et psychologique à votre directeur de recherche.",
+    "question": "« Je vous avoue que j'_____ un trac immense. J'_____ à respirer normalement et, avec la tension accumulée, j'_____ au crâne depuis ce matin. »",
+    "options": {
+      "A": "ai / ai du mal / ai mal",
+      "B": "suis / ai de la difficulté / ai douleur",
+      "C": "fais / ai mal / ai du mal",
+      "D": "ai / ai mal / ai du mal"
+    },
+    "answer": "A",
+    "explanation": "Idiomatic feeling expressions: 'Avoir le trac' (to have stage fright). 'Avoir du mal à' + [infinitive] is the abstract psychological/physical difficulty (trouble breathing). 'Avoir mal à' + [body part] is the concrete physical pain (my head hurts)."
+  },
+  {
+    "category": "Compréhension - Idiomes Académiques (Niveau C1)",
+    "document": "Le professeur rend sa dissertation à un étudiant. Les annotations en rouge sont sévères : « Votre introduction est prometteuse, mais le développement s'effondre. Vous passez constamment du coq à l'âne dans la deuxième partie, ce qui rend votre démonstration totalement indigeste. De plus, votre conclusion frôle le hors-sujet. »",
+    "question": "Que reproche exactement le professeur à la méthode de rédaction de cet étudiant ?",
+    "options": {
+      "A": "L'étudiant a utilisé un vocabulaire beaucoup trop familier et animalier pour un devoir universitaire.",
+      "B": "L'étudiant a complètement ignoré la bibliographie et a copié des sources sans les citer.",
+      "C": "L'étudiant manque de cohérence logique et saute d'une idée à l'autre sans aucune transition.",
+      "D": "L'étudiant a fait une présentation beaucoup trop longue qui dépasse la limite de mots autorisée."
+    },
+    "answer": "C",
+    "explanation": "The idiom 'passer du coq à l'âne' (literally: jumping from the rooster to the donkey) means to change the subject abruptly without any logical transition or connection. 'Frôler le hors-sujet' means bordering on missing the point entirely."
+  },
+  {
+    "category": "Temps - Durée - Le Vocabulaire du Stage (Niveau B2)",
+    "document": "Vous discutez des modalités temporelles de votre future embauche avec le service des ressources humaines de l'entreprise.",
+    "question": "« Félicitations, nous vous prenons en stage _____ six mois. Il faudra nous renvoyer votre convention signée _____ la fin de la semaine, afin que votre poste soit prêt _____ quelques jours. »",
+    "options": {
+      "A": "pendant / jusqu'à / en",
+      "B": "pour / d'ici / dans",
+      "C": "en / pour / d'ici",
+      "D": "depuis / avant / pendant"
+    },
+    "answer": "B",
+    "explanation": "'Pour' indicates the intended future duration (for 6 months). 'D'ici' indicates a deadline or timeframe (by the end of the week). 'Dans' indicates when a future action will happen relative to now (in a few days)."
+  },
+  {
+    "category": "Compréhension - Idiomes de la Vie Quotidienne (Niveau C1)",
+    "document": "Deux colocataires internationaux discutent de leur recherche d'appartement à Paris. Le marché immobilier est saturé.\n« Trouver un garant avec un salaire de cadre supérieur, c'est chercher une aiguille dans une botte de foin. Et la moitié des agences nous mènent en bateau depuis des semaines avec des promesses de visites qui n'arrivent jamais. Franchement, je commence à saturer. »",
+    "question": "Que signifie l'expression « mener en bateau » dans cette discussion ?",
+    "options": {
+      "A": "Proposer des visites d'appartements situés trop loin du centre-ville, souvent près de la Seine.",
+      "B": "Tromper quelqu'un avec de fausses promesses et des mensonges pour gagner du temps.",
+      "C": "Aider de manière inefficace des locataires étrangers à comprendre les lois françaises.",
+      "D": "Facturer des frais d'agence excessifs sans fournir le service de recherche attendu."
+    },
+    "answer": "B",
+    "explanation": "The idiom 'mener quelqu'un en bateau' (literally: taking someone on a boat ride) means to string someone along, to deceive them with tall tales or false promises. 'Saturer' is a great B2+ colloquialism for 'being fed up'."
+  },
+  {
+    "category": "Sentiments - Intuition - Sentir vs Se Sentir (Niveau B2+)",
+    "document": "Lors d'une réunion de département, vous analysez le comportement étrange de la direction concernant le prochain plan social.",
+    "question": "« Je _____ bien que la direction nous cache des informations capitales sur la fusion. Quoi qu'il en soit, je _____ de plus en plus exclu des prises de décision stratégiques dans cette équipe. »",
+    "options": {
+      "A": "me sens / sens",
+      "B": "sens / sens",
+      "C": "me ressens / me sens",
+      "D": "sens / me sens"
+    },
+    "answer": "D",
+    "explanation": "You use 'sentir que' (to sense/perceive that) for an external intuition or observation about a situation (I sense that management is hiding things). You use 'se sentir' + [adjective/past participle] for your own internal, subjective emotional state (I feel excluded)."
+  },
+  {
+    "category": "Grammaire - Contexte - L'Action Continue et le Déclic (Niveau B2)",
+    "document": "Vous racontez à vos amis comment vous avez passé votre soirée de la veille, coincé(e) devant votre ordinateur pour rédiger un devoir complexe.",
+    "question": "« Je _____ sur ma dissertation d'histoire depuis trois heures quand, soudain, j'_____ un véritable trou de mémoire. Impossible de me rappeler la date de la Révolution française ! »",
+    "options": {
+      "A": "suis en train de plancher / avais eu",
+      "B": "planchais / ai eu",
+      "C": "ai planché / avais",
+      "D": "planchais / avais"
+    },
+    "answer": "B",
+    "explanation": "To translate 'I had been working hard when suddenly my mind went blank', French uses the Imparfait ('planchais' from the slang 'plancher sur' = to work hard on an exam/paper) to set the ongoing background action, interrupted by the Passé Composé ('ai eu') for the sudden event. 'Un trou de mémoire' means a memory lapse / mind goes blank."
+  },
+  {
+    "category": "Compréhension - Idiomes Administratifs (Niveau C1)",
+    "document": "Un étudiant envoie un e-mail désespéré à l'association des étudiants concernant le renouvellement de son titre de séjour.\n« Bien que j'aie envoyé mon dossier complet en recommandé le mois dernier, la préfecture continue de faire la sourde oreille. Par conséquent, ma réinscription universitaire est toujours bloquée, et j'ai peur de devoir repousser mon stage. »",
+    "question": "Que signifie la locution « faire la sourde oreille » de la part de la préfecture ?",
+    "options": {
+      "A": "Avoir perdu les documents de l'étudiant à cause d'une faille dans le système de numérisation.",
+      "B": "Souffrir d'un manque cruel de personnel à cause des grèves administratives récentes.",
+      "C": "Refuser de comprendre les lois européennes sur l'immigration étudiante.",
+      "D": "Ignorer volontairement les relances et refuser de répondre aux demandes de l'étudiant."
+    },
+    "answer": "D",
+    "explanation": "The idiom 'faire la sourde oreille' (to turn a deaf ear) means to deliberately ignore someone or pretend not to hear their requests. It is highly frequently used when complaining about French administrative bureaucracy."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - Quitter un Lieu (Niveau B2+)",
+    "document": "Vous déjeunez au restaurant avec des amis. Au moment de payer l'addition, vous vous rendez compte que vous avez laissé votre portefeuille dans votre bureau, situé à deux rues de là.",
+    "question": "« Zut, j'ai oublié ma carte bleue sur mon bureau. Je vais y _____ en vitesse. Commencez à boire le café sans moi, je _____ dans dix minutes maximum ! »",
+    "options": {
+      "A": "rentrer / retourne",
+      "B": "retourner / reviens",
+      "C": "revenir / rentre",
+      "D": "repartir / retourne"
+    },
+    "answer": "B",
+    "explanation": "You are currently at the restaurant. You must 'retourner' (go back) to the office (a place where you are not currently located). Then, you promise to 'revenir' (come back) to the restaurant (the current location of the speakers)."
+  },
+  {
+    "category": "Temps - Durée - Le \"Negative Present Perfect\" (Niveau B2+)",
+    "document": "Dans les couloirs du laboratoire de recherche, un doctorant s'inquiète de l'absence prolongée de son directeur de thèse, injoignable depuis le début du semestre.",
+    "question": "Comment le doctorant doit-il traduire 'I haven't seen my advisor for six months' ?",
+    "options": {
+      "A": "Je n'ai pas vu mon directeur de thèse pendant six mois.",
+      "B": "Je n'ai pas vu mon directeur de thèse pour six mois.",
+      "C": "Je n'ai pas vu mon directeur de thèse depuis six mois.",
+      "D": "Je ne voyais pas mon directeur de thèse depuis six mois."
+    },
+    "answer": "C",
+    "explanation": "C'est un piège majeur pour les anglophones. En anglais, on utilise 'for' avec une forme négative au present perfect. En français, lorsqu'une action négative (le fait de ne pas se voir) a commencé dans le passé et se poursuit au présent, on utilise obligatoirement le Passé Composé négatif + « depuis »."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - S'éloigner d'un lieu (Niveau C1)",
+    "document": "À la fin d'une réunion houleuse, vous décidez de démissionner de votre entreprise. Vous annoncez la nouvelle à votre collègue avant de sortir prendre l'air.",
+    "question": "« C'est décidé, je vais _____ cette entreprise à la fin du mois. En attendant, j'ai besoin de _____ de cette salle pour respirer un peu. »",
+    "options": {
+      "A": "partir / quitter",
+      "B": "quitter / sortir",
+      "C": "sortir / partir",
+      "D": "quitter / partir"
+    },
+    "answer": "B",
+    "explanation": "La nuance est stricte en français. « Quitter » est un verbe transitif direct : il doit être suivi d'un COD (quitter l'entreprise, quitter une personne). « Partir » est intransitif (partir de l'entreprise). « Sortir » s'utilise pour indiquer l'action physique de passer de l'intérieur à l'extérieur d'un espace clos (sortir de la salle)."
+  },
+  {
+    "category": "Sentiments - Idiomes - La Dépression (Niveau B2)",
+    "document": "Depuis qu'il a raté le concours d'entrée à Sciences Po, Julien ne sort plus de chez lui. Il refuse de voir ses amis, ne répond plus aux messages et passe ses journées dans l'obscurité de sa chambre.",
+    "question": "« Ne lui en veux pas s'il ne te rappelle pas. Depuis l'annonce des résultats, il _____. Il faut lui laisser le temps d'encaisser le choc. »",
+    "options": {
+      "A": "cherche midi à quatorze heures",
+      "B": "met les points sur les i",
+      "C": "broie du noir",
+      "D": "tombe dans les pommes"
+    },
+    "answer": "C",
+    "explanation": "« Broyer du noir » (littéralement : to grind black) est une expression idiomatique très courante qui signifie être profondément déprimé, avoir des pensées sombres et négatives. L'équivalent de 'feeling blue'."
+  },
+  {
+    "category": "Compréhension - Expressions de la Vie Sociale (Niveau C1)",
+    "document": "Le dîner de service se déroulait dans une ambiance détendue, jusqu'à ce que Thomas, le nouveau stagiaire, prenne la parole. Ignorant totalement les consignes de discrétion, il a soudainement interrogé le directeur sur les rumeurs de licenciements massifs prévus pour décembre. Un silence glacial s'est immédiatement abattu sur la table.",
+    "question": "Quel idiome décrit le mieux l'action commise par Thomas lors de ce dîner ?",
+    "options": {
+      "A": "Il a jeté l'éponge.",
+      "B": "Il a mis les pieds dans le plat.",
+      "C": "Il a raconté des salades.",
+      "D": "Il a tourné autour du pot."
+    },
+    "answer": "B",
+    "explanation": "« Mettre les pieds dans le plat » (to put one's feet in the dish) signifie aborder un sujet tabou, délicat ou gênant avec une maladresse totale, souvent sans s'en rendre compte, détruisant ainsi l'ambiance."
+  },
+  {
+    "category": "Temps - Durée - Échéance et Réalisation (Niveau B2+)",
+    "document": "Un professeur fixe les règles de rendu pour le mémoire de fin de semestre à ses étudiants de Master.",
+    "question": "« Je veux que ce dossier me soit remis _____ exactement deux semaines. Si vous vous concentrez et que vous travaillez en équipe, vous êtes tout à fait capables de l'écrire _____ trois jours. »",
+    "options": {
+      "A": "dans / en",
+      "B": "en / dans",
+      "C": "pour / pendant",
+      "D": "pendant / depuis"
+    },
+    "answer": "A",
+    "explanation": "« Dans » indique l'échéance future à partir du moment présent (In exactly two weeks = dans 2 semaines). « En » indique la quantité de temps nécessaire pour accomplir et terminer la tâche (It can be written in 3 days = en 3 jours)."
+  },
+  {
+    "category": "Sentiments - Abstraits - La Culpabilité vs La Rancune (Niveau C1)",
+    "document": "Lors d'un travail de groupe, votre partenaire a complètement abandonné le projet à la dernière minute. Face au professeur, vous avez été pénalisé(e). Vous exprimez vos sentiments complexes à votre meilleur ami.",
+    "question": "« Franchement, je _____ à Marc de m'avoir laissé tomber comme ça. Mais au fond, je _____ aussi de ne pas avoir été plus ferme avec lui dès le début du semestre. »",
+    "options": {
+      "A": "m'en veux / lui en veux",
+      "B": "lui en veux / m'en veux",
+      "C": "le regrette / me regrette",
+      "D": "lui suis coupable / me suis coupable"
+    },
+    "answer": "B",
+    "explanation": "Le verbe idiomatique « en vouloir à quelqu'un » signifie ressentir de la rancune, être fâché contre quelqu'un (I hold a grudge against him = Je lui en veux). À l'inverse, la forme pronominale « s'en vouloir » signifie se sentir coupable (I am mad at myself = Je m'en veux)."
+  },
+  {
+    "category": "Compréhension - Idiomes du Monde du Travail (Niveau C1)",
+    "document": "À la machine à café, Sophie et Laurent ne se privaient jamais de critiquer les méthodes de la nouvelle directrice. Ils pointaient ses erreurs de gestion et se moquaient de son style vestimentaire. Cependant, dès que celle-ci franchissait la porte de l'open space, ils se précipitaient pour la flatter honteusement.",
+    "question": "Que font Sophie et Laurent à la machine à café ?",
+    "options": {
+      "A": "Ils font profil bas.",
+      "B": "Ils tirent les ficelles.",
+      "C": "Ils cassent du sucre sur le dos de la directrice.",
+      "D": "Ils passent l'éponge sur ses erreurs."
+    },
+    "answer": "C",
+    "explanation": "« Casser du sucre sur le dos de quelqu'un » (literally: breaking sugar on someone's back) est l'expression parfaite pour 'to talk behind someone's back' ou 'to gossip maliciously'. Cela indique la médisance hypocrite en l'absence de la personne."
+  },
+  {
+    "category": "Temps - Durée - Le Futur Antérieur (Niveau C1)",
+    "document": "Le chef de service part en réunion et vous demande de finaliser une présentation très importante avant son retour à 16h00.",
+    "question": "Comment exprimeriez-vous 'By the time you return, I will have finished the slides' ?",
+    "options": {
+      "A": "D'ici à ce que vous reveniez, j'aurai terminé les diapositives.",
+      "B": "Jusqu'à ce que vous revenez, je finirai les diapositives.",
+      "C": "Quand vous allez revenir, j'avais terminé les diapositives.",
+      "D": "D'ici à ce que vous reviendrez, j'aurais terminé les diapositives."
+    },
+    "answer": "A",
+    "explanation": "Pour traduire 'By the time' (ou l'accomplissement d'une action avant une autre dans le futur), le français utilise « D'ici à ce que » (+ subjonctif 'reveniez') suivi obligatoirement du Futur Antérieur (auxiliaire au futur + participe passé : j'aurai terminé). C'est l'équivalent parfait du Future Perfect anglais."
+  },
+  {
+    "category": "Sentiments - Idiomes - La Surprise (Niveau B2+)",
+    "document": "Marion était persuadée d'avoir brillamment réussi son entretien annuel d'évaluation. Ses chiffres de vente étaient excellents et elle espérait une augmentation. Lorsque le DRH l'a convoquée pour lui annoncer son licenciement pour faute grave, elle est restée sans voix pendant de longues minutes.",
+    "question": "Quel idiome décrit le mieux la réaction de Marion face à cette annonce ?",
+    "options": {
+      "A": "Elle a pris ses jambes à son cou.",
+      "B": "Elle a jeté de l'huile sur le feu.",
+      "C": "Elle est tombée des nues.",
+      "D": "Elle a sauté du coq à l'âne."
+    },
+    "answer": "C",
+    "explanation": "« Tomber des nues » (littéralement : to fall from the clouds) signifie être extrêmement surpris, abasourdi ou stupéfait par une réalité ou une nouvelle inattendue que l'on n'avait pas du tout envisagée."
+  },
+  {
+    "category": "Nuances des Verbes de Mouvement - S'éloigner (Niveau C1)",
+    "document": "Vous êtes à Paris et vous préparez vos valises pour partir en vacances à New York avec votre petit frère. Vous faites une dernière vérification avec lui avant de quitter l'appartement pour aller à l'aéroport.",
+    "question": "« N'oublie pas d'_____ ton passeport avec toi ! Et dépêche-toi, le taxi nous attend en bas, il faut que je t'_____ à l'aéroport avant 15h. »",
+    "options": {
+      "A": "amener / apporte",
+      "B": "emporter / emmène",
+      "C": "apporter / amène",
+      "D": "emmener / emporte"
+    },
+    "answer": "B",
+    "explanation": "C'est la règle d'éloignement (to take away from the current location). Pour un objet inanimé (le passeport), on utilise « emporter » (to take away a thing). Pour un être humain (le petit frère), on utilise « emmener » (to take away a person). Amener/apporter s'utilisent pour un mouvement de rapprochement."
+  },
+  {
+    "category": "Compréhension - Négations Pronominables (Personne ne...) (Niveau C1)",
+    "document": "Pierre Brochant expliquait le concept à son ami avec un cynisme effarant. « Le principe est simple : chaque mercredi, chacun de nous amène un con. Celui qui a déniché le plus spectaculaire remporte la palme. Évidemment, personne ne se doute de la véritable nature de l'invitation. Ces malheureux s'imaginent qu'on s'intéresse à leurs passions, alors qu'en réalité, on ne fait que se moquer d'eux dans leur dos. »",
+    "question": "D'après les explications de Pierre, sur quoi repose la dynamique fondamentale de ces dîners ?",
+    "options": {
+      "A": "Sur la compétition sincère entre les invités pour présenter la meilleure passion.",
+      "B": "Sur l'ignorance totale des victimes quant à la cruauté du piège qui leur est tendu.",
+      "C": "Sur l'incapacité de quiconque à deviner qui gagnera le grand prix du soir.",
+      "D": "Sur la volonté de personne de ne jamais révéler l'identité des vainqueurs."
+    },
+    "answer": "B",
+    "explanation": "La structure négative « personne ne se doute » signifie « absolutely no one suspects ». L'idée centrale est l'asymétrie d'information : les invités sont totalement ignorants du fait qu'ils sont le divertissement cruel des bourgeois."
+  },
+  {
+    "category": "Grammaire - Contexte - Négation Quantitative (ne... ni... ni / ne... pas non plus) (Niveau B2)",
+    "document": "François Pignon, croyant bien faire, venait d'appeler l'ancien meilleur ami de Pierre. Il raccrocha et se tourna vers son hôte terrassé par son mal de dos. « Écoutez, monsieur Brochant, je sais que la situation est dramatique. Mais votre femme n'est ni chez Leblanc, ni chez l'autre homme dont vous m'avez parlé. Et pour couronner le tout, Leblanc ne veut pas non plus vous aider. »",
+    "question": "Face à la tentative de sauvetage de Pignon, Pierre réalise que :",
+    "options": {
+      "A": "Sa femme a réussi à trouver refuge chez une troisième personne inconnue.",
+      "B": "Toutes les pistes pour retrouver sa femme sont bloquées et ses amis le rejettent.",
+      "C": "Leblanc a secrètement accepté de cacher sa femme pour le faire souffrir.",
+      "D": "Pignon refuse catégoriquement de l'aider à appeler d'autres contacts."
+    },
+    "answer": "B",
+    "explanation": "La double négation « n'est ni chez X ni chez Y » exclut totalement les deux options. L'ajout de « ne veut pas non plus » (doesn't want to either) ajoute une couche de rejet. Pierre comprend que toutes ses options sont fermées."
+  },
+  {
+    "category": "Compréhension - Négation Pronominable (Rien ne...) (Niveau C1)",
+    "document": "Avant l'arrivée de Lucien Cheval, le redoutable contrôleur fiscal, la panique s'empara de l'appartement. Pierre Brochant devait dissimuler ses tableaux de maître et ses statues de valeur. « Rien ne doit traîner ! Rien ne doit éveiller ses soupçons ! » s'exclama-t-il, terrifié à l'idée d'un redressement financier. Pourtant, malgré cette anticipation paranoïaque, la présence candide de François allait suffire à faire s'effondrer ce château de cartes.",
+    "question": "Quel est l'enjeu principal de la scène précédant l'arrivée de l'inspecteur des impôts ?",
+    "options": {
+      "A": "Nettoyer l'appartement pour faire bonne impression devant un invité de marque.",
+      "B": "Cacher le fait que François Pignon est présent dans l'appartement ce soir-là.",
+      "C": "Effacer absolument toute preuve de richesse illégale pour éviter une sanction judiciaire.",
+      "D": "Vérifier que rien ne manque dans la collection d'art personnelle de Pierre."
+    },
+    "answer": "C",
+    "explanation": "La structure « Rien ne doit... » (Absolutely nothing must...) marque une interdiction totale. « Rien ne doit éveiller ses soupçons » montre l'urgence de dissimuler des preuves de fraude fiscale (redressement financier) aux yeux du contrôleur."
+  },
+  {
+    "category": "Grammaire - Contexte - Négation de Lieu (ne... nulle part) (Niveau B2+)",
+    "document": "Le téléphone raccrocha dans un silence de mort. François se tourna vers Pierre avec un air d'incompréhension totale. « Je ne comprends pas. Elle ne répond nulle part. Elle n'est allée chez aucun de ses amis habituels et n'a laissé aucune trace. » Pierre, foudroyé par la bêtise de son interlocuteur, murmura : « C'est parce que vous venez d'appeler la seule personne au monde à qui il ne fallait absolument rien dire... »",
+    "question": "Dans cette scène, le décalage comique repose principalement sur :",
+    "options": {
+      "A": "L'incapacité de la femme de Pierre à laisser un message clair.",
+      "B": "Le fait que François s'étonne de son échec alors qu'il a commis la pire des gaffes.",
+      "C": "L'absence totale de réseau téléphonique dans le quartier de Pierre.",
+      "D": "La volonté de Pierre de cacher la véritable identité de la personne appelée."
+    },
+    "answer": "B",
+    "explanation": "La négation absolue de lieu « ne... nulle part » (nowhere) souligne les efforts intenses mais inutiles de Pignon. Le décalage comique vient du fait qu'il s'étonne logiquement de son échec (« je ne comprends pas »), alors qu'il vient de détruire la vie de Pierre en appelant le pire ennemi possible."
+  },
+  {
+    "category": "Compréhension - Négation Littéraire (ne... guère) (Niveau C1)",
+    "document": "Lorsque Juste Leblanc arriva enfin dans l'appartement, il trouva un Pierre Brochant physiquement diminué et psychologiquement à bout. Bien qu'il eût accepté de se déplacer pour l'aider à retrouver Christine, Leblanc ne ressentait guère de compassion pour cet ancien ami qui lui avait jadis volé sa femme. Il observait la situation avec un détachement cynique, savourant silencieusement cette ironie du sort.",
+    "question": "L'emploi de la locution « ne ressentait guère de compassion » indique que Juste Leblanc :",
+    "options": {
+      "A": "Ressentait une immense pitié mais refusait de l'admettre publiquement.",
+      "B": "Était totalement incapable d'éprouver la moindre émotion humaine.",
+      "C": "Éprouvait très peu d'empathie face à la détresse de celui qui l'avait trahi.",
+      "D": "Ne regrettait absolument pas d'avoir volé la femme de son ami dans le passé."
+    },
+    "answer": "C",
+    "explanation": "La négation littéraire « ne... guère » signifie « très peu » ou « presque pas » (hardly / scarcely). Leblanc n'a donc presque aucune compassion (empathie) pour Pierre parce que Pierre l'a trahi dans le passé (lui a volé sa femme)."
+  },
+  {
+    "category": "Compréhension - Négation Littéraire (ne... point) et Hypocrisie (Niveau C1)",
+    "document": "François s'illumina lorsqu'on évoqua sa passion pour les maquettes. « J'ai reproduit le Golden Gate Bridge avec plus de trois cent mille allumettes. Beaucoup trouvent cela inutile, mais je n'en ai cure. Et vous, monsieur Brochant, vous ne vous en moquez point, n'est-ce pas ? » Pierre, affichant un sourire figé et transpirant l'hypocrisie de tous ses pores, hocha vigoureusement la tête pour maintenir l'illusion jusqu'au dîner.",
+    "question": "L'attitude de Pierre face à la question de François (« vous ne vous en moquez point ») démontre qu'il :",
+    "options": {
+      "A": "Admire sincèrement l'immense travail de précision accompli par son invité.",
+      "B": "Valide mensongèrement la supposition de François pour ne pas compromettre son piège.",
+      "C": "Est blessé que François puisse douter une seconde de son honnêteté intellectuelle.",
+      "D": "Refuse catégoriquement de répondre à une question formulée avec autant de familiarité."
+    },
+    "answer": "B",
+    "explanation": "La négation classique/soutenue « ne... point » est l'équivalent de « ne... pas du tout » (not at all). François lui demande s'il ne se moque pas de lui. En hochant la tête avec « un sourire figé et transpirant l'hypocrisie », Pierre lui ment pour garder son « con » pour le dîner."
+  },
+  {
+    "category": "Grammaire - Contexte - Négation de Personne (ne... personne) (Niveau B2)",
+    "document": "La situation devenait ubuesque. François, se faisant passer pour un producteur de cinéma belge au téléphone afin de soutirer des informations à Pascal Meneaux, s'emmêla complètement les pinceaux. « Allô ? Non, écoutez, je ne connais personne du nom de Brochant. Moi, je suis un ami de sa femme, une fois ! » En entendant cette improvisation désastreuse, Pierre faillit s'évanouir sur le tapis.",
+    "question": "Comment l'intervention téléphonique de François aggrave-t-elle la situation de Pierre ?",
+    "options": {
+      "A": "Il révèle ouvertement sa propre identité à l'interlocuteur belge.",
+      "B": "Il refuse de parler à quiconque se nommant Brochant.",
+      "C": "Il détruit sa couverture en se contredisant de manière totalement absurde.",
+      "D": "Il fait une crise cardiaque à cause de la pression du mensonge."
+    },
+    "answer": "C",
+    "explanation": "« Ne connaître personne » (To know no one). François est censé aider Pierre Brochant en appelant incognito, mais il panique et dit « je ne connais personne du nom de Brochant » (I don't know anyone named Brochant) suivi immédiatement de « je suis l'ami de sa femme ». Cette contradiction absurde (« s'emmêler les pinceaux ») ruine toute l'opération."
+  },
+  {
+    "category": "Compréhension - Négation Restrictive (ne... que) et Temporelle (ne... jamais) (Niveau C1)",
+    "document": "À l'issue de cette nuit cauchemardesque, le vernis de Pierre Brochant avait complètement volé en éclats. Il réalisait amèrement que son arrogance mondaine ne l'avait conduit qu'à sa propre perte. À l'inverse, François Pignon, malgré son insupportable maladresse, avait agi avec un dévouement que les prétendus amis bourgeois de Pierre ne montraient jamais. Le supposé « idiot » s'était révélé bien plus humain que celui qui croyait s'en amuser.",
+    "question": "Quelle conclusion morale se dégage de cette confrontation entre Brochant et Pignon ?",
+    "options": {
+      "A": "La maladresse de François a définitivement prouvé qu'il ne méritait aucune amitié.",
+      "B": "L'arrogance de Pierre l'a protégé des véritables dangers de la société bourgeoise.",
+      "C": "La sincérité et l'humanité se trouvent parfois chez ceux que l'on méprise le plus.",
+      "D": "Il ne faut jamais inviter d'inconnus chez soi, peu importe les circonstances."
+    },
+    "answer": "C",
+    "explanation": "La restriction « ne l'avait conduit qu'à sa propre perte » (had led him *only* to his own ruin) et la négation temporelle « ne montraient jamais » (never showed) soulignent l'ironie morale du film : le « con » (l'idiot méprisé) a plus de cœur et d'humanité que le riche snob."
+  },
+  {
+    "category": "Grammaire - Contexte - Double Négation (Personne ne... rien...) (Niveau C1)",
+    "document": "Lucien Cheval inspectait l'appartement avec un regard d'aigle. Pierre l'observait, la peur au ventre, priant pour que Pignon se taise. « Rassurez-vous, personne ne saura rien de vos petites affaires, » lâcha soudain François avec son innocence habituelle, pointant du doigt l'endroit exact où Pierre avait hâtivement caché ses objets de valeur. Le visage de l'inspecteur des impôts s'éclaira instantanément d'un sourire carnassier.",
+    "question": "L'intervention de François Pignon (« personne ne saura rien ») produit un effet :",
+    "options": {
+      "A": "Apaisant, car elle rassure l'inspecteur sur l'honnêteté fiscale de Pierre.",
+      "B": "Catastrophique, car elle attire paradoxalement l'attention sur ce qui était caché.",
+      "C": "Neutre, car l'inspecteur avait déjà trouvé les objets de valeur auparavant.",
+      "D": "Incompréhensible, car l'inspecteur ne parle pas la même langue que François."
+    },
+    "answer": "B",
+    "explanation": "L'usage simultané de deux termes négatifs « personne ne » (no one) et « rien » (nothing) vise à insister sur le secret. Cependant, en disant cela *devant* le contrôleur fiscal tout en pointant la cachette, François commet une gaffe monumentale qui a l'effet inverse de celui désiré."
+  },
+  {
+    "category": "Compréhension - Négations Multiples et Chute Tragicomique (Niveau C1)",
+    "document": "Pensant avoir enfin résolu le drame, François prit une dernière fois le téléphone pour rassurer la femme de Pierre. « Il faut lui pardonner ! Il ne voit plus personne, il ne fréquente plus son amante, et il n'a d'ailleurs jamais cessé de vous aimer ! » Hélas, Christine, qui ignorait totalement l'existence de cette liaison extraconjugale jusqu'à cette seconde précise, raccrocha définitivement. Pierre, terrassé, comprit que sa vie venait de basculer.",
+    "question": "Pourquoi l'appel final de François Pignon scelle-t-il le désastre absolu pour Pierre ?",
+    "options": {
+      "A": "Parce qu'il a oublié de mentionner que Pierre l'aimait toujours profondément.",
+      "B": "Parce qu'en voulant excuser les fautes de Pierre, il révèle un secret destructeur.",
+      "C": "Parce qu'il a appelé la mauvaise personne et a laissé un message sur un répondeur.",
+      "D": "Parce que sa conjugaison des verbes négatifs était grammaticalement incorrecte."
+    },
+    "answer": "B",
+    "explanation": "Les multiples négations (« ne voit plus personne », « ne fréquente plus », « n'a jamais cessé ») sont utilisées par François pour rassurer la femme de Pierre en prouvant qu'il a rompu avec son amante. L'ironie tragique (la chute) vient du fait que la femme n'était pas au courant de l'amante. En voulant l'aider, François vient d'avouer l'adultère de Pierre."
+  }
+]
